@@ -1,0 +1,473 @@
+[
+ {
+  "gruppo": "docente di religione (IRC)",
+  "bandi": 2,
+  "posti": 207,
+  "esempi": [
+   {
+    "id": "4cdee6ac25c54aae8936439e0d0dd736",
+    "profilo": null,
+    "titolo": "D.M. 103/2024 concorso ordinario IRC infanzia e primaria",
+    "figura": "docente IRC",
+    "ente": "Ministero dell'Istruzione - Ufficio Scolastico Regionale per l'Emilia Romagna",
+    "posti": 108,
+    "scade": "2027-06-25",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4cdee6ac25c54aae8936439e0d0dd736"
+   },
+   {
+    "id": "3db7107e48054b93bf1c58669f2d67d6",
+    "profilo": null,
+    "titolo": "D.M. 104/2024 concorso ordinario IRC secondaria di I e II grado",
+    "figura": "docente IRC",
+    "ente": "Ministero dell'Istruzione - Ufficio Scolastico Regionale per l'Emilia Romagna",
+    "posti": 99,
+    "scade": "2027-06-25",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3db7107e48054b93bf1c58669f2d67d6"
+   }
+  ]
+ },
+ {
+  "gruppo": "docente universitario/AFAM",
+  "bandi": 64,
+  "posti": 74,
+  "esempi": [
+   {
+    "id": "3b392c281e164cfaa6edecb0bfd41e8d",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027",
+    "figura": "Docente di prima fascia",
+    "ente": "Istituto Superiore di Studi Musicali Giulio Briccialdi",
+    "posti": 1,
+    "scade": "2026-11-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b392c281e164cfaa6edecb0bfd41e8d"
+   },
+   {
+    "id": "67d09e7e75f8477fa83447451b562bdb",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027",
+    "figura": "Docente di prima fascia",
+    "ente": "Istituto Superiore di Studi Musicali Giulio Briccialdi",
+    "posti": 1,
+    "scade": "2026-11-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67d09e7e75f8477fa83447451b562bdb"
+   },
+   {
+    "id": "9a1f3e17e85346a495a87753666e609c",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027",
+    "figura": "Docente di prima fascia",
+    "ente": "Istituto Superiore di Studi Musicali Giulio Briccialdi",
+    "posti": 1,
+    "scade": "2026-11-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9a1f3e17e85346a495a87753666e609c"
+   },
+   {
+    "id": "4d43db0428bc4c92a81e3b35b6851491",
+    "profilo": null,
+    "titolo": "Selezione pubblica, per titoli ed esami, per il reclutamento di n. 1 unità di Collaboratore ed Esperto Linguistico di madrelingua italiana a tempo determinato per le esigenze del Centro Linguistico di Ateneo dell’Università degli Studi di Perugia. Cod.: CEL–T.D.–2026-06",
+    "figura": "Collaboratore Esperto Linguistico",
+    "ente": "Universita' degli Studi di Perugia",
+    "posti": 1,
+    "scade": "2026-11-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4d43db0428bc4c92a81e3b35b6851491"
+   },
+   {
+    "id": "3a3b77e6f1d445cc8bea5c4d9690c436",
+    "profilo": null,
+    "titolo": "Bando di concorso per il reclutamento a Tempo Indeterminato di Docenti di prima fascia, tempo pieno AFAM045 COMPOSIZIONE MUSICALE ELETTROACUSTICA E MULTIMEDIALE - A.A. 2026/2027",
+    "figura": "Docente",
+    "ente": "Conservatorio di Musica G. B. Martini di Bologna",
+    "posti": 1,
+    "scade": "2026-11-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3a3b77e6f1d445cc8bea5c4d9690c436"
+   }
+  ]
+ },
+ {
+  "gruppo": "ricercatore / borsista / incarichi di ricerca",
+  "bandi": 18,
+  "posti": 24,
+  "esempi": [
+   {
+    "id": "6f2fc3502d854c4da8c3dc477f709e8e",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per titoli ed esami, ai fini del reclutamento di un \"Ricercatore\", terzo Livello Professionale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di un anno, Cod: 2026INAFRIC-IAP-105042909-029",
+    "figura": "Ricercatore",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-10-25",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6f2fc3502d854c4da8c3dc477f709e8e"
+   },
+   {
+    "id": "bfa423ff0a1044d580d65a93d98c1903",
+    "profilo": null,
+    "titolo": "7/2026 - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO A TEMPO PIENO E DETERMINATO DI UNA UNITÀ DI PERSONALE, PROFILO RICERCATORE, III LIVELLO PROFESSIONALE, CON COMPETENZE IN MICROBIOLOGIA APPLICATA, BIOTECNOLOGIE MICROBICHE MARINE E BIOPROSPEZIONE DI BATTERI MARINI NELL’AMBI",
+    "figura": "Ricercatore - III livello professionale",
+    "ente": "Stazione Zoologica",
+    "posti": 1,
+    "scade": "2026-10-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfa423ff0a1044d580d65a93d98c1903"
+   },
+   {
+    "id": "8508b2e840974d8aa0cd688bd76c176d",
+    "profilo": null,
+    "titolo": "UNITE-Avviso di ricognizione interna e contestuale avvio di selezione pubblica, per titoli, prova scritta e colloquio, per un incarico di collaborazione coordinata e continuativa, della durata di n. 1 anno, eventualmente prorogabili di ulteriore n. 1 anno, finalizzato al supporto delle attività di T",
+    "figura": "Incarico di collaborazione",
+    "ente": "Universita' degli Studi di Teramo",
+    "posti": 1,
+    "scade": "2026-11-03",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8508b2e840974d8aa0cd688bd76c176d"
+   },
+   {
+    "id": "7c14d62a78094603ad2f06bb483d08b2",
+    "profilo": null,
+    "titolo": "Concorso pubblico per titoli ed esame, riservato agli appartenenti alle categorie protette di cui all’articolo 1 della L.68/99per il ripristino della quota d’obbligo, per il reclutamento di un \"Ricercatore\" III Liv. , tempo pieno e indeterminato Cod: 2026INAFRIC-OCA-Legge68art1-004",
+    "figura": "Ricercatore III liv",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-11-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c14d62a78094603ad2f06bb483d08b2"
+   },
+   {
+    "id": "aa2b122fc7de4f7f88531ba15920df3c",
+    "profilo": null,
+    "titolo": "BANCA D'ITALIA - 4 BORSE DI RICERCA PER ECONOMISTE ED ECONOMISTI",
+    "figura": "Borsista",
+    "ente": "Banca D'Italia",
+    "posti": 4,
+    "scade": "2026-11-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aa2b122fc7de4f7f88531ba15920df3c"
+   }
+  ]
+ },
+ {
+  "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
+  "bandi": 6,
+  "posti": 12,
+  "esempi": [
+   {
+    "id": "8484987128f7498fae6a9f15309c35f5",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI 1 POSTO DI DIRIGENTE SANITARIO FISICO A TEMPO PIENO E INDETERMINATO DA ASSEGNARE ALLA DIREZIONE TECNICA CONTROLLI E PREVENZIONE RISCHIO ANTROPICO – U.O. EMISSIONI DI ARPA LOMBARDIA",
+    "figura": "DIRIGENTE SANITARIO - FISICO",
+    "ente": "Agenzia Regionale per la Protezione dell'Ambiente della Lombardia",
+    "posti": 1,
+    "scade": "2026-11-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8484987128f7498fae6a9f15309c35f5"
+   },
+   {
+    "id": "3eebda29fd064a74a88f98ca2980e108",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI PER 1 POSTO DI DIRIGENTE SANITARIO - FISICO - CCNL AREA SANITÀ 2022-2024 A TEMPO PIENO E INDETERMINATO DA ASSEGNARE ALLA DIREZIONE TECNICA MONITORAGGIO E PREVENZIONE DEL RISCHIO NATURALE DI ARPA",
+    "figura": "DIRIGENTE SANITARIO - FISICO",
+    "ente": "Agenzia Regionale per la Protezione dell'Ambiente della Lombardia",
+    "posti": 1,
+    "scade": "2026-11-06",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3eebda29fd064a74a88f98ca2980e108"
+   },
+   {
+    "id": "b7f2e9db8c6f4384a3cc6a261573d364",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per titoli ed esami, per la copertura di n. 2 posti di Dirigente PSICOLOGO disciplina Psicoterapia da assegnare presso la S.C. Ser.D. secondo quanto previsto dall’art. 1 comma 268 della legge n. 207 del 30.12.2024.",
+    "figura": "DIRIGENTE PSICOLOGO",
+    "ente": "Azienda Sanitaria Locale AL di Alessandria",
+    "posti": 2,
+    "scade": "2026-10-29",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b7f2e9db8c6f4384a3cc6a261573d364"
+   },
+   {
+    "id": "3e416d4d42ba4b3eacd3bd069784426d",
+    "profilo": null,
+    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026N27, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 persona nell’Area dei Collaboratori, Settore Tecnico, scientifico, tecnologico, informatico e dei servizi generali, presso l’Università degli Studi di Padova",
+    "figura": "Tecnico di laboratorio per l’assistenza ai servizi logistici e operativi generali dell’Ospedale Veterinario Universitario didattico (OVUD)",
+    "ente": "Universita' degli Studi di Padova",
+    "posti": 1,
+    "scade": "2026-10-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e416d4d42ba4b3eacd3bd069784426d"
+   },
+   {
+    "id": "0c04a12b365c471aac7f8ebe4a6fece2",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ORTOTTISTA - AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI - RUOLO SANITARIO.",
+    "figura": "ORTOTTISTA",
+    "ente": "Azienda Socio Sanitaria Territoriale Melegnano e della Martesana",
+    "posti": 1,
+    "scade": "2026-10-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0c04a12b365c471aac7f8ebe4a6fece2"
+   }
+  ]
+ },
+ {
+  "gruppo": "dirigente tecnico / altri dirigenti",
+  "bandi": 6,
+  "posti": 9,
+  "esempi": [
+   {
+    "id": "2fc90c96a53948be8d1e82c6eb870155",
+    "profilo": null,
+    "titolo": "Avviso pubblico, per titoli ed esami, per l’assunzione di n. 4 unità di personale con contratto di lavoro subordinato a tempo indeterminato e a tempo pieno con qualifica dirigenziale presso la Regione Molise con riserva del 50 per cento dei posti (pari a n. 2 unità) da destinare al personale interno",
+    "figura": "dirigente",
+    "ente": "Regione Molise",
+    "posti": 4,
+    "scade": "2026-11-11",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2fc90c96a53948be8d1e82c6eb870155"
+   },
+   {
+    "id": "7535cc2816df4966a633d606c5653961",
+    "profilo": null,
+    "titolo": "Concorso Pubblico, per Titoli ed Esami, per l’Assunzione di N. 1 Dirigente a Tempo Indeterminato Presso la Gestione Governativa Ferrovia Circumetnea per il Conferimento dell’Incarico di Dirigente Investimenti – Codice Concorso Portale del Reclutamento INPA: fc_087_024 – Scadenza 11/11/2026",
+    "figura": "DIRIGENTE INVESTIMENTI",
+    "ente": "Ferrovia Circumetnea",
+    "posti": 1,
+    "scade": "2026-11-11",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7535cc2816df4966a633d606c5653961"
+   },
+   {
+    "id": "091bcc301e054ecea3f19e39460b02c1",
+    "profilo": null,
+    "titolo": "Concorso Pubblico, per Titoli ed Esami, per l’assunzione di N. 1 Dirigente a Tempo Indeterminato Presso la Gestione Governativa Ferrovia Circumetnea per il Conferimento dell’Incarico Direttore di Esercizio – Codice Concorso Portale del Reclutamento INPA: fc_087_025 – Scadenza 11/11/2026",
+    "figura": "DIRETTORE ESERCIZIO",
+    "ente": "Ferrovia Circumetnea",
+    "posti": 1,
+    "scade": "2026-11-11",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=091bcc301e054ecea3f19e39460b02c1"
+   },
+   {
+    "id": "45457c7099994c3fb4cf4a947aca83d0",
+    "profilo": null,
+    "titolo": "Concorso pubblico per titoli ed esami per la copertura, con contratto di lavoro a tempo pieno e indeterminato, di n. 1 posto di Dirigente del Servizio Sviluppo Strategico della Città e Manutenzione",
+    "figura": "Dirigente",
+    "ente": "Comune di Arezzo",
+    "posti": 1,
+    "scade": "2026-10-27",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=45457c7099994c3fb4cf4a947aca83d0"
+   },
+   {
+    "id": "0b6cce4bf86146a881853f6b4c4491b8",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE DELL’AREA DELLE ELEVATE QUALIFICAZIONI – SETTORE PROFESSIONALE ARCHIVISTICO/BIBLIOTECARIO – PROFILO DI DIRETTORE DI BIBLIOTECA E ARCHIVIO, CCNL COMPARTO ISTRUZIONE E RICERCA – SEZIONE AFAM, A TEMPO PIENO E INDETER",
+    "figura": "Direttore di Biblioteca e Archivio",
+    "ente": "Accademia di Belle Arti di Lecce",
+    "posti": 1,
+    "scade": "2026-10-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0b6cce4bf86146a881853f6b4c4491b8"
+   }
+  ]
+ },
+ {
+  "gruppo": "tecnologo universitario / progetto di ricerca",
+  "bandi": 5,
+  "posti": 7,
+  "esempi": [
+   {
+    "id": "f3024f2207db4c0e90f7fd2b3fbdaffc",
+    "profilo": null,
+    "titolo": "SELEZIONE PUBBLICA PER N. 1 TECNOLOGO DI II LIV.,TEMPO DET. 18 MESI,PROGETTO \"PIMIQ\"-DIP. SCIENZE MATEMATICHE, FISICHE E INFORMATICHE-UNIV. PARMA",
+    "figura": "Tecnologo di II livello",
+    "ente": "Universita' degli Studi di Parma",
+    "posti": 1,
+    "scade": "2026-11-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3024f2207db4c0e90f7fd2b3fbdaffc"
+   },
+   {
+    "id": "f718fc645bd84f878a85bd3692b73726",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per 1 Tecnologo (D3), a tempo determinato, durata 30 mesi, a tempo pieno, per Laboratorio “IoTLab” del Politecnico di Milano",
+    "figura": "Tecnologo (D3) per progetto Laboratorio “IoTLab”- Politecnico di Milano",
+    "ente": "Politecnico di Milano",
+    "posti": 1,
+    "scade": "2026-11-06",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f718fc645bd84f878a85bd3692b73726"
+   },
+   {
+    "id": "85072f28e0564792bfac7ba984aca7d9",
+    "profilo": null,
+    "titolo": "SELEZIONE PUBBLICA PER N. 1 TECNOLOGO DI II LIV.,TEMPO DET. 18 MESI,PROGETTO HORIZON EUROPE, AMBITO TUTTI I PANEL ERC-AREA RICERCA E VALORIZZAZIONE-UNIV. PARMA",
+    "figura": "Tecnologo di II livello",
+    "ente": "Universita' degli Studi di Parma",
+    "posti": 1,
+    "scade": "2026-10-26",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85072f28e0564792bfac7ba984aca7d9"
+   },
+   {
+    "id": "2a1a1dbb8f814fefa584da464485e50c",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per 1 Tecnologo (EP3) presso Dipartimento di Energia",
+    "figura": "Tecnologo per attività di laboratorio e supporto alla gestione di progetti di ricerca",
+    "ente": "Politecnico di Milano",
+    "posti": 1,
+    "scade": "2026-11-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2a1a1dbb8f814fefa584da464485e50c"
+   },
+   {
+    "id": "ac3529d600704531a3f0fee69c33a34b",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per 3 Tecnologi presso la Cleanroom di Polifab _ Politecnico di Milano",
+    "figura": "Tecnologo presso la Cleanroom di Polifab_Politecnico di Milano",
+    "ente": "Politecnico di Milano",
+    "posti": 3,
+    "scade": "2026-10-22",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac3529d600704531a3f0fee69c33a34b"
+   }
+  ]
+ },
+ {
+  "gruppo": "consigliere Consob (diritto/economia finanziaria)",
+  "bandi": 1,
+  "posti": 6,
+  "esempi": [
+   {
+    "id": "10eecc052b3149febb4ba801bc7f07d1",
+    "profilo": null,
+    "titolo": "Concorso pubblico per l’assunzione di  6 Consiglieri con conoscenza ed esperienza in diritto o economia dei mercati e degli intermediari finanziari",
+    "figura": "Consigliere",
+    "ente": "Commissione Nazionale per Le Societa' e La Borsa",
+    "posti": 6,
+    "scade": "2026-10-19",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=10eecc052b3149febb4ba801bc7f07d1"
+   }
+  ]
+ },
+ {
+  "gruppo": "cuoco / conducente / animatore",
+  "bandi": 4,
+  "posti": 5,
+  "esempi": [
+   {
+    "id": "58bec4b733da4e7e940f8d89564db08a",
+    "profilo": null,
+    "titolo": "Bando di Concorso pubblico, per soli esami, per l’assunzione a tempo pieno ed indeterminato, di n. 1 figura professionale di Cuoco, Area degli Operatori esperti (ex cat. B), CCNL 16.11.2022 comparto Funzioni Locali.",
+    "figura": "Cuoco",
+    "ente": "Azienda Servizi alla Persona Opera Pia Antonio Gatti",
+    "posti": 1,
+    "scade": "2026-10-26",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=58bec4b733da4e7e940f8d89564db08a"
+   },
+   {
+    "id": "dbda69386e1146fd9c5c5ba387af229a",
+    "profilo": null,
+    "titolo": "INDIZIONE PROCEDURA SELETTIVA PUBBLICA PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO NELL’AREA DEGLI OPERATORI (EX CAT. B1), FIGURA PROFESSIONALE CUOCO, MEDIANTE ASSUNZIONE A TEMPO DETERMINATO E PARZIALE PER 36 MESI – 65% RISERVATA A IMPRENDITORI AGRICOLI AI SENSI DELLA LEGGE 31 GENNAIO 1994, N. 97,",
+    "figura": "cuoco",
+    "ente": "Comune di Cravanzana",
+    "posti": 1,
+    "scade": "2026-11-08",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dbda69386e1146fd9c5c5ba387af229a"
+   },
+   {
+    "id": "1bb7f1f6dc7b48cd8cf80375a79eaf61",
+    "profilo": null,
+    "titolo": "PUBBLICO CONCORSO, PER SOLI ESAMI, PER LA COPERTURA DI N.2 POSTI A TEMPO PIENO ED INDETERMINATO NEL PROFILO PROFESSIONALE DI “ANIMATORE SOCIALE” AREA DEGLI ISTRUTTORI COMPARTO FUNZIONI LOCALI DA ASSEGNARE, AD INSINDACABILE DECISIONE DELL’AZIENDA, ALLE SEDI DEI SERVIZI ACCREDITATI PER ANZIANI DELL’AS",
+    "figura": "Animatore Sociale",
+    "ente": "Azienda Pubblica di Servizi alla Persona Distretto di Fidenza",
+    "posti": 2,
+    "scade": "2026-11-06",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1bb7f1f6dc7b48cd8cf80375a79eaf61"
+   },
+   {
+    "id": "122ec07b1b46403f8c860c2773f7ba04",
+    "profilo": null,
+    "titolo": "COMUNE DI FOLIGNO - CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO – PROFILO PROFESSIONALE \"CUOCO\" – AREA DEGLI OPERATORI ESPERTI – DA ASSEGNARE ALL'AREA SERVIZI SOCIALI E SCOLASTICI",
+    "figura": "Cuoco",
+    "ente": "Comune di Foligno",
+    "posti": 1,
+    "scade": "2026-11-05",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=122ec07b1b46403f8c860c2773f7ba04"
+   }
+  ]
+ },
+ {
+  "gruppo": "addetto sorveglianza portuale",
+  "bandi": 1,
+  "posti": 4,
+  "esempi": [
+   {
+    "id": "f19be88d0c6a49978a70b9a48b7c5807",
+    "profilo": null,
+    "titolo": "AVVISO PUBBLICO PER TITOLI ED ESAMI PER N. 4 POSIZIONI DI 2° LIVELLO A TEMPO DETERMINATO 36 MESI (CCNL PORTI) DI ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE DA ASSEGNARE ALLA DIREZIONE ATTIVITÀ E LAVORO PORTUALI DELL’AUTORITA’ DI SISTEMA PORTUALE DEL MARE ADRIATICO OR",
+    "figura": "ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE",
+    "ente": "Autorita' di Sistema Portuale del Mar Adriatico Orientale",
+    "posti": 4,
+    "scade": "2026-11-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f19be88d0c6a49978a70b9a48b7c5807"
+   }
+  ]
+ },
+ {
+  "gruppo": "responsabile / posizione organizzativa",
+  "bandi": 2,
+  "posti": 2,
+  "esempi": [
+   {
+    "id": "bfe78b6d4c344cb18d56192dfebd92de",
+    "profilo": null,
+    "titolo": "AMBITO BRESCIA OVEST - AVVISO DI SELEZIONE PUBBLICA PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI RESPONSABILE AREA MINORI E FAMIGLIA - CAT. FUNZIONARIO ELEVATA QUALIFICAZIONE - A TEMPO PIENO E INDETERMINATO",
+    "figura": "Responsabile Area Minori e Famiglia",
+    "ente": "AZIENDA SPECIALE CONSORTILE OVEST SOLIDALE ",
+    "posti": 1,
+    "scade": "2026-11-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfe78b6d4c344cb18d56192dfebd92de"
+   },
+   {
+    "id": "4bdc1afe7c7b4a1ca254dcc0369e3de4",
+    "profilo": null,
+    "titolo": "ISTITUTO LUIGI CONFIGLIACHI PER I MINORATI DELLA VISTA - AVVISO DI SELEZIONE PUBBLICA PER TITOLI ED ESAMI PER LA FORMAZIONE DI UN ELENCO DI CANDIDATI IDONEI PER IL CONFERIMENTO DI N. 1 INCARICO, A TEMPO PIENO E DETERMINATO, DI \"ISTRUTTORE DIRETTIVO - RESPONSABILE AREA SOCIO ASSISTENZIALE\", AREA DEI ",
+    "figura": "Istruttore Direttivo - Responsabile Area Socio Assistenziale IPAB",
+    "ente": "Istituto Luigi Configliachi per I Minorati della Vista",
+    "posti": 1,
+    "scade": "2026-10-24",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4bdc1afe7c7b4a1ca254dcc0369e3de4"
+   }
+  ]
+ },
+ {
+  "gruppo": "dirigente avvocato",
+  "bandi": 1,
+  "posti": 1,
+  "esempi": [
+   {
+    "id": "55fe5087bb3244c186d8595eda47eda5",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI UN POSTO A TEMPO INDETERMINATO DI \"DIRIGENTE AVVOCATO”",
+    "figura": "Dirigente Avvocato",
+    "ente": "Comune di Battipaglia",
+    "posti": 1,
+    "scade": "2026-10-23",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=55fe5087bb3244c186d8595eda47eda5"
+   }
+  ]
+ },
+ {
+  "gruppo": "docente (altro)",
+  "bandi": 1,
+  "posti": 1,
+  "esempi": [
+   {
+    "id": "2115ed9b7c3f4620afc6cfb22a2f6781",
+    "profilo": null,
+    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+    "figura": "FUNZIONARIO INSEGNANTE",
+    "ente": "Comune di Catanzaro",
+    "posti": 1,
+    "scade": "2026-11-06",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781"
+   }
+  ]
+ },
+ {
+  "gruppo": "funzionario specialistico (altro)",
+  "bandi": 1,
+  "posti": 1,
+  "esempi": [
+   {
+    "id": "dc7a21315e25426a9395dbb86371fa74",
+    "profilo": null,
+    "titolo": "POLIS-LOMBARDIA – SELEZIONE PUBBLICA, PER TITOLI ED ESAMI, PER L’ASSUNZIONE A TEMPO PIENO, MEDIANTE CONTRATTO DI APPRENDISTATO DELLA DURATA DI 36 MESI, DI N. 1 UNITÀ NELL’AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE – PROFILO SPECIALISTA PER LA RICERCA E L’ANALISI DEI DATI E DELLE POLITICHE PUB",
+    "figura": "Funzionario specialista per la ricerca e l'analisi dei dati e delle politiche pubbliche",
+    "ente": "PoliS-Lombardia - Istituto regionale per il supporto alle politiche della Lombardia",
+    "posti": 1,
+    "scade": "2026-10-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dc7a21315e25426a9395dbb86371fa74"
+   }
+  ]
+ }
+]
