@@ -1,0 +1,224 @@
+{
+ "_come": "Per ogni profilo: 'ente' e 'titolo' sono espressioni regolari (senza maiuscole) cercate nell'ente e in titolo+figura del bando inPA. Servono entrambe quando ci sono.",
+ "ripam": {
+  "titolo": "ripam|formez",
+  "e_titolo": "assistent"
+ },
+ "ripam-funzionari-amministrativi": {
+  "titolo": "ripam|formez",
+  "e_titolo": "funzionar"
+ },
+ "ripam-coesione-specialisti-tecnici": {
+  "titolo": "coesione",
+  "e_titolo": "funzionar|specialist|tecnic",
+  "ente": "formez|agenzia per la coesione|ministero|dipartimento|presidenza del consiglio"
+ },
+ "ministero-della-cultura-assistenti": {
+  "ente": "ministero della cultura|beni e (delle )?attivit",
+  "titolo": "assistent"
+ },
+ "ministero-della-cultura-funzionari": {
+  "ente": "ministero della cultura|beni e (delle )?attivit",
+  "titolo": "funzionar"
+ },
+ "ministero-della-difesa-assistenti": {
+  "ente": "ministero della difesa",
+  "titolo": "assistent"
+ },
+ "ministero-dell-interno-funzionari": {
+  "ente": "ministero dell.interno",
+  "titolo": "funzionar"
+ },
+ "ministero-delle-infrastrutture-funzionari": {
+  "ente": "infrastrutture e (dei )?trasporti",
+  "titolo": "funzionar"
+ },
+ "ministero-dell-ambiente-funzionari": {
+  "ente": "ambiente e (della )?sicurezza energetica|ministero dell.ambiente",
+  "titolo": "funzionar"
+ },
+ "ministero-del-lavoro-ispettori": {
+  "titolo": "ispettor.{0,40}lavoro|ispettorato nazionale del lavoro"
+ },
+ "inps-funzionari-amministrativi": {
+  "ente": "\\binps\\b|istituto nazionale della previdenza",
+  "titolo": "funzionar"
+ },
+ "inps-dirigenti": {
+  "ente": "\\binps\\b|istituto nazionale della previdenza",
+  "titolo": "dirigent"
+ },
+ "inail-funzionari": {
+  "ente": "\\binail\\b",
+  "titolo": "funzionar",
+  "e_titolo": "amministrativ"
+ },
+ "istat-funzionari": {
+  "ente": "\\bistat\\b|istituto nazionale di statistica",
+  "titolo": "funzionar|ricercator|tecnolog"
+ },
+ "maeci-funzionari": {
+  "ente": "affari esteri|maeci",
+  "titolo": "funzionar|segretari di legazione"
+ },
+ "corte-dei-conti-funzionari": {
+  "ente": "corte dei conti",
+  "titolo": "funzionar"
+ },
+ "presidenza-del-consiglio-funzionari": {
+  "ente": "presidenza del consiglio",
+  "titolo": "funzionar"
+ },
+ "pcm-trasformazione-digitale": {
+  "ente": "presidenza del consiglio|trasformazione digitale",
+  "titolo": "digital|informatic"
+ },
+ "agenzia-delle-entrate-funzionari": {
+  "ente": "agenzia delle entrate",
+  "titolo": "funzionar"
+ },
+ "agenzia-delle-entrate-assistenti": {
+  "ente": "agenzia delle entrate",
+  "titolo": "assistent"
+ },
+ "agenzia-delle-dogane-assistenti": {
+  "ente": "dogane",
+  "titolo": "assistent"
+ },
+ "agenzia-delle-dogane-funzionari": {
+  "ente": "dogane",
+  "titolo": "funzionar"
+ },
+ "sna-corso-concorso-dirigenti": {
+  "titolo": "corso.concorso|scuola nazionale dell.amministrazione"
+ },
+ "mef-funzionari-giuridico-legali": {
+  "ente": "economia e (delle )?finanze|\\bmef\\b",
+  "titolo": "giuridico.legal"
+ },
+ "mef-funzionari-giuridico-tributari": {
+  "ente": "economia e (delle )?finanze|\\bmef\\b",
+  "titolo": "tributar|giustizia tributaria"
+ },
+ "mef-funzionari-amministrativo-contabili": {
+  "ente": "economia e (delle )?finanze|\\bmef\\b",
+  "titolo": "amministrativo.contabil|ragioner"
+ },
+ "cancellieri-ministero-della-giustizia": {
+  "titolo": "cancellier"
+ },
+ "funzionari-giudiziari": {
+  "titolo": "funzionari[oa]? giudiziar",
+  "ente": "ministero della giustizia|tribunal|corte d|procura"
+ },
+ "ufficiali-giudiziari": {
+  "titolo": "ufficial[ei] giudiziar|\\bunep\\b"
+ },
+ "ufficio-per-il-processo-addetti": {
+  "titolo": "ufficio per il processo"
+ },
+ "ministero-della-giustizia-progressioni": {
+  "ente": "ministero della giustizia",
+  "titolo": "progression"
+ },
+ "magistratura-ordinaria": {
+  "titolo": "magistrat[io] ordinar|uditor[ei] giudiziar"
+ },
+ "magistratura-tributaria": {
+  "titolo": "magistrat[io] tributar"
+ },
+ "referendari-presidenza-della-repubblica": {
+  "titolo": "referendar"
+ },
+ "aspal-sardegna": {
+  "ente": "aspal|agenzia sarda per le politiche attive"
+ },
+ "regione-siciliana-concorsi-piao": {
+  "ente": "regione siciliana"
+ },
+ "ostetrica": {
+  "ente": "azienda sanitaria|azienda socio|azienda ospedalier|\\basl\\b|\\basst\\b|\\bausl\\b|\\basp\\b|\\bats\\b|\\bulss\\b|\\bestar\\b|ospedal|policlinic|irccs|servizio sanitario|sanitaria locale|azienda zero",
+  "titolo": "^(?!.*dirigent).*ostetric"
+ },
+ "tecnico-della-prevenzione": {
+  "titolo": "tecnic[oi] della prevenzione",
+  "ente": "azienda sanitaria|azienda socio|azienda ospedalier|\\basl\\b|\\basst\\b|\\bausl\\b|\\basp\\b|\\bats\\b|\\bulss\\b|\\bestar\\b|ospedal|policlinic|irccs|servizio sanitario|sanitaria locale|azienda zero"
+ },
+ "logopedista": {
+  "titolo": "logopedist",
+  "ente": "azienda sanitaria|azienda socio|azienda ospedalier|\\basl\\b|\\basst\\b|\\bausl\\b|\\basp\\b|\\bats\\b|\\bulss\\b|\\bestar\\b|ospedal|policlinic|irccs|servizio sanitario|sanitaria locale|azienda zero"
+ },
+ "dietista": {
+  "titolo": "dietist",
+  "ente": "azienda sanitaria|azienda socio|azienda ospedalier|\\basl\\b|\\basst\\b|\\bausl\\b|\\basp\\b|\\bats\\b|\\bulss\\b|\\bestar\\b|ospedal|policlinic|irccs|servizio sanitario|sanitaria locale|azienda zero"
+ },
+ "farmacista-collaboratore": {
+  "ente": "azienda sanitaria|azienda socio|azienda ospedalier|\\basl\\b|\\basst\\b|\\bausl\\b|\\basp\\b|\\bats\\b|\\bulss\\b|\\bestar\\b|ospedal|policlinic|irccs|servizio sanitario|sanitaria locale|azienda zero",
+  "titolo": "farmacist"
+ },
+ "collaboratore-amministrativo-prof-asl": {
+  "ente": "azienda sanitaria|azienda socio|azienda ospedalier|\\basl\\b|\\basst\\b|\\bausl\\b|\\basp\\b|\\bats\\b|\\bulss\\b|\\bestar\\b|ospedal|policlinic|irccs|servizio sanitario|sanitaria locale|azienda zero",
+  "titolo": "collaborator[ei] amministrativ"
+ },
+ "operatore-tecnico-ausiliario": {
+  "titolo": "operator[ei] tecnic[oi].{0,20}(ausiliar|addett)|\\bota\\b",
+  "ente": "azienda sanitaria|azienda socio|azienda ospedalier|\\basl\\b|\\basst\\b|\\bausl\\b|\\basp\\b|\\bats\\b|\\bulss\\b|\\bestar\\b|ospedal|policlinic|irccs|servizio sanitario|sanitaria locale|azienda zero"
+ },
+ "dirigente-medico-parte-generale": {
+  "titolo": "dirigent[ei] medic"
+ },
+ "allievi-agenti-polizia-di-stato": {
+  "titolo": "allievi agenti.{0,30}polizia di stato"
+ },
+ "vice-ispettore-polizia-di-stato": {
+  "titolo": "vice ispettor.{0,40}polizia di stato"
+ },
+ "commissari-polizia-di-stato": {
+  "titolo": "commissari.{0,40}polizia di stato"
+ },
+ "allievi-carabinieri": {
+  "titolo": "allievi carabinieri"
+ },
+ "ufficiali-carabinieri": {
+  "titolo": "ufficiali.{0,40}carabinieri|carabinieri.{0,40}ufficiali"
+ },
+ "allievi-finanzieri-guardia-di-finanza": {
+  "titolo": "allievi finanzieri"
+ },
+ "vigili-del-fuoco-vigile-permanente": {
+  "titolo": "vigil[ei] del fuoco",
+  "e_titolo": "vigil[ei] del fuoco(?!.{0,30}(direttiv|ispettor))"
+ },
+ "vigili-del-fuoco-direttivi": {
+  "titolo": "vigil[ei] del fuoco|\\bvvf\\b",
+  "e_titolo": "direttiv"
+ },
+ "polizia-penitenziaria-allievi-agenti": {
+  "titolo": "allievi agenti.{0,40}penitenziari|penitenziari.{0,40}allievi agenti"
+ },
+ "vfi-esercito": {
+  "titolo": "\\bvfi\\b|volontari in ferma iniziale"
+ },
+ "allievi-marescialli-esercito": {
+  "titolo": "marescialli.{0,40}esercito"
+ },
+ "marina-militare-vfi-e-marescialli": {
+  "titolo": "marina militare"
+ },
+ "aeronautica-militare-allievi-ufficiali": {
+  "titolo": "aeronautica militare"
+ },
+ "accademie-militari-concorso-ufficiali": {
+  "titolo": "accademi[ae] militar|accademia (navale|aeronautica)"
+ },
+ "ata-assistente-amministrativo": {
+  "titolo": "\\bata\\b.{0,40}assistent|assistent[ei] amministrativ.{0,40}scolastic"
+ },
+ "ata-collaboratore-scolastico": {
+  "titolo": "collaborator[ei] scolastic"
+ },
+ "dirigente-scolastico": {
+  "titolo": "dirigent[ei] scolastic"
+ },
+ "_atti": "scorriment|integrazion|graduatori|elenco (degli )?idonei|rettific|riapertura termini|esiti|calendari|convocazion|avviso (di )?prova|mobilit|interpell|comando|progressione vertical|scelta (dell.)?amministrazion|scelta (della )?sede|assegnazion"
+}
