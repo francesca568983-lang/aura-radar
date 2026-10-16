@@ -17,7 +17,8 @@
 "ente": "Ministero della Giustizia - Divisione III - Concorsi previdenza e sanità Polizia penitenziaria",
 "posti": 450,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=682ee90f189c406ca66b50c252dc32b9"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=682ee90f189c406ca66b50c252dc32b9",
+"struttura_letta": {}
 },
 {
 "id": "ba4c93e3f3e247b8a9dc4e1a6ccd0926",
@@ -27,7 +28,17 @@
 "ente": "Arma dei Carabinieri - Centro Nazionale Selezione e Reclutamento",
 "posti": 400,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ba4c93e3f3e247b8a9dc4e1a6ccd0926"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ba4c93e3f3e247b8a9dc4e1a6ccd0926",
+"struttura_letta": {
+"quesiti": {
+"valore": 60,
+"frase": "- 26 - segue allegato C Essa consisterà nella somministrazione di 60 quesiti a risposta multipla, volta a verificare la padronanza linguistica attraverso l’accertamento della conoscenza delle strutture fondamentali della lingua (ortogra"
+},
+"soglia30": {
+"valore": 18,
+"frase": "riportato un punteggio non inferiore a 18/30 saranno ammessi a sostenere le prove successive"
+}
+}
 },
 {
 "id": "f73b4da4cde24b7298fac4bc5fcc68b6",
@@ -67,7 +78,8 @@
 "ente": "Guardia di Finanza - Centro di Reclutamento Roma",
 "posti": 170,
 "scade": "2026-11-10",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5ae46f5ea174acca40ccb3a50c8e6d0"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5ae46f5ea174acca40ccb3a50c8e6d0",
+"struttura_letta": {}
 },
 {
 "id": "824f8098da3d4097aed16a91e6f9ecc5",
@@ -148,7 +160,17 @@
 "ente": "ROMA CAPITALE - Dipartimento Organizzazione e Risorse Umane",
 "posti": 80,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=159ae4ba187d4d9086fd75d2e778998f"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=159ae4ba187d4d9086fd75d2e778998f",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Alla prova scritta sarà assegnato un punteggio massimo di 30 (trenta) punti e la stessa si intenderà superata se sarà stato raggiunto il punteggio minimo di 21/30 (ventuno/trentesimi)"
+},
+"penalita": {
+"valore": 0.15,
+"frase": "A ciascuna risposta sarà attribuito il seguente punteggio: - Risposta esatta: 0,75 punti; - Risposta mancante: 0 punti; - Risposta errata: - 0,15 punti"
+}
+}
 },
 {
 "id": "cbb6e666ca114cf390d90620dca7d76c",
@@ -428,7 +450,8 @@
 "ente": "Asp Citta' di Piacenza",
 "posti": 26,
 "scade": "2026-10-24",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cac8940dbd144eee9894e46c47f11e95"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cac8940dbd144eee9894e46c47f11e95",
+"struttura_letta": {}
 },
 {
 "id": "db9b83b386984e568f7b962a15cb4ca1",
@@ -488,7 +511,13 @@
 "ente": "Azienda Socio Sanitaria Territoriale di Pavia",
 "posti": 20,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=82db73e952db4351bbf69bd4d3010dd9"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=82db73e952db4351bbf69bd4d3010dd9",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "per la prova orale: Il superamento della prova orale è subordinato al raggiungimento di una valutazione di sufficienza, espressa in termini numerici, di almeno 21/30"
+}
+}
 },
 {
 "id": "169a2f4ceaee4710bc5ea96d3390640d",
@@ -538,7 +567,13 @@
 "ente": "Azienda Sociale Sud-est",
 "posti": 15,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2592ee4b88574f9eb0d08002f23fa38b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2592ee4b88574f9eb0d08002f23fa38b",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata, con conseguente ammissione alla prova orale, per i candidati che conseguano una valutazione pari ad almeno 21/30"
+}
+}
 },
 {
 "id": "5be385db41fa45e7a6d596784616913a",
@@ -548,7 +583,13 @@
 "ente": "Istituto Assistenza Anziani Verona",
 "posti": 15,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5be385db41fa45e7a6d596784616913a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5be385db41fa45e7a6d596784616913a",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova pratica i candidati che abbiano riportato nella prova scritta una valutazione di almeno 21/30"
+}
+}
 },
 {
 "id": "88c979c391b94e958a6f8eb39e275aac",
@@ -558,7 +599,13 @@
 "ente": "Gestione Governativa Navigazione Laghi Maggiore, di Garda e di Como",
 "posti": 11,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=88c979c391b94e958a6f8eb39e275aac"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=88c979c391b94e958a6f8eb39e275aac",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "Superano la Prova scritta e sono ammessi alla prova successiva i candidati che conseguono un punteggio complessivo non inferiore a 18/30"
+}
+}
 },
 {
 "id": "2ae3947a30dd4654a5b715451379370c",
@@ -578,7 +625,13 @@
 "ente": "Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL",
 "posti": 10,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a7f23903af46456dbf638710f4dcc29c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a7f23903af46456dbf638710f4dcc29c",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "prova scritta i candidati che riportano il Die schriftliche Prüfung wird mit maximal 30 punteggio di almeno 18/30"
+}
+}
 },
 {
 "id": "75762bab30044fb3b8839c93bb8d51aa",
@@ -588,7 +641,13 @@
 "ente": "Universita' degli Studi di Roma La Sapienza",
 "posti": 10,
 "scade": "2026-10-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=75762bab30044fb3b8839c93bb8d51aa"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=75762bab30044fb3b8839c93bb8d51aa",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguono l’ammissione alla prova orale i candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "c8290fd0e4eb475e99bfc78d6dcf0a4e",
@@ -598,7 +657,13 @@
 "ente": "CAMERA DI COMMERCIO INDUSTRIA ARTIGIANATO E AGRICOLTURA DI CREMONA-MANTOVA-PAVIA",
 "posti": 10,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c8290fd0e4eb475e99bfc78d6dcf0a4e"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c8290fd0e4eb475e99bfc78d6dcf0a4e",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova si intenderà superata con un punteggio pari o superiore a 21/30 (nella valutazione potranno essere utilizzate frazioni di punto)"
+}
+}
 },
 {
 "id": "ad36adf9b4c24138acdcf09e8725ce21",
@@ -639,7 +704,13 @@
 "ente": "Casa di Riposo Domenico Cardo",
 "posti": 8,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e3919092b82a4611bb5d152eefe25244"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e3919092b82a4611bb5d152eefe25244",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "e di 60 punti così suddivisi: o prova scritta: punti 30 o prova orale: punti 30 L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "12e69748823c4e298150e4a2fec49ca5",
@@ -649,7 +720,13 @@
 "ente": "Comune di Brescia - Risorse umane",
 "posti": 8,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=12e69748823c4e298150e4a2fec49ca5"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=12e69748823c4e298150e4a2fec49ca5",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova orale si intende superata al raggiungimento di un punteggio minimo di 21/30 La mancata presenza anche ad una sola prova d’esame è considerata rinuncia da parte del candidato e comporterà l’esclusione dal concorso"
+}
+}
 },
 {
 "id": "e65fd88b17c44dd2883f30316e453498",
@@ -659,7 +736,13 @@
 "ente": "Azienda Ospedaliera San Camillo Forlanini",
 "posti": 7,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e65fd88b17c44dd2883f30316e453498"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e65fd88b17c44dd2883f30316e453498",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "L’ammissione alla prova pratica è subordinata al raggiungimento di una valutazione di sufficienza della prova scritta, espressa in termini numerici di almeno 21/30"
+}
+}
 },
 {
 "id": "c10ea5d556fe4a83954adebc944b224d",
@@ -716,7 +799,13 @@
 "ente": "Casa di Riposo Ed Opere Pie Riunite",
 "posti": 6,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b123edc5f315452d963e10344396ebdc"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b123edc5f315452d963e10344396ebdc",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ogni prova d'esame si intende superata se il candidato ottiene una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "43db10c6a96f446c8429206d184310f7",
@@ -726,7 +815,13 @@
 "ente": "Comune di Santa Maria Capua Vetere",
 "posti": 6,
 "scade": "2026-11-06",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43db10c6a96f446c8429206d184310f7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43db10c6a96f446c8429206d184310f7",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Sono ammessi alla prova orale i candidati che abbiano conseguito nella prova scritta una votazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "7cc36e1fbe0c45f885c8f7853cfe58af",
@@ -736,7 +831,13 @@
 "ente": "Azienda Pubblica di Servizi alla Persona Seneca",
 "posti": 6,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7cc36e1fbe0c45f885c8f7853cfe58af"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7cc36e1fbe0c45f885c8f7853cfe58af",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata – con conseguente ammissione alla prova orale – con il conseguimento di una valutazione pari ad almeno 21/30"
+}
+}
 },
 {
 "id": "afd636450acf4c3dba80635101aa1b74",
@@ -820,7 +921,8 @@
 "ente": "Comune di Santa Maria Capua Vetere",
 "posti": 5,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c904104d90a4b3786be5340dac0b5d5"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c904104d90a4b3786be5340dac0b5d5",
+"struttura_letta": {}
 },
 {
 "id": "9bb42735181547e1b969c41889362f3d",
@@ -830,7 +932,13 @@
 "ente": "Casa di Riposo Comm. A. Michelazzo",
 "posti": 5,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9bb42735181547e1b969c41889362f3d"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9bb42735181547e1b969c41889362f3d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ogni prova di esame si intende superata solo se verrà valutata dalla Commissione Esaminatrice con un punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "1ac5162147cb40768afeba71d23fe449",
@@ -1041,7 +1149,13 @@
 "ente": "Residenza Riviera Del Brenta",
 "posti": 4,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e45980d0ff0c4e9891deda3cbfff9bac"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e45980d0ff0c4e9891deda3cbfff9bac",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Prova pratica/orale: la prova, alla quale accederanno i candidati che avranno conseguito il punteggio di almeno 21/30 nella prova scritta, potrà essere espletata mediante attività di natura pratico/operativa e/o colloquio vertenti sulle materie della prova scritta"
+}
+}
 },
 {
 "id": "42248ed7b2f24c608649851968dc3b55",
@@ -1051,7 +1165,29 @@
 "ente": "Provincia di Bergamo",
 "posti": 4,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42248ed7b2f24c608649851968dc3b55"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42248ed7b2f24c608649851968dc3b55",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "ima dell’espletamento delle prove concorsuali, si riserva la facoltà di sottoporre i candidati ad una prova preselettiva, consistente nella somministrazione di 30 quesiti in forma di test a risposta multipla sulle materie oggetto delle prove d’esame"
+},
+"minuti": {
+"valore": 45,
+"frase": "I candidati sono tenuti a rispondere a tutti i quesiti, in un tempo massimo di 45 minuti; per ciascuna risposta esatta è assegnato un punteggio di 1 punto – per ogni risposta errata o non fornita è assegnato un punteggio di 0 punti (punti massimi r"
+},
+"soglia30": {
+"valore": 21,
+"frase": "Per essere ammessi alla prova orale è necessario aver ottenuto un punteggio di almeno 21/30 nella prova scritta"
+}
+},
+"prova": {
+"quesiti": 30,
+"minuti": 45,
+"opzioni": 4,
+"penalita": 0,
+"fonte": "bando",
+"soglia": 21
+}
 },
 {
 "id": "481308c05aaf48c9803571408a58d2e6",
@@ -1061,7 +1197,8 @@
 "ente": "Casa Gino e Pierina Marani",
 "posti": 4,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=481308c05aaf48c9803571408a58d2e6"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=481308c05aaf48c9803571408a58d2e6",
+"struttura_letta": {}
 },
 {
 "id": "0ec5ab761a164544a07a0c79fa89ecfa",
@@ -1071,7 +1208,13 @@
 "ente": "Comune di Cascina",
 "posti": 4,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0ec5ab761a164544a07a0c79fa89ecfa"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0ec5ab761a164544a07a0c79fa89ecfa",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Valutazione: La prova si intende superata con una votazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "51ff09631dc4431d9744cfa6205399c7",
@@ -1081,7 +1224,8 @@
 "ente": "Comune di Verona",
 "posti": 4,
 "scade": "2026-10-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=51ff09631dc4431d9744cfa6205399c7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=51ff09631dc4431d9744cfa6205399c7",
+"struttura_letta": {}
 },
 {
 "id": "341d5a7aea8b4a2ab9c621937100ed89",
@@ -1091,7 +1235,13 @@
 "ente": "Istituto Nazionale per l'Analisi delle Politiche Pubbliche (INAPP)",
 "posti": 4,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=341d5a7aea8b4a2ab9c621937100ed89"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=341d5a7aea8b4a2ab9c621937100ed89",
+"struttura_letta": {
+"minuti": {
+"valore": 150,
+"frase": "La prova scritta, che si svolgerà con strumenti informatici e digitali, avrà una durata massima di 150 minuti (salvo quanto previsto all’articolo 3, commi 10 e 12, del presente Bando) e sarà articolata nella predisposizione di un elaborato teorico e di un testo di risp"
+}
+}
 },
 {
 "id": "9fce41f3c2d04158b8c081bff8692457",
@@ -1102,6 +1252,33 @@
 "posti": 4,
 "scade": "2026-11-01",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9fce41f3c2d04158b8c081bff8692457"
+},
+{
+"id": "5d6638468b614121b9e39e3e9956af7d",
+"profilo": "dirigente-medico-parte-generale",
+"titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER N.3 POSTI DI DIRIGENTE MEDICO – AREA DELLA MEDICINA DIAGNOSTICA E DEI SERVIZI – DISCIPLINA DI ANESTESIA E RIANIMAZIONE O DISCIPLINA EQUIPOLLENTE, CON DESTINAZIONE FUNZIONALE INIZIALE PRESSO LE SC ANESTESIA E RIANIMAZIONE AZIENDALI.",
+"figura": "N.3 POSTI DI DIRIGENTE MEDICO DISCIPLINA DI ANESTESIA E RIANIMAZIONE",
+"ente": "Azienda Socio Sanitaria Territoriale di Pavia",
+"posti": 3,
+"scade": "2026-11-16",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5d6638468b614121b9e39e3e9956af7d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "delle prove scritta e pratica è subordinato al raggiungimento di una valutazione di sufficienza, per ogni singola prova, espressa in termini numerici di almeno 21/30"
+}
+}
+},
+{
+"id": "fc72be0443f54653a3f870a50dcfaa3d",
+"profilo": "funzionario-tecnico",
+"titolo": "avviso di selezione per funzionari tecnici 2 ingegneri ed un architetto",
+"figura": "FUNZIONARI TECNICI",
+"ente": "Comune di Niscemi",
+"posti": 3,
+"scade": "2026-10-31",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fc72be0443f54653a3f870a50dcfaa3d",
+"struttura_letta": {}
 },
 {
 "id": "c2d99ebd831140da8cc3da212bd53026",
@@ -1326,7 +1503,13 @@
 "ente": "Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL",
 "posti": 3,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4ebee2fbfcbf475db88681e2cd758de1"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4ebee2fbfcbf475db88681e2cd758de1",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "eine mündliche Prüfung, die nur von den punteggio minimo previsto per la prova Bewerbern abgelegt werden kann, die in scritta (18/30) der schriftlichen Prüfung die 1"
+}
+}
 },
 {
 "id": "7b3b4a8aea934e798e7ad1e216790342",
@@ -1336,7 +1519,8 @@
 "ente": "Comune di Scarperia e San Piero",
 "posti": 3,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7b3b4a8aea934e798e7ad1e216790342"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7b3b4a8aea934e798e7ad1e216790342",
+"struttura_letta": {}
 },
 {
 "id": "a81c3f39b09f41be8dbb21ab3235073a",
@@ -1346,7 +1530,24 @@
 "ente": "Unione Dei Comuni Delle Terre del Sole",
 "posti": 3,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a81c3f39b09f41be8dbb21ab3235073a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a81c3f39b09f41be8dbb21ab3235073a",
+"struttura_letta": {
+"quesiti": {
+"valore": 40,
+"frase": "40 quesiti a risposta multipla; b) n"
+},
+"minuti": {
+"valore": 60,
+"frase": "Comune di Comune di Mosciano Roseto degli Bellante Giulianova Morro d’Oro Notaresco Sant’Angelo Abruzzi c) La prova deve essere completata nel tempo massimo di 60 minuti, fatti salvi gli eventuali tempi aggiuntivi riconosciuti ai candidati ave"
+}
+},
+"prova": {
+"quesiti": 40,
+"minuti": 60,
+"opzioni": 4,
+"penalita": 0,
+"fonte": "bando"
+}
 },
 {
 "id": "54f1efee0de44e6cbd0452bbb2dd3456",
@@ -1356,7 +1557,8 @@
 "ente": "Asst Centro Specialistico Ortopedico Traumatologico Gaetano Pini Cto",
 "posti": 3,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=54f1efee0de44e6cbd0452bbb2dd3456"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=54f1efee0de44e6cbd0452bbb2dd3456",
+"struttura_letta": {}
 },
 {
 "id": "febdd4a1d4f6455dbcb5dd190d7408b7",
@@ -1366,7 +1568,8 @@
 "ente": "Universita' degli Studi di Napoli Federico II",
 "posti": 3,
 "scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=febdd4a1d4f6455dbcb5dd190d7408b7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=febdd4a1d4f6455dbcb5dd190d7408b7",
+"struttura_letta": {}
 },
 {
 "id": "3b0fcc71e0c0449b94207e15735bdfe8",
@@ -1376,7 +1579,8 @@
 "ente": "Comune di Nova Milanese",
 "posti": 3,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b0fcc71e0c0449b94207e15735bdfe8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b0fcc71e0c0449b94207e15735bdfe8",
+"struttura_letta": {}
 },
 {
 "id": "ab130ffdeaab4807bfd428101330f156",
@@ -1386,7 +1590,13 @@
 "ente": "A.I.P.E.S. Associazione Intercomunale per Esercizio Sociale - Consorzio per I Servizi alla Persona",
 "posti": 3,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ab130ffdeaab4807bfd428101330f156"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ab130ffdeaab4807bfd428101330f156",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "prova orale: 30 punti L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "557cf27f0cbd4442ac51ee839b289117",
@@ -1396,7 +1606,8 @@
 "ente": "Agenzia Regionale per la Prevenzione, l'Ambiente e l'Energia dell'Emilia Romagna",
 "posti": 3,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=557cf27f0cbd4442ac51ee839b289117"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=557cf27f0cbd4442ac51ee839b289117",
+"struttura_letta": {}
 },
 {
 "id": "193ab51ad2e2455d979431d1293710a8",
@@ -1406,7 +1617,13 @@
 "ente": "Casa di Riposo Comm. A. Michelazzo",
 "posti": 3,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=193ab51ad2e2455d979431d1293710a8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=193ab51ad2e2455d979431d1293710a8",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata con una votazione di almeno 21/30 o equivalente"
+}
+}
 },
 {
 "id": "c6b05ada4dbc4e77b4352d244698d352",
@@ -1416,7 +1633,13 @@
 "ente": "Comune di Rivalta di Torino",
 "posti": 3,
 "scade": "2026-10-16",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c6b05ada4dbc4e77b4352d244698d352"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c6b05ada4dbc4e77b4352d244698d352",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "sì suddivisi: - prova scritta: 30 punti - prova orale: 30 punti L’ammissione alla prova orale è comunque subordinata al conseguimento di un punteggio di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "6857877eaa4840e5aa6d0ac93b1a0348",
@@ -1426,7 +1649,13 @@
 "ente": "Comune di Rimini",
 "posti": 3,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6857877eaa4840e5aa6d0ac93b1a0348"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6857877eaa4840e5aa6d0ac93b1a0348",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova si intende superata con il conseguimento del punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "1e87b65139ee4255a7f300e5537e2ef2",
@@ -1436,7 +1665,13 @@
 "ente": "Comune di Belvedere Marittimo",
 "posti": 3,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e87b65139ee4255a7f300e5537e2ef2"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e87b65139ee4255a7f300e5537e2ef2",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La valutazione della prova viene espressa con il punteggio massimo di 30 punti e che si intende superata con il conseguimento di una valutazione di almeno 21/30"
+}
+}
 },
 {
 "id": "4dddb7cc3e864f47bedcbdc591b3214c",
@@ -1487,6 +1722,17 @@
 "posti": 3,
 "scade": "2026-10-16",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0d3c55dc09674937bb0c10567d772533"
+},
+{
+"id": "f6740916d3134909ac961f59d20d0275",
+"profilo": "istruttore-amministrativo",
+"titolo": "CONSORZIO POLIZIA MUNICIPALE PADOVA OVEST - CONCORSO PUBBLICO PER L'ASSUNZIONE DI N. 02 ISTRUTTORI DI POLIZIA LOCALE",
+"figura": "ISTRUTTORE DI POLIZIA LOCALE",
+"ente": "Consorzio Polizia Municipale Padova Ovest",
+"posti": 2,
+"scade": "2026-11-21",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f6740916d3134909ac961f59d20d0275",
+"struttura_letta": {}
 },
 {
 "id": "50b581e7710e488d90bc10840e700ee9",
@@ -1862,7 +2108,13 @@
 "ente": "Unione Valnure e Valchero",
 "posti": 2,
 "scade": "2026-11-06",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e3350bccd4a45489a03a3993e72f001"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e3350bccd4a45489a03a3993e72f001",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Alla prova successiva verranno ammessi i candidati che avranno riportato nella prova scritta, una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "64dd283f03cb4aa1ab1f2d8cab6dfed8",
@@ -1872,7 +2124,13 @@
 "ente": "Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro - INAIL",
 "posti": 2,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=64dd283f03cb4aa1ab1f2d8cab6dfed8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=64dd283f03cb4aa1ab1f2d8cab6dfed8",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "Verpflichtungen im Superano la prova scritta i soli candidati che Zuständigkeitsbereich der INAIL; riportano il punteggio di almeno 18/30"
+}
+}
 },
 {
 "id": "9159844b8a8d4806b482860aee64c8fb",
@@ -1882,7 +2140,13 @@
 "ente": "Comune di Rosarno",
 "posti": 2,
 "scade": "2026-11-06",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9159844b8a8d4806b482860aee64c8fb"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9159844b8a8d4806b482860aee64c8fb",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguiranno l’ammissione alle prove scritte di esame tutti i candidati che raggiungeranno un punteggio pari o superiore al punteggio minimo (21/30) nella prova preselettiva"
+}
+}
 },
 {
 "id": "fbefcad44ad54d8aaa86b30ea1726790",
@@ -1892,7 +2156,8 @@
 "ente": "Comune di Alessandria",
 "posti": 2,
 "scade": "2026-10-27",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fbefcad44ad54d8aaa86b30ea1726790"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fbefcad44ad54d8aaa86b30ea1726790",
+"struttura_letta": {}
 },
 {
 "id": "383d3ab7e7ca483b88ed8e84c427eb26",
@@ -1902,7 +2167,13 @@
 "ente": "Comune di Valli del Pasubio - Ufficio Fatture Casa di Riposo A. Penasa",
 "posti": 2,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=383d3ab7e7ca483b88ed8e84c427eb26"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=383d3ab7e7ca483b88ed8e84c427eb26",
+"struttura_letta": {
+"soglia30": {
+"valore": 24,
+"frase": "idoneità e l'inserimento nella graduatoria finale del concorso saranno riconosciuti ai candidati che alla prova scritta avranno ottenuto un punteggio minimo di 24/30 e un punteggio minimo di 24/30 al colloquio"
+}
+}
 },
 {
 "id": "07ef4bf95acc432d94082724d0546900",
@@ -1912,7 +2183,8 @@
 "ente": "Provincia di Pisa",
 "posti": 2,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=07ef4bf95acc432d94082724d0546900"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=07ef4bf95acc432d94082724d0546900",
+"struttura_letta": {}
 },
 {
 "id": "5dfae44f42634cfc9f994f186a5828e0",
@@ -1922,7 +2194,13 @@
 "ente": "Comune di Laterina Pergine Valdarno",
 "posti": 2,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5dfae44f42634cfc9f994f186a5828e0"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5dfae44f42634cfc9f994f186a5828e0",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata con un punteggio pari ad almeno 21/30"
+}
+}
 },
 {
 "id": "1c6f8369282746eba4066b0671266536",
@@ -1932,7 +2210,13 @@
 "ente": "Comune di Aicurzio",
 "posti": 2,
 "scade": "2026-10-27",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1c6f8369282746eba4066b0671266536"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1c6f8369282746eba4066b0671266536",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "colo 7 del DPR 487/1994, la prova scritta si intende superata con il conseguimento di una votazione non inferiore a 35/50, equivalente alla votazione minima di 21/30"
+}
+}
 },
 {
 "id": "02da45ce9b6f4edb9078e4f966cbd829",
@@ -1942,7 +2226,13 @@
 "ente": "Universita' degli Studi di Salerno",
 "posti": 2,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=02da45ce9b6f4edb9078e4f966cbd829"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=02da45ce9b6f4edb9078e4f966cbd829",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che abbiano riportato la votazione di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "4138f6b19796470b9faa70acbba46778",
@@ -1952,7 +2242,13 @@
 "ente": "Universita' degli Studi di Salerno",
 "posti": 2,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4138f6b19796470b9faa70acbba46778"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4138f6b19796470b9faa70acbba46778",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che abbiano riportato la votazione di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "98027209938043059ea98855fd6bb937",
@@ -1962,7 +2258,13 @@
 "ente": "AZIENDA SANITARIA TERRITORIALE DI MACERATA",
 "posti": 2,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=98027209938043059ea98855fd6bb937"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=98027209938043059ea98855fd6bb937",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "nto di ciascuna delle previste prove scritta e pratica è subordinato al raggiungimento di una valutazione di sufficienza espressa in termini numerici di almeno 21/30"
+}
+}
 },
 {
 "id": "8ddf7bc11a28402788d2d20bc2ac342a",
@@ -1972,7 +2274,8 @@
 "ente": "Comune di Sant'Ilario D'Enza",
 "posti": 2,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8ddf7bc11a28402788d2d20bc2ac342a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8ddf7bc11a28402788d2d20bc2ac342a",
+"struttura_letta": {}
 },
 {
 "id": "a4f7bc3518f248f88aabacbe832ceeef",
@@ -1982,7 +2285,13 @@
 "ente": "Comune di Cuorgne'",
 "posti": 2,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a4f7bc3518f248f88aabacbe832ceeef"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a4f7bc3518f248f88aabacbe832ceeef",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che abbiano riportato nella prova scritta teorico-pratica una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "0cc3630898f549aeb9b1a90df2ecd562",
@@ -1992,7 +2301,13 @@
 "ente": "Pio Ospizio S. Michele",
 "posti": 2,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0cc3630898f549aeb9b1a90df2ecd562"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0cc3630898f549aeb9b1a90df2ecd562",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "60 punti, così suddivisi: prova scritta teorico-pratica: 30 punti prova orale: 30 punti L’ammissione alla prova orale è subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "6fd20dba2f2c412798161307d6c31842",
@@ -2002,7 +2317,8 @@
 "ente": "Universita' degli Studi di Napoli Federico II",
 "posti": 2,
 "scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6fd20dba2f2c412798161307d6c31842"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6fd20dba2f2c412798161307d6c31842",
+"struttura_letta": {}
 },
 {
 "id": "a12b1694feaf408f865ef729924e8e72",
@@ -2012,7 +2328,8 @@
 "ente": "Universita' degli Studi di Napoli Federico II",
 "posti": 2,
 "scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a12b1694feaf408f865ef729924e8e72"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a12b1694feaf408f865ef729924e8e72",
+"struttura_letta": {}
 },
 {
 "id": "619d157fd1c44b638e2b8b1fe2a1d9e0",
@@ -2022,7 +2339,8 @@
 "ente": "Comune di Riomaggiore",
 "posti": 2,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=619d157fd1c44b638e2b8b1fe2a1d9e0"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=619d157fd1c44b638e2b8b1fe2a1d9e0",
+"struttura_letta": {}
 },
 {
 "id": "8caa078572e846f3b6a08d16e664acc8",
@@ -2032,7 +2350,13 @@
 "ente": "Comune di Villaverla",
 "posti": 2,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8caa078572e846f3b6a08d16e664acc8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8caa078572e846f3b6a08d16e664acc8",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Consegue l'ammissione alla prova orale il candidato che abbia riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "e706f2305ac64d7ba2ee6e1ed884b9e4",
@@ -2042,7 +2366,21 @@
 "ente": "Comune di Riomaggiore",
 "posti": 2,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e706f2305ac64d7ba2ee6e1ed884b9e4"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e706f2305ac64d7ba2ee6e1ed884b9e4",
+"struttura_letta": {
+"minuti": {
+"valore": 60,
+"frase": "La durata è di 60 minuti, fatti salvi gli eventuali tempi aggiuntivi"
+},
+"penalita": {
+"valore": 0.25,
+"frase": "Il punteggio massimo è 30/30, attribuito come segue: Risposta Punteggio Esatta +1,00 Errata -0,25 Omessa o con più opzioni 0,00 3"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La prova è superata con almeno 21/30 e con idoneità in inglese e competenze digitali"
+}
+}
 },
 {
 "id": "55b02a8c90d54380a94a1b7c9d4cca3c",
@@ -2052,7 +2390,8 @@
 "ente": "Comune di Vicenza",
 "posti": 2,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=55b02a8c90d54380a94a1b7c9d4cca3c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=55b02a8c90d54380a94a1b7c9d4cca3c",
+"struttura_letta": {}
 },
 {
 "id": "828daefbe8e048b5a78d51e1a0943cd8",
@@ -2062,7 +2401,8 @@
 "ente": "Comune di Mestrino",
 "posti": 2,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=828daefbe8e048b5a78d51e1a0943cd8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=828daefbe8e048b5a78d51e1a0943cd8",
+"struttura_letta": {}
 },
 {
 "id": "59eed34c193741d59f4d289a5198bd33",
@@ -2072,7 +2412,13 @@
 "ente": "Comune di Palazzolo Sull'Oglio",
 "posti": 2,
 "scade": "2026-11-01",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=59eed34c193741d59f4d289a5198bd33"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=59eed34c193741d59f4d289a5198bd33",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "L’ammissione alla prova orale è subordinata all’ottenimento di un punteggio non inferiore a 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "9b2a894f99e444228127969343703aed",
@@ -2082,7 +2428,8 @@
 "ente": "Comune di Rimini",
 "posti": 2,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9b2a894f99e444228127969343703aed"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9b2a894f99e444228127969343703aed",
+"struttura_letta": {}
 },
 {
 "id": "c7b85191815e4e9c98d5a68de778ee2e",
@@ -2092,7 +2439,13 @@
 "ente": "Universita' degli Studi di Milano - Bicocca",
 "posti": 2,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c7b85191815e4e9c98d5a68de778ee2e"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c7b85191815e4e9c98d5a68de778ee2e",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "26PTA023 Sono ammessi alla prova orale i candidati che abbiano riportato una votazione di almeno 21/30 o equivalente nella prova scritta"
+}
+}
 },
 {
 "id": "fcd8adc69a1b40f1beb7c3e51cb1dd23",
@@ -2102,7 +2455,8 @@
 "ente": "Comune di Novi Ligure",
 "posti": 2,
 "scade": "2026-10-19",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fcd8adc69a1b40f1beb7c3e51cb1dd23"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fcd8adc69a1b40f1beb7c3e51cb1dd23",
+"struttura_letta": {}
 },
 {
 "id": "60edf2ad5d9e4c7695925bed06d47876",
@@ -2112,7 +2466,8 @@
 "ente": "Accademia di Belle Arti di Brera",
 "posti": 2,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=60edf2ad5d9e4c7695925bed06d47876"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=60edf2ad5d9e4c7695925bed06d47876",
+"struttura_letta": {}
 },
 {
 "id": "b1c602e82ae74ee183dd1eabc00f2bd2",
@@ -2122,7 +2477,8 @@
 "ente": "Comune di Castiglione delle Stiviere",
 "posti": 2,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b1c602e82ae74ee183dd1eabc00f2bd2"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b1c602e82ae74ee183dd1eabc00f2bd2",
+"struttura_letta": {}
 },
 {
 "id": "12393b3e003142709e10db38b6314095",
@@ -2132,7 +2488,8 @@
 "ente": "Comune di Lauro",
 "posti": 2,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=12393b3e003142709e10db38b6314095"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=12393b3e003142709e10db38b6314095",
+"struttura_letta": {}
 },
 {
 "id": "e9fd495471fe474b9ba2ab2095f0ba2c",
@@ -2142,7 +2499,13 @@
 "ente": "Comune di Trieste",
 "posti": 2,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e9fd495471fe474b9ba2ab2095f0ba2c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e9fd495471fe474b9ba2ab2095f0ba2c",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "ità di svolgimento della prova: IN MODALITA’ TELEMATICA DA REMOTO; Tipologia di prova: La prova scritta consisterà nella soluzione, in tempi predeterminati, di 30 quesiti a risposta multipla (per ogni quesito è prevista 1 sola risposta corretta) di cui 29 sulle materie sotto elencate e 1 sulla conoscenza della lingua inglese; Pu"
+}
+}
 },
 {
 "id": "447d3bd63484423b8ca4830030670c38",
@@ -2152,7 +2515,13 @@
 "ente": "UNIVERSITA' DELLA CALABRIA",
 "posti": 2,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=447d3bd63484423b8ca4830030670c38"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=447d3bd63484423b8ca4830030670c38",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i/le candidati/e che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "7499a1d3434c4b7d8bade7b303f02a2f",
@@ -2162,7 +2531,13 @@
 "ente": "Comune di Caltrano",
 "posti": 2,
 "scade": "2026-10-18",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7499a1d3434c4b7d8bade7b303f02a2f"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7499a1d3434c4b7d8bade7b303f02a2f",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "L'idoneità e l'inserimento in graduatoria sono riconosciuti ai candidati che ottengano, in ogni prova, un punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "49e6a73937ca4610a0f9c6d6dc1e901c",
@@ -2383,6 +2758,114 @@
 "posti": 2,
 "scade": "2027-02-10",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0033271159a941f0929cf9a754b57dd9"
+},
+{
+"id": "166b02e0d1524a4ca1a49f1de76b107d",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "Concorso pubblico, per esami, per n. 8 unità di personale, da inquadrare nell’Area dei Collaboratori del Settore Amministrativo, con contratto di lavoro subordinato a tempo indeterminato e pieno, per le esigenze dell’Università degli Studi di Firenze.",
+"figura": "Collaboratore",
+"ente": "Universita' degli Studi di Firenze",
+"posti": 1,
+"scade": "2026-11-16",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=166b02e0d1524a4ca1a49f1de76b107d",
+"struttura_letta": {}
+},
+{
+"id": "125b4c9805684ec8a9a386cf735fe869",
+"profilo": "agente-di-polizia-locale",
+"titolo": "Concorso pubblico per esami per la copertura di n. 1 posto nel profilo di Agente di Polizia Locale, Area degli Istruttori, Comparto Funzioni Locali, con rapporto di lavoro a tempo indeterminato e a tempo pieno, assegnato alla U.O.A. Polizia Locale",
+"figura": "Agente di Polizia Locale",
+"ente": "Comune di Casale Monferrato",
+"posti": 1,
+"scade": "2026-11-07",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=125b4c9805684ec8a9a386cf735fe869",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova preselettiva sarà considerata superata al conseguimento del punteggio minimo pari a 21/30"
+}
+}
+},
+{
+"id": "21c863d7030d488f821e6da993203fee",
+"profilo": "assistente-sociale-enti-locali",
+"titolo": "COMUNE DI CUASSO AL MONTE - SELEZIONE PUBBLICA, PER ESAMI, FINALIZZATA ALLA COPERTURA DI N. 1 POSTO PROFILO ASSISTENTE SOCIALE – AREA FUNZIONARI ED ELEVATA QUALIFICAZIONE – TEMPO INDETERMINATO, TEMPO PIENO 36 ORE, AREA SERVIZI ALLA PERSONA",
+"figura": "Assistente Sociale - Area dei Funzionari ed Elevata Qualificazione",
+"ente": "Comune di Cuasso al Monte",
+"posti": 1,
+"scade": "2026-11-18",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=21c863d7030d488f821e6da993203fee",
+"struttura_letta": {}
+},
+{
+"id": "06b2e83f59b34036a3dcee5469e4e78c",
+"profilo": "istruttore-amministrativo",
+"titolo": "COMUNE DI LAGNASCO: CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO E PARZIALE AL 50% APPARTENENTE ALL'AREA PROFESSIONALE “AREA DEGLI ISTRUTTORI” CCNL FUNZIONI LOCALI - ADDETTO AI SERVIZI DEMOGRAFICI E SEGRETERIA GENERALE.",
+"figura": "ISTRUTTORE AMMINISTRATIVO PART-TIME 50%",
+"ente": "Comune di Lagnasco",
+"posti": 1,
+"scade": "2026-11-15",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=06b2e83f59b34036a3dcee5469e4e78c",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi a sostenere la prova orale esclusivamente quei candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "69c1c323c2cb41988268f5fcfa25cf33",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "Arpa Piemonte Concorso pubblico, per titoli ed esami, per la copertura di: n. 1 posto di Operatore tecnico specializzato (attività di facchinaggio) , sede di Grugliasco, a tempo pieno e indeterminato con inquadramento nel profilo professionale del ruolo tecnico – Area degli Operatori - vigente CCNL ",
+"figura": "Operatore tecnico specializzato - ruolo tecnico – Area degli Operatori - vigente CCNL personale comparto Sanità",
+"ente": "Agenzia Regionale per la Protezione dell'Ambiente del Piemonte",
+"posti": 1,
+"scade": "2026-11-16",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=69c1c323c2cb41988268f5fcfa25cf33",
+"struttura_letta": {}
+},
+{
+"id": "09242a0a543c4cceae4f29170f136cd6",
+"profilo": "istruttore-servizi-culturali-e-biblioteche",
+"titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO ED INDETERMINATO DI \"FUNZIONARIO BIBLIOTECARIO\" (Area dei Funzionari e dell'Elevata Qualificazione - ex cat. D)",
+"figura": "FUNZIONARIO BIBLIOTECARIO - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI EX CAT D",
+"ente": "Comune di Imperia",
+"posti": 1,
+"scade": "2026-11-16",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09242a0a543c4cceae4f29170f136cd6",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "9 - Esito delle prove d’esame e Valutazione dei Titoli Saranno ammessi alla prova orale i candidati che avranno riportato un punteggio di almeno 21/30 nella prova scritta"
+}
+}
+},
+{
+"id": "1c688379532e472885c4e679e3e2c5eb",
+"profilo": "funzionario-tecnico",
+"titolo": "Concorso pubblico per la copertura di n. 1 posto di Funzionario Tecnico esperto in Lavori Pubblici - Tempo pieno e indeterminato",
+"figura": "Funzionario Tecnico esperto in lavori pubblici",
+"ente": "Comune di Opera",
+"posti": 1,
+"scade": "2026-11-16",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1c688379532e472885c4e679e3e2c5eb",
+"struttura_letta": {}
+},
+{
+"id": "97b69f6c56214347b7628e2a9d36827d",
+"profilo": "funzionario-tecnico",
+"titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO NEL PROFILO DI FUNZIONARIO AREA TECNICA (EX CAT. D1) CON CONTRATTO A TEMPO INDETERMINATO E PIENO (36 ORE SETTIMANALI)",
+"figura": "FUNZIONARIO AREA TECNICA (EX CAT. D1)",
+"ente": "Comune di Isola Dovarese",
+"posti": 1,
+"scade": "2026-11-15",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=97b69f6c56214347b7628e2a9d36827d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "30 punti per la prova scritta – max 30 punti per la prova orale Saranno ammessi alla prova orale solo i candidati che avranno conseguito la votazione minima di 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "c173daeae36d4d72b7eb9fb08c62ad09",
@@ -5097,7 +5580,13 @@
 "ente": "Universita' degli Studi della Campania - 'Luigi Vanvitelli'",
 "posti": 1,
 "scade": "2026-10-27",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5e58a8dd8fcc4d319fca6a6b20a72d38"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5e58a8dd8fcc4d319fca6a6b20a72d38",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi a sostenere la prova scritta i candidati che avranno conseguito il punteggio di almeno 21/30"
+}
+}
 },
 {
 "id": "db7059cc0ea648b0a894fadfc920ac18",
@@ -5107,7 +5596,29 @@
 "ente": "Ente Regionale per L'Abitazione Pubblica Delle Marche",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=db7059cc0ea648b0a894fadfc920ac18"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=db7059cc0ea648b0a894fadfc920ac18",
+"struttura_letta": {
+"quesiti": {
+"valore": 50,
+"frase": "ndicate al successivo articolo “Materie delle prove d’esame” e sono costituite da: a) Un’eventuale prova preselettiva Nel caso in cui dovessero pervenire oltre 50 domande di partecipazione, la Commissione esaminatrice ha facoltà a proprio insindacabile giudizio, di stabilire una prova preselettiva"
+},
+"minuti": {
+"valore": 30,
+"frase": "La prova preselettiva consistente in un test da risolvere in 30 minuti, composto da 25 domande a risposta multipla, di cui 10 di tipo attitudi"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La correzione della 2^ prova scritta è subordinata al conseguimento nella 1^ prova scritta del punteggio minimo di 21/30 (ventuno/trentesimi)"
+}
+},
+"prova": {
+"quesiti": 50,
+"minuti": 30,
+"opzioni": 4,
+"penalita": 0,
+"fonte": "bando",
+"soglia": 35
+}
 },
 {
 "id": "05a5ad0ca10c4d25925f6e0975752d92",
@@ -5117,7 +5628,13 @@
 "ente": "Comune di Venarotta",
 "posti": 1,
 "scade": "2026-11-09",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=05a5ad0ca10c4d25925f6e0975752d92"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=05a5ad0ca10c4d25925f6e0975752d92",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento di ciascuna prova è subordinato al raggiungimento di una valutazione di almeno 21/30"
+}
+}
 },
 {
 "id": "e837a845ed3e4c6b8393d149f81ba097",
@@ -5127,7 +5644,13 @@
 "ente": "Comune di San Dona' di Piave",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e837a845ed3e4c6b8393d149f81ba097"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e837a845ed3e4c6b8393d149f81ba097",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "spone di 60 punti così suddivisi: - prova scritta: 30 punti - prova orale: 30 La prova scritta si considera superata ove il concorrente abbia conseguito almeno 21/30"
+}
+}
 },
 {
 "id": "394b2a7d6ed54422b5f4d0b1f887e0ea",
@@ -5137,7 +5660,8 @@
 "ente": "Conservatorio di Musica G. B. Martini di Bologna",
 "posti": 1,
 "scade": "2026-10-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=394b2a7d6ed54422b5f4d0b1f887e0ea"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=394b2a7d6ed54422b5f4d0b1f887e0ea",
+"struttura_letta": {}
 },
 {
 "id": "501bcac303f44600a59d498e6892597c",
@@ -5147,7 +5671,8 @@
 "ente": "Pensionato Pietro e Santa Scarmignan",
 "posti": 1,
 "scade": "2026-10-16",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=501bcac303f44600a59d498e6892597c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=501bcac303f44600a59d498e6892597c",
+"struttura_letta": {}
 },
 {
 "id": "d4c3e52f0221487082934bd76c5e32ee",
@@ -5157,7 +5682,13 @@
 "ente": "Comune di Roviano",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4c3e52f0221487082934bd76c5e32ee"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4c3e52f0221487082934bd76c5e32ee",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che avranno conseguito nella prova scritta una votazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "42618baeea194cf7afe8721e6b47b8d8",
@@ -5167,7 +5698,13 @@
 "ente": "Comune di Collegno",
 "posti": 1,
 "scade": "2026-10-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42618baeea194cf7afe8721e6b47b8d8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42618baeea194cf7afe8721e6b47b8d8",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Le prove d’esame (scritta teorico- dottrinale e scritta teorico-pratica) si intendono superate dalle/dai candidate/i che ottengono non meno di 21/30 in ciascuna di esse"
+}
+}
 },
 {
 "id": "42274aa6051941e885a49be9fea427cb",
@@ -5177,7 +5714,13 @@
 "ente": "Comune di Budrio",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42274aa6051941e885a49be9fea427cb"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42274aa6051941e885a49be9fea427cb",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "LITA’ DI ATTRIBUZIONE DEL PUNTEGGIO Alla prova orale verranno ammessi tutti i candidati che avranno conseguito nella prova scritta un punteggio non inferiore a 21/30"
+}
+}
 },
 {
 "id": "06e8f6cd0ce34225953c40baf24b7a78",
@@ -5187,7 +5730,8 @@
 "ente": "Comune di Gonnosfanadiga",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=06e8f6cd0ce34225953c40baf24b7a78"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=06e8f6cd0ce34225953c40baf24b7a78",
+"struttura_letta": {}
 },
 {
 "id": "7c28c30d77394655a934c20b66822f9a",
@@ -5197,7 +5741,8 @@
 "ente": "Comune di Mansue'",
 "posti": 1,
 "scade": "2026-11-09",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c28c30d77394655a934c20b66822f9a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c28c30d77394655a934c20b66822f9a",
+"struttura_letta": {}
 },
 {
 "id": "9ca2ed5debe5457fadc1b24bfa584f7a",
@@ -5207,7 +5752,13 @@
 "ente": "Comune di Rivalta di Torino",
 "posti": 1,
 "scade": "2026-10-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9ca2ed5debe5457fadc1b24bfa584f7a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9ca2ed5debe5457fadc1b24bfa584f7a",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "sì suddivisi: - prova scritta: 30 punti - prova orale: 30 punti L’ammissione alla prova orale è comunque subordinata al conseguimento di un punteggio di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "4df6d270fe0f4bc5849860af0dfc60bd",
@@ -5217,7 +5768,13 @@
 "ente": "Comune di Sumirago",
 "posti": 1,
 "scade": "2026-10-27",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4df6d270fe0f4bc5849860af0dfc60bd"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4df6d270fe0f4bc5849860af0dfc60bd",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguono l’ammissione alla prova orale i candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "566b3f31c41b446fa298f9c0ae5b3d22",
@@ -5227,7 +5784,13 @@
 "ente": "Comune di Noviglio",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=566b3f31c41b446fa298f9c0ae5b3d22"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=566b3f31c41b446fa298f9c0ae5b3d22",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata con il conseguimento di un punteggio non inferiore a 21/30"
+}
+}
 },
 {
 "id": "cdd7a5c57e644559b4aeb7d1d53e36f4",
@@ -5237,7 +5800,17 @@
 "ente": "Comune di Vescovato",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cdd7a5c57e644559b4aeb7d1d53e36f4"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cdd7a5c57e644559b4aeb7d1d53e36f4",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "i merito dell'ultima posizione utile, considerando in ogni caso un punteggio minimo di superamento della preselezione e di accesso alle prove successive pari a 18/30"
+},
+"penalita": {
+"valore": 0.25,
+"frase": "Ad ogni risposta sbagliata sarà assegnato una valutazione di punti – 0,25 (meno zero virgola venticinque)"
+}
+}
 },
 {
 "id": "ff688b94f63d43c3aaf99f3372dd3f4a",
@@ -5247,7 +5820,8 @@
 "ente": "Provincia di Treviso",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ff688b94f63d43c3aaf99f3372dd3f4a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ff688b94f63d43c3aaf99f3372dd3f4a",
+"struttura_letta": {}
 },
 {
 "id": "db43322ca39c4e07bdc0bcb4ab87e3b4",
@@ -5257,7 +5831,8 @@
 "ente": "Comune di Ronca'",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=db43322ca39c4e07bdc0bcb4ab87e3b4"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=db43322ca39c4e07bdc0bcb4ab87e3b4",
+"struttura_letta": {}
 },
 {
 "id": "0c1df1ff7fcc4eaf877adc5180adab59",
@@ -5267,7 +5842,8 @@
 "ente": "Provincia di Catanzaro",
 "posti": 1,
 "scade": "2026-11-06",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0c1df1ff7fcc4eaf877adc5180adab59"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0c1df1ff7fcc4eaf877adc5180adab59",
+"struttura_letta": {}
 },
 {
 "id": "36bd79de0275450f838231524ca8669b",
@@ -5277,7 +5853,13 @@
 "ente": "Comune di Trezzano Sul Naviglio",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=36bd79de0275450f838231524ca8669b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=36bd79de0275450f838231524ca8669b",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "87c02a73e453479da89b5e08e7760125",
@@ -5287,7 +5869,8 @@
 "ente": "Comune di Vedano Olona",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=87c02a73e453479da89b5e08e7760125"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=87c02a73e453479da89b5e08e7760125",
+"struttura_letta": {}
 },
 {
 "id": "a8cef5f7bcd54048ac036603a1c1dda7",
@@ -5297,7 +5880,13 @@
 "ente": "Unione Montana Valle Stura",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a8cef5f7bcd54048ac036603a1c1dda7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a8cef5f7bcd54048ac036603a1c1dda7",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "o 21/30"
+}
+}
 },
 {
 "id": "81e055837d8a48569cbd6a4a4901f143",
@@ -5307,7 +5896,13 @@
 "ente": "Azienda Socio Sanitaria Territoriale di Pavia",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=81e055837d8a48569cbd6a4a4901f143"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=81e055837d8a48569cbd6a4a4901f143",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "delle prove scritta e pratica è subordinato al raggiungimento di una valutazione di sufficienza, per ogni singola prova, espressa in termini numerici di almeno 21/30"
+}
+}
 },
 {
 "id": "c55fb29b82154657b88c74e9b2262e92",
@@ -5317,7 +5912,21 @@
 "ente": "Comune di Montopoli di Sabina",
 "posti": 1,
 "scade": "2026-11-06",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c55fb29b82154657b88c74e9b2262e92"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c55fb29b82154657b88c74e9b2262e92",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova preselettiva sarà superata ottenendo un punteggio di 21/30"
+},
+"penalita": {
+"valore": 0.5,
+"frase": "A ciascuna risposta sarà attribuito il seguente punteggio: - Risposta esatta: + 1 punto; - Risposta mancante: 0 punti; - Risposta errata: - 0,50 punti"
+},
+"minuti": {
+"valore": 90,
+"frase": "La prova scritta, che avrà una durata di 90 minuti, si intenderà superata con una votazione minima di 21/30 (ventu"
+}
+}
 },
 {
 "id": "d54f5f2e0c224f6fbff14f43ff4ded0e",
@@ -5327,7 +5936,13 @@
 "ente": "Comune di Falconara Marittima",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d54f5f2e0c224f6fbff14f43ff4ded0e"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d54f5f2e0c224f6fbff14f43ff4ded0e",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La commissione dispone di 60 punti così suddivisi: - prova scritta: 30 - prova orale: 30 L’ammissione alla prova orale è subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "ca749b1760bc4187a739580f8fd1a090",
@@ -5337,7 +5952,8 @@
 "ente": "Azienda Pubblica di Servizi alla Persona Daniele Moro",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ca749b1760bc4187a739580f8fd1a090"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ca749b1760bc4187a739580f8fd1a090",
+"struttura_letta": {}
 },
 {
 "id": "239dc10aea11441b83257344acbf1c24",
@@ -5347,7 +5963,13 @@
 "ente": "Comune di Bisceglie",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=239dc10aea11441b83257344acbf1c24"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=239dc10aea11441b83257344acbf1c24",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova si considera superata ove il candidato abbia ottenuto una votazione pari o superiore a ventuno (21/30)"
+}
+}
 },
 {
 "id": "71954db6211049d1820d01ff17874cc7",
@@ -5357,7 +5979,17 @@
 "ente": "Comune di Roseto Degli Abruzzi",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=71954db6211049d1820d01ff17874cc7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=71954db6211049d1820d01ff17874cc7",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "I test conterranno 30 quesiti con tre risposte per ciascuno di essi"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La prova sarà valutata in trentesimi e si intenderà superata qualora si raggiunga il punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "b824b75ce3524c7babe53faa07c09194",
@@ -5367,7 +5999,8 @@
 "ente": "Comune di Trecastagni",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b824b75ce3524c7babe53faa07c09194"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b824b75ce3524c7babe53faa07c09194",
+"struttura_letta": {}
 },
 {
 "id": "dc5e700195d24ab09fa3b8d5370b2c35",
@@ -5377,7 +6010,13 @@
 "ente": "Comune di Cerea",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dc5e700195d24ab09fa3b8d5370b2c35"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dc5e700195d24ab09fa3b8d5370b2c35",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi a partecipare alla successiva fase della prova scritta solamente coloro che abbiano riportato una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "539abe8122844004a1eddf23e623e2d9",
@@ -5387,7 +6026,8 @@
 "ente": "Comune di Stintino",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=539abe8122844004a1eddf23e623e2d9"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=539abe8122844004a1eddf23e623e2d9",
+"struttura_letta": {}
 },
 {
 "id": "3f4c5dd7abd242f8aaf341e57b5bd974",
@@ -5397,7 +6037,29 @@
 "ente": "Comune di Fagnano Castello",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3f4c5dd7abd242f8aaf341e57b5bd974"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3f4c5dd7abd242f8aaf341e57b5bd974",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "La prova preselettiva consisterà in 30 quesiti a risposta multipla con 3 possibili risposte, di cui 2 errate ed una esatta, da svolgere in 30 minuti"
+},
+"minuti": {
+"valore": 30,
+"frase": "La prova preselettiva consisterà in 30 quesiti a risposta multipla con 3 possibili risposte, di cui 2 errate ed una esatta, da svolgere in 30 minuti"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La preselezione si intende superata con l’ottenimento del punteggio minimo di 21/30"
+}
+},
+"prova": {
+"quesiti": 30,
+"minuti": 30,
+"opzioni": 4,
+"penalita": 0,
+"fonte": "bando",
+"soglia": 21
+}
 },
 {
 "id": "fa5d6d553e864dd281170b1bb3bef3b8",
@@ -5407,7 +6069,13 @@
 "ente": "Provincia di Brescia",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa5d6d553e864dd281170b1bb3bef3b8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa5d6d553e864dd281170b1bb3bef3b8",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata, con ammissione alla prova orale, con il conseguimento di una votazione non inferiore a 21/30, con punteggio massimo di 30"
+}
+}
 },
 {
 "id": "e4aca9c0e39a4deba655644c00d0401b",
@@ -5417,7 +6085,13 @@
 "ente": "Comune di Roccafranca",
 "posti": 1,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e4aca9c0e39a4deba655644c00d0401b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e4aca9c0e39a4deba655644c00d0401b",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata con una votazione minima di 21/30"
+}
+}
 },
 {
 "id": "e605dcbfe69f4360b1c555ec5c955b2a",
@@ -5427,7 +6101,8 @@
 "ente": "Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e605dcbfe69f4360b1c555ec5c955b2a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e605dcbfe69f4360b1c555ec5c955b2a",
+"struttura_letta": {}
 },
 {
 "id": "16113723234a42948a566bea97f98fc3",
@@ -5437,7 +6112,13 @@
 "ente": "AZIENDA SANITARIA TERRITORIALE DI MACERATA",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=16113723234a42948a566bea97f98fc3"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=16113723234a42948a566bea97f98fc3",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "nto di ciascuna delle previste prove scritta e pratica è subordinato al raggiungimento di una valutazione di sufficienza espressa in termini numerici di almeno 21/30"
+}
+}
 },
 {
 "id": "cdb98cc6ca5b4a68b797302010332c6e",
@@ -5447,7 +6128,8 @@
 "ente": "Istituto G. Falusi",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cdb98cc6ca5b4a68b797302010332c6e"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cdb98cc6ca5b4a68b797302010332c6e",
+"struttura_letta": {}
 },
 {
 "id": "7d1a8ba3839b4598bc650ed879d2bc43",
@@ -5457,7 +6139,8 @@
 "ente": "Comune di Campobasso",
 "posti": 1,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7d1a8ba3839b4598bc650ed879d2bc43"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7d1a8ba3839b4598bc650ed879d2bc43",
+"struttura_letta": {}
 },
 {
 "id": "d4dc715c4e1341c1ba3cc2eea3b121c6",
@@ -5467,7 +6150,8 @@
 "ente": "Comune di Massa e Cozzile",
 "posti": 1,
 "scade": "2026-11-05",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4dc715c4e1341c1ba3cc2eea3b121c6"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4dc715c4e1341c1ba3cc2eea3b121c6",
+"struttura_letta": {}
 },
 {
 "id": "2d60ff3cb039402688086a183b5bc7da",
@@ -5477,7 +6161,8 @@
 "ente": "Comune di Ghedi",
 "posti": 1,
 "scade": "2026-11-03",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2d60ff3cb039402688086a183b5bc7da"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2d60ff3cb039402688086a183b5bc7da",
+"struttura_letta": {}
 },
 {
 "id": "09cac184b073442f842d5b6947ee5dcb",
@@ -5487,7 +6172,29 @@
 "ente": "Unione Dei Comuni Delle Terre del Sole",
 "posti": 1,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09cac184b073442f842d5b6947ee5dcb"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09cac184b073442f842d5b6947ee5dcb",
+"struttura_letta": {
+"quesiti": {
+"valore": 40,
+"frase": "40 quesiti a risposta multipla, da risolvere nel tempo massimo di 60 minuti, fatti salvi gli eventuali tempi aggiuntivi e gli altri ausili riconosciuti ai candidati avent"
+},
+"minuti": {
+"valore": 60,
+"frase": "40 quesiti a risposta multipla, da risolvere nel tempo massimo di 60 minuti, fatti salvi gli eventuali tempi aggiuntivi e gli altri ausili riconosciuti ai candidati aventi diritto secondo la normativa vigente"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata dai candidati che conseguano una votazione non inferiore a 21/30"
+}
+},
+"prova": {
+"quesiti": 40,
+"minuti": 60,
+"opzioni": 4,
+"penalita": 0,
+"fonte": "bando",
+"soglia": 28
+}
 },
 {
 "id": "cafa939f82c144fe82536de2bbc1e7fa",
@@ -5497,7 +6204,13 @@
 "ente": "Comune di Carru",
 "posti": 1,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cafa939f82c144fe82536de2bbc1e7fa"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cafa939f82c144fe82536de2bbc1e7fa",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata qualora il candidato consegua una votazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "4428b3e31fb142de97b45ab1dc268c8e",
@@ -5507,7 +6220,13 @@
 "ente": "Comune di Grassobbio",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4428b3e31fb142de97b45ab1dc268c8e"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4428b3e31fb142de97b45ab1dc268c8e",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La preselezione si intenderà superata avendo ottenuto in punteggio minino di 21/30"
+}
+}
 },
 {
 "id": "0348a9032c1f416f88ae8772b1cd6a51",
@@ -5517,7 +6236,13 @@
 "ente": "Comune di Prato",
 "posti": 1,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0348a9032c1f416f88ae8772b1cd6a51"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0348a9032c1f416f88ae8772b1cd6a51",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento di ciascuna prova d’esame è subordinato al conseguimento di una valutazione corrispondente ad almeno a 21/30 (ventuno/trentesimi)"
+}
+}
 },
 {
 "id": "39013c59a1e4435f9f9341734c795343",
@@ -5527,7 +6252,8 @@
 "ente": "Alma Mater Studiorum - Universita' di Bologna",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39013c59a1e4435f9f9341734c795343"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39013c59a1e4435f9f9341734c795343",
+"struttura_letta": {}
 },
 {
 "id": "a5b0c9e3066e4af1aaf669a743bd32a1",
@@ -5537,7 +6263,13 @@
 "ente": "Comunità del Collio",
 "posti": 1,
 "scade": "2026-11-04",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5b0c9e3066e4af1aaf669a743bd32a1"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5b0c9e3066e4af1aaf669a743bd32a1",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "prova di efficienza fisica i primi 30 candidati secondo l’ordine della graduatoria della preselezione, purché abbiano conseguito una votazione non inferiore a 21/30, nonché tutti i candidati collocati ex aequo con il candida"
+}
+}
 },
 {
 "id": "e09a45320fd34d628d6b378d20af7225",
@@ -5547,7 +6279,8 @@
 "ente": "Comune di Valenza",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e09a45320fd34d628d6b378d20af7225"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e09a45320fd34d628d6b378d20af7225",
+"struttura_letta": {}
 },
 {
 "id": "f33770c1fe934fa0aa702b2dc5b2f791",
@@ -5557,7 +6290,8 @@
 "ente": "Comune di Arluno",
 "posti": 1,
 "scade": "2026-10-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f33770c1fe934fa0aa702b2dc5b2f791"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f33770c1fe934fa0aa702b2dc5b2f791",
+"struttura_letta": {}
 },
 {
 "id": "4f3ee6c998d94344943c4a76ca9bf9d2",
@@ -5567,7 +6301,13 @@
 "ente": "Consiglio Regionale del Veneto",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f3ee6c998d94344943c4a76ca9bf9d2"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f3ee6c998d94344943c4a76ca9bf9d2",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta s’intende superata con una votazione minima di 21/30 (ventuno trentesimi)"
+}
+}
 },
 {
 "id": "f3cafe95db174086913d7410738d9ede",
@@ -5577,7 +6317,13 @@
 "ente": "Comune di Galatina",
 "posti": 1,
 "scade": "2026-10-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3cafe95db174086913d7410738d9ede"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3cafe95db174086913d7410738d9ede",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento delle prove d’esame è subordinato al raggiungimento del punteggio minimo di 21/30 in ciascuna prova"
+}
+}
 },
 {
 "id": "c7cfe584ba6f43b69525e9b72aec63a9",
@@ -5587,7 +6333,8 @@
 "ente": "Universita' degli Studi di Napoli Federico II",
 "posti": 1,
 "scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c7cfe584ba6f43b69525e9b72aec63a9"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c7cfe584ba6f43b69525e9b72aec63a9",
+"struttura_letta": {}
 },
 {
 "id": "1a975591186c4319817f84d2969fdeaa",
@@ -5597,7 +6344,8 @@
 "ente": "Universita' degli Studi di Napoli Federico II",
 "posti": 1,
 "scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1a975591186c4319817f84d2969fdeaa"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1a975591186c4319817f84d2969fdeaa",
+"struttura_letta": {}
 },
 {
 "id": "2770c1f5a6904f26b195fef53c40df83",
@@ -5607,7 +6355,8 @@
 "ente": "Comune di Cuggiono",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2770c1f5a6904f26b195fef53c40df83"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2770c1f5a6904f26b195fef53c40df83",
+"struttura_letta": {}
 },
 {
 "id": "29ff490fb92149a098a0443747410ec9",
@@ -5617,7 +6366,8 @@
 "ente": "Consiglio dell'Ordine Degli Avvocati di Treviso",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=29ff490fb92149a098a0443747410ec9"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=29ff490fb92149a098a0443747410ec9",
+"struttura_letta": {}
 },
 {
 "id": "188d1037a2b94268a5d75ee6725c1f22",
@@ -5627,7 +6377,8 @@
 "ente": "Comune di Rovato",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=188d1037a2b94268a5d75ee6725c1f22"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=188d1037a2b94268a5d75ee6725c1f22",
+"struttura_letta": {}
 },
 {
 "id": "f993805c841744afaf28b4184356fa1b",
@@ -5637,7 +6388,8 @@
 "ente": "Comune di San Stino di Livenza",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f993805c841744afaf28b4184356fa1b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f993805c841744afaf28b4184356fa1b",
+"struttura_letta": {}
 },
 {
 "id": "a8d250bb9beb40feb09d3cab98ebe399",
@@ -5647,7 +6399,13 @@
 "ente": "Comune di Riomaggiore",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a8d250bb9beb40feb09d3cab98ebe399"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a8d250bb9beb40feb09d3cab98ebe399",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "14 - Soglie, esiti e punteggio finale È ammesso alla prova orale chi consegue almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "e8a3a2d71e154b45895521253e213f07",
@@ -5657,7 +6415,13 @@
 "ente": "Comune di Riomaggiore",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e8a3a2d71e154b45895521253e213f07"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e8a3a2d71e154b45895521253e213f07",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova è superata con almeno 21/30"
+}
+}
 },
 {
 "id": "07d186d0824d41d3bc6fc2fd954098b1",
@@ -5667,7 +6431,13 @@
 "ente": "Universita' degli Studi di Foggia",
 "posti": 1,
 "scade": "2026-10-17",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=07d186d0824d41d3bc6fc2fd954098b1"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=07d186d0824d41d3bc6fc2fd954098b1",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ogni singola prova si intende superata se il/la candidato/a ottiene una votazione minima di 21/30"
+}
+}
 },
 {
 "id": "117a946b94de43eea917380e306c6630",
@@ -5677,7 +6447,13 @@
 "ente": "Unione di Comuni Valmarecchia",
 "posti": 1,
 "scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=117a946b94de43eea917380e306c6630"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=117a946b94de43eea917380e306c6630",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova s’intende superata con un punteggio pari ad almeno 21/30"
+}
+}
 },
 {
 "id": "56bda2d97dd141598718815d85306669",
@@ -5687,7 +6463,13 @@
 "ente": "Comune di Prevalle",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=56bda2d97dd141598718815d85306669"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=56bda2d97dd141598718815d85306669",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "A seguito della preselezione, saranno ammessi alle prove di concorso i concorrenti che avranno ottenuto un punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "706ee0583201414298634a119f2861b3",
@@ -5697,7 +6479,8 @@
 "ente": "Comune di Villafranca Piemonte",
 "posti": 1,
 "scade": "2026-10-19",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=706ee0583201414298634a119f2861b3"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=706ee0583201414298634a119f2861b3",
+"struttura_letta": {}
 },
 {
 "id": "28397cf68f6e458cb161b510529841a4",
@@ -5707,7 +6490,13 @@
 "ente": "Comune di Villafranca Piemonte",
 "posti": 1,
 "scade": "2026-10-19",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=28397cf68f6e458cb161b510529841a4"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=28397cf68f6e458cb161b510529841a4",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata con una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "378b69068a6e447e81126aa3f381322a",
@@ -5717,7 +6506,8 @@
 "ente": "Comune di Villafranca Piemonte",
 "posti": 1,
 "scade": "2026-10-19",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=378b69068a6e447e81126aa3f381322a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=378b69068a6e447e81126aa3f381322a",
+"struttura_letta": {}
 },
 {
 "id": "c073402528a54e908eff1e367eddd7c1",
@@ -5727,7 +6517,17 @@
 "ente": "Ordine Degli Architetti P.P.C. della Provincia di Potenza",
 "posti": 1,
 "scade": "2026-10-19",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c073402528a54e908eff1e367eddd7c1"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c073402528a54e908eff1e367eddd7c1",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Accederanno alla prova orale i candidati che abbiano ottenuto almeno il punteggio di 21/30 nella prova scritta"
+},
+"penalita": {
+"valore": 0.2,
+"frase": "Risposta errata: -0,20 punti"
+}
+}
 },
 {
 "id": "18d033ff33ac413683ed6f1c647c4135",
@@ -5737,7 +6537,13 @@
 "ente": "Comune di Arcore",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=18d033ff33ac413683ed6f1c647c4135"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=18d033ff33ac413683ed6f1c647c4135",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi a sostenere la prova pratica i/le candidati/e che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "78227927425a4c71b50ac18dc774a1be",
@@ -5747,7 +6553,13 @@
 "ente": "Azienda Socio Sanitaria Territoriale di Pavia",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=78227927425a4c71b50ac18dc774a1be"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=78227927425a4c71b50ac18dc774a1be",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "delle prove scritta e pratica è subordinato al raggiungimento di una valutazione di sufficienza, per ogni singola prova, espressa in termini numerici di almeno 21/30"
+}
+}
 },
 {
 "id": "d6319369f2f044e4b25094207f9c6c56",
@@ -5757,7 +6569,8 @@
 "ente": "Provincia di Ferrara",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d6319369f2f044e4b25094207f9c6c56"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d6319369f2f044e4b25094207f9c6c56",
+"struttura_letta": {}
 },
 {
 "id": "91c5f35137f444c5988bbddaba6400fe",
@@ -5767,7 +6580,17 @@
 "ente": "Comune di Vieste",
 "posti": 1,
 "scade": "2026-12-15",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91c5f35137f444c5988bbddaba6400fe"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91c5f35137f444c5988bbddaba6400fe",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti sulle materie oggetto della prova orale"
+},
+"soglia30": {
+"valore": 18,
+"frase": "esatta: punti 1 (uno); • Per ogni risposta non data: punti 0 (zero); La prova scritta si intende superata con il conseguimento di una votazione non inferiore a 18/30"
+}
+}
 },
 {
 "id": "9482d136c93d4f37bcb94d36cecbf40f",
@@ -5777,7 +6600,8 @@
 "ente": "Comune di Castellina in Chianti",
 "posti": 1,
 "scade": "2026-11-01",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9482d136c93d4f37bcb94d36cecbf40f"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9482d136c93d4f37bcb94d36cecbf40f",
+"struttura_letta": {}
 },
 {
 "id": "36a81f753c134ecdb37327146e33bc26",
@@ -5787,7 +6611,8 @@
 "ente": "Agenzia Regionale per la Prevenzione, l'Ambiente e l'Energia dell'Emilia Romagna",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=36a81f753c134ecdb37327146e33bc26"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=36a81f753c134ecdb37327146e33bc26",
+"struttura_letta": {}
 },
 {
 "id": "83cc88514008441cbc9bef45e658f892",
@@ -5797,7 +6622,13 @@
 "ente": "Comune di Roccabruna",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=83cc88514008441cbc9bef45e658f892"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=83cc88514008441cbc9bef45e658f892",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il punteggio minimo per superare la prova preselettiva è pari a 21/30; Saranno ammessi alla prova scritta i primi 10 candidati che hanno conseguito il punteggio più alto Sono esentati dalla prova i candidati con disabilità pari o"
+}
+}
 },
 {
 "id": "a5ce81fb16cd4ccfb38e0a0c6062e3a0",
@@ -5807,7 +6638,8 @@
 "ente": "Comune di Magomadas",
 "posti": 1,
 "scade": "2026-10-17",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5ce81fb16cd4ccfb38e0a0c6062e3a0"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5ce81fb16cd4ccfb38e0a0c6062e3a0",
+"struttura_letta": {}
 },
 {
 "id": "742d7bec18d640fe8c8fe291cbe74478",
@@ -5817,7 +6649,8 @@
 "ente": "Comune di Lavenone",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=742d7bec18d640fe8c8fe291cbe74478"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=742d7bec18d640fe8c8fe291cbe74478",
+"struttura_letta": {}
 },
 {
 "id": "34c50c75edbe44ea9294cd7862ac6f0e",
@@ -5827,7 +6660,8 @@
 "ente": "Comune di Torre Pallavicina",
 "posti": 1,
 "scade": "2026-10-19",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=34c50c75edbe44ea9294cd7862ac6f0e"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=34c50c75edbe44ea9294cd7862ac6f0e",
+"struttura_letta": {}
 },
 {
 "id": "f7d3d772dfd84dbc899672dcb7fec730",
@@ -5837,7 +6671,8 @@
 "ente": "Comune di Vedano Olona",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f7d3d772dfd84dbc899672dcb7fec730"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f7d3d772dfd84dbc899672dcb7fec730",
+"struttura_letta": {}
 },
 {
 "id": "333b108f0c9348cd945118c8574a9e9f",
@@ -5847,7 +6682,32 @@
 "ente": "Comune di Montorso Vicentino",
 "posti": 1,
 "scade": "2026-11-01",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=333b108f0c9348cd945118c8574a9e9f"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=333b108f0c9348cd945118c8574a9e9f",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "La prova scritta consisterà nella somministrazione di un test di 30 domande a risposta multipla COPIA CONFORME ALL'ORIGINALE INFORMATICO"
+},
+"minuti": {
+"valore": 30,
+"frase": ") da risolvere in 30 minuti, volto a verificare la cultura generale, le capacità trasversali quali il ragionamento logico, verbale, numerico, astratto, spaziale, la velocità e la precisio"
+},
+"penalita": {
+"valore": 0.25,
+"frase": "FIRMATO _______________________________ I punteggi attribuibili saranno i seguenti: - Risposta corretta: 1 punto - Risposta non data: 0 punti - Risposta errata: -0.25 punti"
+},
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che abbiano superato la prova scritta c o n una votazione di almeno 21/30"
+}
+},
+"prova": {
+"quesiti": 30,
+"minuti": 30,
+"opzioni": 4,
+"penalita": 0.25,
+"fonte": "bando"
+}
 },
 {
 "id": "3639913831264a00a06d10fd14d574fd",
@@ -5857,7 +6717,8 @@
 "ente": "Azienda Pubblica di Servizi alla Persona Centro Residenziale Matteo Remaggi",
 "posti": 1,
 "scade": "2026-10-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3639913831264a00a06d10fd14d574fd"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3639913831264a00a06d10fd14d574fd",
+"struttura_letta": {}
 },
 {
 "id": "e596850c0be34458a6dc840b5d9bb5a4",
@@ -5867,7 +6728,29 @@
 "ente": "Comune di Nettuno",
 "posti": 1,
 "scade": "2026-10-16",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e596850c0be34458a6dc840b5d9bb5a4"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e596850c0be34458a6dc840b5d9bb5a4",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 domande a risposta multipla, di cui una sola corretta, sulle materie di esame, a cui è necessario fornire la risposta corre"
+},
+"minuti": {
+"valore": 30,
+"frase": "La preselezione consisterà nella compilazione di un test della durata di 30 minuti, con n"
+},
+"soglia30": {
+"valore": 21,
+"frase": "B) PROVA ORALE Saranno ammessi a sostenere la prova orale i candidati che abbiano superato la prova scritta con una valutazione non inferiore a 21/30"
+}
+},
+"prova": {
+"quesiti": 30,
+"minuti": 30,
+"opzioni": 4,
+"penalita": 0,
+"fonte": "bando",
+"soglia": 21
+}
 },
 {
 "id": "0caae05e62ab45b29edb2702bb2effd4",
@@ -5877,7 +6760,17 @@
 "ente": "Comune di Carobbio Degli Angeli",
 "posti": 1,
 "scade": "2026-10-17",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0caae05e62ab45b29edb2702bb2effd4"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0caae05e62ab45b29edb2702bb2effd4",
+"struttura_letta": {
+"minuti": {
+"valore": 30,
+"frase": "Si avvisano i candidati di presentarsi 30 minuti prima all’orario previsto, munito del documento di riconoscimento al fine di provvedere all’identificazione dei candidati"
+},
+"soglia30": {
+"valore": 21,
+"frase": "al massimo di 60 punti, così ripartiti: • prova scritta punti 30 • prova orale (colloquio) punti 30 Le prove si intendono superate con la valutazione di almeno 21/30"
+}
+}
 },
 {
 "id": "dc4beaf8ca084d34b439c99051846d54",
@@ -5887,7 +6780,8 @@
 "ente": "Conservatorio Statale di Musica Guido Cantelli",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dc4beaf8ca084d34b439c99051846d54"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dc4beaf8ca084d34b439c99051846d54",
+"struttura_letta": {}
 },
 {
 "id": "933d4244fbd042b09b0001b61e404b8f",
@@ -5897,7 +6791,8 @@
 "ente": "Conservatorio Statale di Musica Guido Cantelli",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=933d4244fbd042b09b0001b61e404b8f"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=933d4244fbd042b09b0001b61e404b8f",
+"struttura_letta": {}
 },
 {
 "id": "3e2144b7a46342c69d02da87823b7f3c",
@@ -5907,7 +6802,8 @@
 "ente": "Conservatorio Statale di Musica Guido Cantelli",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e2144b7a46342c69d02da87823b7f3c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e2144b7a46342c69d02da87823b7f3c",
+"struttura_letta": {}
 },
 {
 "id": "d4bf7b07b89b45dca8698f0d8a22c802",
@@ -5917,7 +6813,13 @@
 "ente": "Comune di Portogruaro",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4bf7b07b89b45dca8698f0d8a22c802"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4bf7b07b89b45dca8698f0d8a22c802",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "satta oppure prova per questionario e per test; Conseguono l’ammissione alla prova orale i concorrenti che hanno riportato nella prova scritta una votazione di 21/30"
+}
+}
 },
 {
 "id": "1e7140d890b2422b83949fe563075462",
@@ -5927,7 +6829,17 @@
 "ente": "Comune di Torricella in Sabina",
 "posti": 1,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e7140d890b2422b83949fe563075462"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e7140d890b2422b83949fe563075462",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti a risposta multipla, con una sola risposta esatta, aventi contenuto attitudinale e/o professionale e vertenti sulle materie previste dal programma d’esame"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La prova preselettiva si intende superata dai candidati che abbiano conseguito un punteggio pari o superiore a 21/30"
+}
+}
 },
 {
 "id": "bb9607d543a74e7a95ea9c13085cde7e",
@@ -5937,7 +6849,8 @@
 "ente": "Comune di Cavernago",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bb9607d543a74e7a95ea9c13085cde7e"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bb9607d543a74e7a95ea9c13085cde7e",
+"struttura_letta": {}
 },
 {
 "id": "330c37e25785430e9c2cb0d80355df6a",
@@ -5947,7 +6860,8 @@
 "ente": "Comune di Gargnano",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=330c37e25785430e9c2cb0d80355df6a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=330c37e25785430e9c2cb0d80355df6a",
+"struttura_letta": {}
 },
 {
 "id": "5a8204c4608247e69fc96958aa07b957",
@@ -5957,7 +6871,13 @@
 "ente": "Unione Reno Galliera",
 "posti": 1,
 "scade": "2026-10-16",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5a8204c4608247e69fc96958aa07b957"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5a8204c4608247e69fc96958aa07b957",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "aafc8ba99dc2419cbd00c21cd46cbe90",
@@ -5967,7 +6887,13 @@
 "ente": "Comune di Rocca Pia",
 "posti": 1,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aafc8ba99dc2419cbd00c21cd46cbe90"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aafc8ba99dc2419cbd00c21cd46cbe90",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "sione dispone di 60 punti così suddivisi: - prova scritta: 30 - prova orale: 30 L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta La prova orale si considera superata ove il concorrente abbia conseguito almeno 21/30"
+}
+}
 },
 {
 "id": "e48659bdc959469286c95d633723d78f",
@@ -5977,7 +6903,13 @@
 "ente": "Comune di Morbegno",
 "posti": 1,
 "scade": "2026-11-03",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e48659bdc959469286c95d633723d78f"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e48659bdc959469286c95d633723d78f",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "8 – Valutazione delle prove d’esame La prova scritta si intende superata con il conseguimento di una valutazione di almeno 21/30"
+}
+}
 },
 {
 "id": "a5da684fb84f4451a08db3e84c5f4fb9",
@@ -5987,7 +6919,13 @@
 "ente": "Azienda Sanitaria Locale AL di Alessandria",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5da684fb84f4451a08db3e84c5f4fb9"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5da684fb84f4451a08db3e84c5f4fb9",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento della prova scritta è subordinato al raggiungimento di una valutazione di sufficienza espressa in termini numerici di almeno 21/30"
+}
+}
 },
 {
 "id": "5005c2c4655b4ca2a921908fd20426bf",
@@ -5997,7 +6935,13 @@
 "ente": "Comune di Piobesi Torinese",
 "posti": 1,
 "scade": "2026-10-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5005c2c4655b4ca2a921908fd20426bf"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5005c2c4655b4ca2a921908fd20426bf",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "6c585a0eeb6e4041b77efb66148416aa",
@@ -6007,7 +6951,13 @@
 "ente": "Unione Montana Feltrina",
 "posti": 1,
 "scade": "2026-10-16",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6c585a0eeb6e4041b77efb66148416aa"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6c585a0eeb6e4041b77efb66148416aa",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Le prove d'esame si intendono superate se il candidato ottiene una votazione di almeno 21/30 in ciascuna di esse"
+}
+}
 },
 {
 "id": "5c50ea0f14c14edc818fe2e1abf88247",
@@ -6017,7 +6967,13 @@
 "ente": "Comune di Melzo",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c50ea0f14c14edc818fe2e1abf88247"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c50ea0f14c14edc818fe2e1abf88247",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Vengono ammessi alla successiva prova orale i candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "22a9bb83fe934e6ea7d78f3ed712b4bb",
@@ -6027,7 +6983,13 @@
 "ente": "Comune di Melzo",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=22a9bb83fe934e6ea7d78f3ed712b4bb"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=22a9bb83fe934e6ea7d78f3ed712b4bb",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Vengono ammessi alla successiva prova orale i candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "4c81b9fa82b0411d9dbdf1a1d6474c1b",
@@ -6037,7 +6999,13 @@
 "ente": "Comune di Piazzola Sul Brenta",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4c81b9fa82b0411d9dbdf1a1d6474c1b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4c81b9fa82b0411d9dbdf1a1d6474c1b",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova scritta tutti i candidati che avranno conseguito un punteggio non inferiore a 21/30"
+}
+}
 },
 {
 "id": "8f1a48b5c32e4347b1d14abacf7670c1",
@@ -6047,7 +7015,8 @@
 "ente": "Ordine dei Farmacisti della Provincia di Trieste",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8f1a48b5c32e4347b1d14abacf7670c1"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8f1a48b5c32e4347b1d14abacf7670c1",
+"struttura_letta": {}
 },
 {
 "id": "196d68e5ba674440833059ce80f628d6",
@@ -6057,7 +7026,13 @@
 "ente": "Comune di Schignano",
 "posti": 1,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=196d68e5ba674440833059ce80f628d6"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=196d68e5ba674440833059ce80f628d6",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Alla prova orale sono ammessi i candidati che hanno riportato nella prova scritta un punteggio minimo non inferiore a 21/30"
+}
+}
 },
 {
 "id": "baefdcecea184002a7dc49185866db33",
@@ -6067,7 +7042,13 @@
 "ente": "Comune di Venegono Inferiore",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=baefdcecea184002a7dc49185866db33"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=baefdcecea184002a7dc49185866db33",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi a sostenere la prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "8ad1e3bcfa6c4b5f8e012d69bd1b2ba3",
@@ -6077,7 +7058,8 @@
 "ente": "Unione Comuni Modenesi Area Nord",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8ad1e3bcfa6c4b5f8e012d69bd1b2ba3"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8ad1e3bcfa6c4b5f8e012d69bd1b2ba3",
+"struttura_letta": {}
 },
 {
 "id": "beef39dcb9a749e4917e22701a19b0b7",
@@ -6087,7 +7069,13 @@
 "ente": "Unione Comuni D'Ogliastra",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=beef39dcb9a749e4917e22701a19b0b7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=beef39dcb9a749e4917e22701a19b0b7",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova scritta i primi 50 candidati, oltre agli eventuali ex aequo nell’ultima posizione, che abbiano conseguito almeno 21/30"
+}
+}
 },
 {
 "id": "efc184e902824cab905e7c4ce1bf3ee5",
@@ -6097,7 +7085,8 @@
 "ente": "Comune di Notaresco",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=efc184e902824cab905e7c4ce1bf3ee5"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=efc184e902824cab905e7c4ce1bf3ee5",
+"struttura_letta": {}
 },
 {
 "id": "f8d8e8ef475844daa9ac7387740f7c28",
@@ -6107,7 +7096,8 @@
 "ente": "Comune di Notaresco",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f8d8e8ef475844daa9ac7387740f7c28"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f8d8e8ef475844daa9ac7387740f7c28",
+"struttura_letta": {}
 },
 {
 "id": "0d5aca0a41df498a95ff17ef1f726f96",
@@ -6117,7 +7107,8 @@
 "ente": "Autorita' di Bacino Lacuale Dei Laghi Maggiore Comabbio Monate Varese",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0d5aca0a41df498a95ff17ef1f726f96"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0d5aca0a41df498a95ff17ef1f726f96",
+"struttura_letta": {}
 },
 {
 "id": "85a1ceb1ff1346f087f279a44612fb54",
@@ -6127,7 +7118,8 @@
 "ente": "Azienda Pubblica Servizi alla Persona Maria Redditi",
 "posti": 1,
 "scade": "2026-11-02",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85a1ceb1ff1346f087f279a44612fb54"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85a1ceb1ff1346f087f279a44612fb54",
+"struttura_letta": {}
 },
 {
 "id": "855f6de10e7d4b0d870010f74d8dd8cf",
@@ -6137,7 +7129,13 @@
 "ente": "Comune di Magenta",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=855f6de10e7d4b0d870010f74d8dd8cf"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=855f6de10e7d4b0d870010f74d8dd8cf",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Sono ammessi alla prova scritta i candidati che abbiano conseguito nella prova preselettiva un punteggio non inferiore a 21/30, fino a un numero massimo di 30 (trenta) candidati"
+}
+}
 },
 {
 "id": "b8e3da0eab474884b7242742224160d2",
@@ -6147,7 +7145,13 @@
 "ente": "Universita' degli Studi dell 'Insubria",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b8e3da0eab474884b7242742224160d2"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b8e3da0eab474884b7242742224160d2",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intenderà superata se il/la candidato/a avrà ottenuto una votazione di almeno 21/30 (ventuno/trentesimi)"
+}
+}
 },
 {
 "id": "46bfd44307774669adc3b261a54996dc",
@@ -6157,7 +7161,13 @@
 "ente": "Universita' degli Studi di Urbino ''Carlo Bo''",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=46bfd44307774669adc3b261a54996dc"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=46bfd44307774669adc3b261a54996dc",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Alla prova orale saranno ammessi solo coloro che avranno ottenuto nella prova scritta una votazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "0fde6b4bea5c411d8eafa406b60f7b13",
@@ -6167,7 +7177,8 @@
 "ente": "Comune di Camerata Picena",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0fde6b4bea5c411d8eafa406b60f7b13"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0fde6b4bea5c411d8eafa406b60f7b13",
+"struttura_letta": {}
 },
 {
 "id": "3ad2df0b116a4157af767b00e02f3904",
@@ -6177,7 +7188,8 @@
 "ente": "Comune di Pozzo D'Adda",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3ad2df0b116a4157af767b00e02f3904"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3ad2df0b116a4157af767b00e02f3904",
+"struttura_letta": {}
 },
 {
 "id": "85a5a803f9fc4eecaf35c7f2385ca9c2",
@@ -6187,7 +7199,13 @@
 "ente": "Comune di Salussola",
 "posti": 1,
 "scade": "2026-10-31",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85a5a803f9fc4eecaf35c7f2385ca9c2"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85a5a803f9fc4eecaf35c7f2385ca9c2",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento della prova preselettiva è subordinato al conseguimento di un punteggio non inferiore a 21/30: tale punteggio non concorre alla formazione della graduatoria finale di merito, ma sarà valido esclusivamente come soglia minima che per"
+}
+}
 },
 {
 "id": "ae8a4f5a4d3b4ab18e5d1f7356cfaf87",
@@ -6197,7 +7215,13 @@
 "ente": "Comune di Montecatini Val di Cecina",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ae8a4f5a4d3b4ab18e5d1f7356cfaf87"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ae8a4f5a4d3b4ab18e5d1f7356cfaf87",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "nseguono l’ammissione alla prova orale finale i concorrenti che hanno riportato sia nella prova scritta che nella prova tecnico-pratica una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "04d8bf1a536f4796bcb5bbf1bf998b19",
@@ -6207,7 +7231,13 @@
 "ente": "Comune di Turbigo",
 "posti": 1,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=04d8bf1a536f4796bcb5bbf1bf998b19"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=04d8bf1a536f4796bcb5bbf1bf998b19",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova orale s’intende superata per i candidati che ottengono una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "d22ce1eaf15d4facbffbbbafd4ec3b1c",
@@ -6217,7 +7247,8 @@
 "ente": "Comune di Caorle",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d22ce1eaf15d4facbffbbbafd4ec3b1c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d22ce1eaf15d4facbffbbbafd4ec3b1c",
+"struttura_letta": {}
 },
 {
 "id": "e39a707984d14ea3b717b3045b4da20b",
@@ -6227,7 +7258,13 @@
 "ente": "Comune di San Floriano del Collio",
 "posti": 1,
 "scade": "2026-11-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e39a707984d14ea3b717b3045b4da20b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e39a707984d14ea3b717b3045b4da20b",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "r la determinazione del punteggio finale si effettuerà la somma tra la prova scritta e la prova orale, che dovranno raggiungere entrambe la votazione minima di 21/30"
+}
+}
 },
 {
 "id": "8bac51d54fc044418e2463bc9ef39861",
@@ -6237,7 +7274,13 @@
 "ente": "Comune di San Giuliano Milanese",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8bac51d54fc044418e2463bc9ef39861"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8bac51d54fc044418e2463bc9ef39861",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi a sostenere la prova orale i candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "57876c50d38c4fe58a7736c04722703b",
@@ -6247,7 +7290,13 @@
 "ente": "Comune di Rimini",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=57876c50d38c4fe58a7736c04722703b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=57876c50d38c4fe58a7736c04722703b",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova si intende superata con il conseguimento del punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "5c64dc16bf2a48928ec9afc52c7ef8f6",
@@ -6257,7 +7306,13 @@
 "ente": "Comune di Cinisello Balsamo",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c64dc16bf2a48928ec9afc52c7ef8f6"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c64dc16bf2a48928ec9afc52c7ef8f6",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "La prova scritta si intende superata se il candidato ottiene una votazione di almeno 18/30- esimi"
+}
+}
 },
 {
 "id": "89f2738d60144e5f953f77ca240d3b05",
@@ -6267,7 +7322,8 @@
 "ente": "Istituto Superiore per la Protezione e la Ricerca Ambientale",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=89f2738d60144e5f953f77ca240d3b05"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=89f2738d60144e5f953f77ca240d3b05",
+"struttura_letta": {}
 },
 {
 "id": "e3a45d36ebea4c61820d2d9b5b62eec7",
@@ -6277,7 +7333,13 @@
 "ente": "Comune di Belvedere Marittimo",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e3a45d36ebea4c61820d2d9b5b62eec7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e3a45d36ebea4c61820d2d9b5b62eec7",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La valutazione della prova viene espressa con il punteggio massimo di 30 punti e che si intende superata con il conseguimento di una valutazione di almeno 21/30"
+}
+}
 },
 {
 "id": "5284ded481cc442fada5a1fb094ff32a",
@@ -6287,7 +7349,8 @@
 "ente": "Comune di Belvedere Marittimo",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5284ded481cc442fada5a1fb094ff32a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5284ded481cc442fada5a1fb094ff32a",
+"struttura_letta": {}
 },
 {
 "id": "922997c9dde64eedb9b93455b2fcca1f",
@@ -6297,7 +7360,8 @@
 "ente": "Istituto Superiore di Studi Musicali di Reggio Emilia e Castelnovo Nei Monti",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=922997c9dde64eedb9b93455b2fcca1f"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=922997c9dde64eedb9b93455b2fcca1f",
+"struttura_letta": {}
 },
 {
 "id": "aea87cc3100d46e8899d453e95f949a6",
@@ -6307,7 +7371,13 @@
 "ente": "Comune di Priocca",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aea87cc3100d46e8899d453e95f949a6"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aea87cc3100d46e8899d453e95f949a6",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "n candidato/a, così suddivisi: Prova scritta: massimo 30 punti Prova orale: massimo 30 punti La prova scritta si considera superata con una votazione minima di 21/30"
+}
+}
 },
 {
 "id": "de29a4b68f1e410287b20815c93e6598",
@@ -6317,7 +7387,13 @@
 "ente": "Comune di Notaresco",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=de29a4b68f1e410287b20815c93e6598"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=de29a4b68f1e410287b20815c93e6598",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "4 - Soglie di idoneità e ammissione La prova scritta si intende superata con un punteggio non inferiore a 21/30 (ventuno trentesimi)"
+}
+}
 },
 {
 "id": "b6d64ac7be8848658ad543f1ca44ed3c",
@@ -6327,7 +7403,13 @@
 "ente": "Unione della Romagna Faentina",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b6d64ac7be8848658ad543f1ca44ed3c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b6d64ac7be8848658ad543f1ca44ed3c",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova sarà superata con un punteggio minimo di 21/30; - prova orale: consisterà in un colloquio tecnico-specialistico sulle materie d’esame e con le modalità sotto indicate, oltre alla verifica delle competenze c"
+}
+}
 },
 {
 "id": "4a87bb95012141819315edde068894ad",
@@ -6337,7 +7419,21 @@
 "ente": "Provincia di Verona",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4a87bb95012141819315edde068894ad"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4a87bb95012141819315edde068894ad",
+"struttura_letta": {
+"quesiti": {
+"valore": 50,
+"frase": "La prova preselettiva consisterà nella somministrazione, in un tempo predeterminato, di un test com- posto da 50 quesiti a risposta multipla"
+},
+"penalita": {
+"valore": 0.25,
+"frase": "i della valutazione della prova preselettiva sarà attribuito il seguente punteggio: • 1 punto per ciascuna risposta esatta; • -0,50 punti per ciascuna risposta errata; • -0,25 punti per ciascuna risposta omessa"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata con il conseguimento di una votazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "2b94e691f52d40738c0de4b1ef6e4ca0",
@@ -6347,7 +7443,8 @@
 "ente": "Comune di Castiglione delle Stiviere",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2b94e691f52d40738c0de4b1ef6e4ca0"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2b94e691f52d40738c0de4b1ef6e4ca0",
+"struttura_letta": {}
 },
 {
 "id": "a7451c7808d34b968367324aca4bde00",
@@ -6357,7 +7454,8 @@
 "ente": "Comune di Cameri",
 "posti": 1,
 "scade": "2026-10-30",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a7451c7808d34b968367324aca4bde00"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a7451c7808d34b968367324aca4bde00",
+"struttura_letta": {}
 },
 {
 "id": "e117446f12a041ebb11def2ffa32993d",
@@ -6367,7 +7465,17 @@
 "ente": "Comune di Praia a Mare",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e117446f12a041ebb11def2ffa32993d"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e117446f12a041ebb11def2ffa32993d",
+"struttura_letta": {
+"quesiti": {
+"valore": 50,
+"frase": "prove d'esame si articoleranno in una prova scritta (teorico-pratica) ed una prova orale, precedute da un'eventuale preselezione in caso di ricezione di oltre 50 domande"
+},
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta s'intende superata con una votazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "b1a63e94f1ff498e90207b69f763222d",
@@ -6377,7 +7485,13 @@
 "ente": "Comune di Portobuffole'",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b1a63e94f1ff498e90207b69f763222d"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b1a63e94f1ff498e90207b69f763222d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Le prove d'esame si intendono superate se il candidato ottiene una votazione di almeno 21/30 in ciascuna di esse"
+}
+}
 },
 {
 "id": "67541244701a41d5bba7f07bc80a3581",
@@ -6387,7 +7501,13 @@
 "ente": "Comune di Saracena",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67541244701a41d5bba7f07bc80a3581"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67541244701a41d5bba7f07bc80a3581",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "In caso di svolgimento della prova preselettiva saranno ammessi alle prove d’esame tutti i candidati che avranno conseguito un punteggio non inferiore a 21/30"
+}
+}
 },
 {
 "id": "016f326f4fcb447480988137fdef9666",
@@ -6397,7 +7517,13 @@
 "ente": "Azienda di Servizi alla Persona del Distretto di Parma",
 "posti": 1,
 "scade": "2026-10-19",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=016f326f4fcb447480988137fdef9666"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=016f326f4fcb447480988137fdef9666",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova si intende superata con un punteggio pari ad almeno 21/30"
+}
+}
 },
 {
 "id": "5524c4deda624cd893e8fd591219bde0",
@@ -6407,7 +7533,13 @@
 "ente": "Universita' degli Studi di Bergamo",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5524c4deda624cd893e8fd591219bde0"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5524c4deda624cd893e8fd591219bde0",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che abbiano riportato una votazione di almeno punti 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "473492d1a3e6494cb4dc7b624d4fa210",
@@ -6417,7 +7549,8 @@
 "ente": "Universita' degli Studi di Trento",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=473492d1a3e6494cb4dc7b624d4fa210"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=473492d1a3e6494cb4dc7b624d4fa210",
+"struttura_letta": {}
 },
 {
 "id": "63994bdaadbe466589a52ad5fc1832eb",
@@ -6427,7 +7560,13 @@
 "ente": "Comune di Vado Ligure",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=63994bdaadbe466589a52ad5fc1832eb"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=63994bdaadbe466589a52ad5fc1832eb",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi allo svolgimento della prova scritta solamente i candidati che hanno riportato nella prova preselettiva una valutazione non inferiore a 21/30"
+}
+}
 },
 {
 "id": "2bea976ae94a41469f039b1fd8e3cf3a",
@@ -6437,7 +7576,13 @@
 "ente": "Fondazione Don Mozzatti D'Aprili",
 "posti": 1,
 "scade": "2026-10-29",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2bea976ae94a41469f039b1fd8e3cf3a"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2bea976ae94a41469f039b1fd8e3cf3a",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "60 punti così suddivisi: - prova scritta teorico pratica: 30 - prova orale: 30 L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "25755c0be43b4d62927d739f0a2bcce2",
@@ -6447,7 +7592,8 @@
 "ente": "Comune di Perugia",
 "posti": 1,
 "scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25755c0be43b4d62927d739f0a2bcce2"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25755c0be43b4d62927d739f0a2bcce2",
+"struttura_letta": {}
 },
 {
 "id": "f7776804733147ca85433fc74cdaefb8",
@@ -6457,7 +7603,13 @@
 "ente": "Comune di Vedano Olona",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f7776804733147ca85433fc74cdaefb8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f7776804733147ca85433fc74cdaefb8",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova scritta i candidati risultanti dalla graduatoria che avranno totalizzato un punteggio pari o superiore a 21/30"
+}
+}
 },
 {
 "id": "a2f078dbb2fc40899741462af3818366",
@@ -6467,7 +7619,13 @@
 "ente": "Comune di Palombara Sabina",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2f078dbb2fc40899741462af3818366"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2f078dbb2fc40899741462af3818366",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "2) Le prove scritte saranno due, ognuna delle quali si intenderà superata se sarà raggiunto il punteggio minimo di 21/30 e si articoleranno come segue: a) la"
+}
+}
 },
 {
 "id": "e187f96733c543abb1b6a45d16efa220",
@@ -6477,7 +7635,13 @@
 "ente": "Comune di Sordio",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e187f96733c543abb1b6a45d16efa220"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e187f96733c543abb1b6a45d16efa220",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova si intende superata con il conseguimento del punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "0a10243164e84e21951f915b62136582",
@@ -6487,7 +7651,13 @@
 "ente": "Comune di Sordio",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0a10243164e84e21951f915b62136582"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0a10243164e84e21951f915b62136582",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova si intende superata con il conseguimento del punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "8a441ef15aff4416809cb011fc01bd68",
@@ -6497,7 +7667,8 @@
 "ente": "Comune di Auronzo di Cadore",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8a441ef15aff4416809cb011fc01bd68"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8a441ef15aff4416809cb011fc01bd68",
+"struttura_letta": {}
 },
 {
 "id": "75f60d4db1f74cdd93b1e88528b45d87",
@@ -6507,7 +7678,13 @@
 "ente": "Comune di Calolziocorte",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=75f60d4db1f74cdd93b1e88528b45d87"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=75f60d4db1f74cdd93b1e88528b45d87",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "zio di idoneità, in assenza della quale il candidato non potrà essere inserito in graduatoria finale anche se ha superato entrambe le prove con il punteggio di 21/30 o superiore"
+}
+}
 },
 {
 "id": "0c3957d6aebd4b4d8fd0a81eda27eec0",
@@ -6517,7 +7694,13 @@
 "ente": "UNIVERSITA' DELLA CALABRIA",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0c3957d6aebd4b4d8fd0a81eda27eec0"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0c3957d6aebd4b4d8fd0a81eda27eec0",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i/le candidati/e che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "a738ce06ef21456cb68efc4b5c4c297b",
@@ -6527,7 +7710,13 @@
 "ente": "UNIVERSITA' DELLA CALABRIA",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a738ce06ef21456cb68efc4b5c4c297b"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a738ce06ef21456cb68efc4b5c4c297b",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i/le candidati/e che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "b3bb7e07da92484b82e469c0e4916df5",
@@ -6537,7 +7726,13 @@
 "ente": "UNIVERSITA' DELLA CALABRIA",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b3bb7e07da92484b82e469c0e4916df5"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b3bb7e07da92484b82e469c0e4916df5",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i/le candidati/e che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "09b86dd841a04eb68ad11ce4d9cd0187",
@@ -6547,7 +7742,13 @@
 "ente": "UNIVERSITA' DELLA CALABRIA",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09b86dd841a04eb68ad11ce4d9cd0187"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09b86dd841a04eb68ad11ce4d9cd0187",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "it Università della Calabria 7 Saranno ammessi alla prova orale i/le candidati/e che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "7c97553ea2574df9bbaed6afae424e4c",
@@ -6557,7 +7758,13 @@
 "ente": "UNIVERSITA' DELLA CALABRIA",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c97553ea2574df9bbaed6afae424e4c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c97553ea2574df9bbaed6afae424e4c",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i/le candidati/e che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "a55d3f2cec0e44c49756897480c5b453",
@@ -6567,7 +7774,13 @@
 "ente": "Comune di Sommacampagna",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a55d3f2cec0e44c49756897480c5b453"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a55d3f2cec0e44c49756897480c5b453",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che avranno conseguito, in ogni prova scritta, una valutazione minima di 21/30"
+}
+}
 },
 {
 "id": "655b2ebafae84daf97ea9be462f19fcc",
@@ -6577,7 +7790,13 @@
 "ente": "Universita' degli Studi di Bergamo",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=655b2ebafae84daf97ea9be462f19fcc"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=655b2ebafae84daf97ea9be462f19fcc",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che abbiano riportato una votazione di almeno punti 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "c96156ccc0f74509828d96f5577adfc9",
@@ -6587,7 +7806,13 @@
 "ente": "Comune di Ghislarengo",
 "posti": 1,
 "scade": "2026-10-18",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c96156ccc0f74509828d96f5577adfc9"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c96156ccc0f74509828d96f5577adfc9",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "30; L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
 },
 {
 "id": "4adea9de9d0e463e9d1b13763d073fd4",
@@ -6597,7 +7822,13 @@
 "ente": "Comune di Pievepelago",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4adea9de9d0e463e9d1b13763d073fd4"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4adea9de9d0e463e9d1b13763d073fd4",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "(Si precisa che accederanno alla prova orale i candidati che avranno riportato nella prova scritta il punteggio minimo di 21/30)"
+}
+}
 },
 {
 "id": "159e00eac2cf47b6901b24746190dbd8",
@@ -6607,7 +7838,13 @@
 "ente": "Universita Degli Studi di Genova",
 "posti": 1,
 "scade": "2026-10-27",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=159e00eac2cf47b6901b24746190dbd8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=159e00eac2cf47b6901b24746190dbd8",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguono l’ammissione alla prova orale i candidati che abbiano riportato nella prova scritta un punteggio di almeno 21/30"
+}
+}
 },
 {
 "id": "641d9a224a714dc59ea4fa398952363c",
@@ -6617,7 +7854,8 @@
 "ente": "Comune di Valenza",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=641d9a224a714dc59ea4fa398952363c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=641d9a224a714dc59ea4fa398952363c",
+"struttura_letta": {}
 },
 {
 "id": "6e28e516aa414fbdb27c06d00fd52ec7",
@@ -6627,7 +7865,8 @@
 "ente": "Comune di Capaccio",
 "posti": 1,
 "scade": "2026-11-06",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6e28e516aa414fbdb27c06d00fd52ec7"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6e28e516aa414fbdb27c06d00fd52ec7",
+"struttura_letta": {}
 },
 {
 "id": "345553690d414b45a4dba9bc7ad5af96",
@@ -6637,7 +7876,17 @@
 "ente": "Ordine della Professione di Ostetrica della Provincia di Bologna",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=345553690d414b45a4dba9bc7ad5af96"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=345553690d414b45a4dba9bc7ad5af96",
+"struttura_letta": {
+"minuti": {
+"valore": 90,
+"frase": "it | Pagina 3 ORDINE DELLA PROFESSIONE DI OSTETRICA DELLA PROVINCIA DI BOLOGNA Prova scritta teorico-pratica La prova, della durata di 90 minuti, consiste in quesiti a risposta multipla e/o sintetica e in uno o più esercizi operativi diretti a verificare le conoscenze e le competenze necessarie allo svo"
+},
+"soglia30": {
+"valore": 21,
+"frase": "165/2001, la procedura prevede una sola prova scritta teorico-pratica, valutata in trentesimi e superata con almeno 21/30"
+}
+}
 },
 {
 "id": "e1937014ca3b4ee0b62064a6b7a8d92c",
@@ -6647,7 +7896,13 @@
 "ente": "Comune di Cinisello Balsamo",
 "posti": 1,
 "scade": "2026-10-28",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e1937014ca3b4ee0b62064a6b7a8d92c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e1937014ca3b4ee0b62064a6b7a8d92c",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "La prova preselettiva si intende superata se il candidato ottiene una votazione di almeno 18/30- esimi, ma saranno ammessi alla fase concorsuale successiva solamente i candidati idonei collocati nelle prime n"
+}
+}
 },
 {
 "id": "71599964dbdb4d739c2738f4f0174c53",
@@ -6657,7 +7912,13 @@
 "ente": "Istituto Nazionale di Geofisica e Vulcanologia - INGV",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=71599964dbdb4d739c2738f4f0174c53"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=71599964dbdb4d739c2738f4f0174c53",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Alla prova orale sono ammessi i candidati che abbiano riportato un punteggio non inferiore a 21/30 (ventuno/trentesimi) alla prova scritta"
+}
+}
 },
 {
 "id": "34ba83bd60dc4128b3598fe474c72877",
@@ -6667,7 +7928,13 @@
 "ente": "Comune di Orzivecchi",
 "posti": 1,
 "scade": "2026-10-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=34ba83bd60dc4128b3598fe474c72877"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=34ba83bd60dc4128b3598fe474c72877",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "predisposta dalla Commissione esaminatrice che dispone di un massimo di 30 punti: la prova si intende superata se il candidato consegue un punteggio di almeno 21/30"
+}
+}
 },
 {
 "id": "85c399516a744b0d8098480bc010867d",
@@ -6677,7 +7944,8 @@
 "ente": "Unione Colline Matildiche",
 "posti": 1,
 "scade": "2026-10-17",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85c399516a744b0d8098480bc010867d"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85c399516a744b0d8098480bc010867d",
+"struttura_letta": {}
 },
 {
 "id": "735202e1c3f545588c061bb904283b03",
@@ -6687,7 +7955,8 @@
 "ente": "Comune di Cormano",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=735202e1c3f545588c061bb904283b03"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=735202e1c3f545588c061bb904283b03",
+"struttura_letta": {}
 },
 {
 "id": "95136ff0186842c2b6cd5234c544f155",
@@ -6697,7 +7966,8 @@
 "ente": "Comune di San Gregorio di Catania",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=95136ff0186842c2b6cd5234c544f155"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=95136ff0186842c2b6cd5234c544f155",
+"struttura_letta": {}
 },
 {
 "id": "b68450b0dd4d4533bf971058c5bee661",
@@ -6706,8 +7976,9 @@
 "figura": "Funzionario servizi culturali e museali",
 "ente": "Comune di Verona",
 "posti": 1,
-"scade": "2026-10-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b68450b0dd4d4533bf971058c5bee661"
+"scade": "2026-11-10",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b68450b0dd4d4533bf971058c5bee661",
+"struttura_letta": {}
 },
 {
 "id": "4f0ced7fb47843b4b631bb60d0105b17",
@@ -6717,7 +7988,13 @@
 "ente": "Comune di Inverigo",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f0ced7fb47843b4b631bb60d0105b17"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f0ced7fb47843b4b631bb60d0105b17",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguono l’ammissione alla prova orale i candidati che hanno riportato nella prova scritta una valutazione di almeno 21/30"
+}
+}
 },
 {
 "id": "8da19b6bc28d457c830a1c867ee2d7c6",
@@ -6727,7 +8004,8 @@
 "ente": "Comune di Landriano",
 "posti": 1,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8da19b6bc28d457c830a1c867ee2d7c6"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8da19b6bc28d457c830a1c867ee2d7c6",
+"struttura_letta": {}
 },
 {
 "id": "2e937700fa7849a3aa69c25d9b66c0b3",
@@ -6737,7 +8015,8 @@
 "ente": "Comune di Carugate",
 "posti": 1,
 "scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2e937700fa7849a3aa69c25d9b66c0b3"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2e937700fa7849a3aa69c25d9b66c0b3",
+"struttura_letta": {}
 },
 {
 "id": "408e7ba211ac4815a1b49aa5e1cd247d",
@@ -6747,7 +8026,13 @@
 "ente": "Comune di Schio",
 "posti": 1,
 "scade": "2026-10-24",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=408e7ba211ac4815a1b49aa5e1cd247d"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=408e7ba211ac4815a1b49aa5e1cd247d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "per la prova scritta - punti 30 per la prova orale Ogni prova di esame si intende superata solo se verrà valutata dalla Commissione con un punteggio minimo di 21/30"
+}
+}
 },
 {
 "id": "61725ebd36ff4a02818cd635129484ce",
@@ -6757,7 +8042,13 @@
 "ente": "Comune di Cambiago",
 "posti": 1,
 "scade": "2026-10-26",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=61725ebd36ff4a02818cd635129484ce"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=61725ebd36ff4a02818cd635129484ce",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento della prova preselettiva è subordinato al conseguimento di un punteggio non inferiore a 21/30: tale punteggio non concorre alla formazione della graduatoria finale di merito, ma sarà valido esclusivamente com"
+}
+}
 },
 {
 "id": "3407f445ed594334acb0e36f1b12eeb8",
@@ -6767,7 +8058,8 @@
 "ente": "Provincia di Lodi",
 "posti": 1,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3407f445ed594334acb0e36f1b12eeb8"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3407f445ed594334acb0e36f1b12eeb8",
+"struttura_letta": {}
 },
 {
 "id": "9c3782d8180c4075a0f6ee55f875ae98",
@@ -6777,7 +8069,13 @@
 "ente": "Comune di Gorgonzola",
 "posti": 1,
 "scade": "2026-10-17",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9c3782d8180c4075a0f6ee55f875ae98"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9c3782d8180c4075a0f6ee55f875ae98",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi a sostenere la prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "623f3a3bd06248e8960853d1ca63987c",
@@ -6787,7 +8085,8 @@
 "ente": "Comune di Castiglion Fibocchi",
 "posti": 1,
 "scade": "2026-10-25",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=623f3a3bd06248e8960853d1ca63987c"
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=623f3a3bd06248e8960853d1ca63987c",
+"struttura_letta": {}
 },
 {
 "id": "d19a8ec419384d0f8016a7fe50334639",
@@ -7808,16 +9107,6 @@
 "posti": 1,
 "scade": "2026-10-16",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ff9698b956be46c492d40ddf87423bc4"
-},
-{
-"id": "f22b560bc0314eb691d1a2198be860da",
-"profilo": "agente-di-polizia-locale",
-"titolo": "Concorso pubblico per esami per la copertura di n. 1 posto a tempo pieno e indeterminato di “Agente di Polizia locale”, Area degli Istruttori, presso il Settore Polizia Locale. Riserva di n. 1 posto ai sensi dell’art. 1014, comma 1 e 3 e dell’art. 678 comma 9 del d.lgs. 66/2010.",
-"figura": "Agente di Polizia Locale",
-"ente": "Comune di Gerenzano",
-"posti": 1,
-"scade": "2026-10-16",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f22b560bc0314eb691d1a2198be860da"
 },
 {
 "id": "d1fc990e65224b5fbb1266eea3d832a1",
