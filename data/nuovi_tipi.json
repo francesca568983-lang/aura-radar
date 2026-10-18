@@ -28,8 +28,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 65,
-  "posti": 89,
+  "bandi": 60,
+  "posti": 83,
   "esempi": [
    {
     "id": "0086a7caa622478bb3339d1801ea1ace",
@@ -393,6 +393,33 @@
   ]
  },
  {
+  "gruppo": "ALTRO",
+  "bandi": 2,
+  "posti": 3,
+  "esempi": [
+   {
+    "id": "73115355e472460db1a853a27ee28074",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO AL PROFILO PROFESSIONALE DI EDUCATORE – AREA DEI FUNZIONARI E DELL’E.Q. (ex Cat. D) DEL VIGENTE CCNL FUNZIONI LOCALI, DA ASSEGNARE AI SERVIZI GESTITI DA ASP GHIRLANDINA MODENA",
+    "figura": "Educatore",
+    "ente": "ASP Ghirlandina Modena",
+    "posti": 2,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=73115355e472460db1a853a27ee28074"
+   },
+   {
+    "id": "b295f6e7d9704f3e95b4e4e14d97db9d",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO ED INDETERMINATO, NEL PROFILO PROFESSIONALE DI \"VICE COMMISSARIO DI POLIZIA LOCALE\" (AREA DEI FUNZIONARI ED E.Q.)",
+    "figura": "Vice Commissario di Polizia Locale (Area dei funzionari ed E.Q.)",
+    "ente": "Comune di Savona",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b295f6e7d9704f3e95b4e4e14d97db9d"
+   }
+  ]
+ },
+ {
   "gruppo": "responsabile / posizione organizzativa",
   "bandi": 2,
   "posti": 2,
@@ -416,23 +443,6 @@
     "posti": 1,
     "scade": "2026-10-24",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4bdc1afe7c7b4a1ca254dcc0369e3de4"
-   }
-  ]
- },
- {
-  "gruppo": "ALTRO",
-  "bandi": 1,
-  "posti": 1,
-  "esempi": [
-   {
-    "id": "b295f6e7d9704f3e95b4e4e14d97db9d",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO ED INDETERMINATO, NEL PROFILO PROFESSIONALE DI \"VICE COMMISSARIO DI POLIZIA LOCALE\" (AREA DEI FUNZIONARI ED E.Q.)",
-    "figura": "Vice Commissario di Polizia Locale (Area dei funzionari ed E.Q.)",
-    "ente": "Comune di Savona",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b295f6e7d9704f3e95b4e4e14d97db9d"
    }
   ]
  },
