@@ -28,8 +28,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 60,
-  "posti": 83,
+  "bandi": 59,
+  "posti": 82,
   "esempi": [
    {
     "id": "0086a7caa622478bb3339d1801ea1ace",
@@ -89,6 +89,16 @@
   "posti": 24,
   "esempi": [
    {
+    "id": "9a03e1d05bbf4b4ba851a0db9657e894",
+    "profilo": null,
+    "titolo": "Concorso pubblico per titoli ed esame, per un/una \"Ricercatore/Ricercatrice\", III Livello Professionale, ai fini dello svolgimento delle attività di “Inferenza cosmologica dalle statistiche di clustering delle galassie della missione Euclid” Cod: 2026INAFRIC-OAB-Euclid-009",
+    "figura": "Ricercatore Terzo livello professionale",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-10-29",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9a03e1d05bbf4b4ba851a0db9657e894"
+   },
+   {
     "id": "6f2fc3502d854c4da8c3dc477f709e8e",
     "profilo": null,
     "titolo": "Concorso pubblico, per titoli ed esami, ai fini del reclutamento di un \"Ricercatore\", terzo Livello Professionale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di un anno, Cod: 2026INAFRIC-IAP-105042909-029",
@@ -127,16 +137,6 @@
     "posti": 1,
     "scade": "2026-11-13",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c14d62a78094603ad2f06bb483d08b2"
-   },
-   {
-    "id": "aa2b122fc7de4f7f88531ba15920df3c",
-    "profilo": null,
-    "titolo": "BANCA D'ITALIA - 4 BORSE DI RICERCA PER ECONOMISTE ED ECONOMISTI",
-    "figura": "Borsista",
-    "ente": "Banca D'Italia",
-    "posti": 4,
-    "scade": "2026-11-13",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aa2b122fc7de4f7f88531ba15920df3c"
    }
   ]
  },
