@@ -28,8 +28,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 59,
-  "posti": 82,
+  "bandi": 54,
+  "posti": 77,
   "esempi": [
    {
     "id": "0086a7caa622478bb3339d1801ea1ace",
@@ -85,9 +85,19 @@
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 18,
-  "posti": 24,
+  "bandi": 19,
+  "posti": 27,
   "esempi": [
+   {
+    "id": "cd8fd8fc93be4fdca67becec399137c6",
+    "profilo": null,
+    "titolo": "Concorso pubblico titoli/esame, per n. 3 “Ricercatori”, III Liv., contratto TD, impegno a tempo pieno, dI 24 mesi prorogabili, per ASTRASud - Aerospazio, Space weather, Tecnologia per la Ricerca Astrofisica multimessaggera nel Sud Cod: 2026INAFRIC-OPA-105210301-004",
+    "figura": "Ricercatore, III livello professionale",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 3,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cd8fd8fc93be4fdca67becec399137c6"
+   },
    {
     "id": "9a03e1d05bbf4b4ba851a0db9657e894",
     "profilo": null,
@@ -127,16 +137,6 @@
     "posti": 1,
     "scade": "2026-11-03",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8508b2e840974d8aa0cd688bd76c176d"
-   },
-   {
-    "id": "7c14d62a78094603ad2f06bb483d08b2",
-    "profilo": null,
-    "titolo": "Concorso pubblico per titoli ed esame, riservato agli appartenenti alle categorie protette di cui all’articolo 1 della L.68/99per il ripristino della quota d’obbligo, per il reclutamento di un \"Ricercatore\" III Liv. , tempo pieno e indeterminato Cod: 2026INAFRIC-OCA-Legge68art1-004",
-    "figura": "Ricercatore III liv",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 1,
-    "scade": "2026-11-13",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7c14d62a78094603ad2f06bb483d08b2"
    }
   ]
  },
@@ -255,6 +255,43 @@
   ]
  },
  {
+  "gruppo": "ALTRO",
+  "bandi": 3,
+  "posti": 9,
+  "esempi": [
+   {
+    "id": "bfdec821c2bb4a1a8925212599e2e734",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER L’ ASSUNZIONE DI N. 6 “OPERATORI SOCIO SANITARI” DI CUI N. 3 A TEMPO PIENO E INDETERMINATO E N. 3 A TEMPO PARZIALE ED INDETERMINATO - AREA DEGLI OPERATORI ESPERTI CCNL COMPARTO FUNZIONI LOCALI (EX CAT. B)",
+    "figura": "O.S.S.",
+    "ente": "Istituto Servizi Assistenziali Cima Colbacchini",
+    "posti": 6,
+    "scade": "2026-11-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfdec821c2bb4a1a8925212599e2e734"
+   },
+   {
+    "id": "73115355e472460db1a853a27ee28074",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO AL PROFILO PROFESSIONALE DI EDUCATORE – AREA DEI FUNZIONARI E DELL’E.Q. (ex Cat. D) DEL VIGENTE CCNL FUNZIONI LOCALI, DA ASSEGNARE AI SERVIZI GESTITI DA ASP GHIRLANDINA MODENA",
+    "figura": "Educatore",
+    "ente": "ASP Ghirlandina Modena",
+    "posti": 2,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=73115355e472460db1a853a27ee28074"
+   },
+   {
+    "id": "b295f6e7d9704f3e95b4e4e14d97db9d",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO ED INDETERMINATO, NEL PROFILO PROFESSIONALE DI \"VICE COMMISSARIO DI POLIZIA LOCALE\" (AREA DEI FUNZIONARI ED E.Q.)",
+    "figura": "Vice Commissario di Polizia Locale (Area dei funzionari ed E.Q.)",
+    "ente": "Comune di Savona",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b295f6e7d9704f3e95b4e4e14d97db9d"
+   }
+  ]
+ },
+ {
   "gruppo": "dirigente tecnico / altri dirigenti",
   "bandi": 6,
   "posti": 9,
@@ -308,23 +345,6 @@
     "posti": 1,
     "scade": "2026-10-28",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0b6cce4bf86146a881853f6b4c4491b8"
-   }
-  ]
- },
- {
-  "gruppo": "consigliere Consob (diritto/economia finanziaria)",
-  "bandi": 1,
-  "posti": 6,
-  "esempi": [
-   {
-    "id": "10eecc052b3149febb4ba801bc7f07d1",
-    "profilo": null,
-    "titolo": "Concorso pubblico per l’assunzione di  6 Consiglieri con conoscenza ed esperienza in diritto o economia dei mercati e degli intermediari finanziari",
-    "figura": "Consigliere",
-    "ente": "Commissione Nazionale per Le Societa' e La Borsa",
-    "posti": 6,
-    "scade": "2026-10-19",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=10eecc052b3149febb4ba801bc7f07d1"
    }
   ]
  },
@@ -389,33 +409,6 @@
     "posti": 4,
     "scade": "2026-11-09",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f19be88d0c6a49978a70b9a48b7c5807"
-   }
-  ]
- },
- {
-  "gruppo": "ALTRO",
-  "bandi": 2,
-  "posti": 3,
-  "esempi": [
-   {
-    "id": "73115355e472460db1a853a27ee28074",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO AL PROFILO PROFESSIONALE DI EDUCATORE – AREA DEI FUNZIONARI E DELL’E.Q. (ex Cat. D) DEL VIGENTE CCNL FUNZIONI LOCALI, DA ASSEGNARE AI SERVIZI GESTITI DA ASP GHIRLANDINA MODENA",
-    "figura": "Educatore",
-    "ente": "ASP Ghirlandina Modena",
-    "posti": 2,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=73115355e472460db1a853a27ee28074"
-   },
-   {
-    "id": "b295f6e7d9704f3e95b4e4e14d97db9d",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO ED INDETERMINATO, NEL PROFILO PROFESSIONALE DI \"VICE COMMISSARIO DI POLIZIA LOCALE\" (AREA DEI FUNZIONARI ED E.Q.)",
-    "figura": "Vice Commissario di Polizia Locale (Area dei funzionari ed E.Q.)",
-    "ente": "Comune di Savona",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b295f6e7d9704f3e95b4e4e14d97db9d"
    }
   ]
  },
