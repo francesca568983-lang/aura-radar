@@ -17,7 +17,7 @@
 "figura": "Assistente gestionale",
 "ente": "Agenzia delle Entrate",
 "posti": 622,
-"scade": "2026-11-18",
+"scade": "2026-11-19",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=80627c4379144fc28c75d6741799e81e",
 "struttura_letta": {
 "minuti": {
@@ -1029,22 +1029,6 @@
 }
 },
 {
-"id": "3664c74b215a498789eb0c10e5356151",
-"profilo": "agente-di-polizia-locale",
-"titolo": "BANDO DI CONCORSO PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 6 UNITÀ CON IL PROFILO PROFESSIONALE DI AGENTE DI POLIZIA LOCALE - AREA DEGLI ISTRUTTORI – DI CUI N. 4 UNITÀ DA ASSEGNARE AL COMUNE DI CARMAGNOLA E N. 2 AL COMUNE DI RACCONIGI",
-"figura": "Agente di Polizia Locale",
-"ente": "Comune di Carmagnola",
-"posti": 6,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3664c74b215a498789eb0c10e5356151",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Conseguono l’ammissione alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30"
-}
-}
-},
-{
 "id": "3ec7025718784950b9bc96b04b341029",
 "profilo": "oss-operatore-socio-sanitario",
 "titolo": "Casa di Riposo di Asiago - CONCORSO per n. 5 Operatore Socio Sanitario (O.S.S.) a tempo pieno e indeterminato",
@@ -1191,6 +1175,38 @@
 }
 },
 {
+"id": "afab8dfa9f0d42e1903072fbf976a344",
+"profilo": "funzionario-tecnico",
+"titolo": "Funzionario tecnico (indirizzo ambientale)",
+"figura": "Funzionario tecnico (indirizzo ambientale)",
+"ente": "Autorita' di Bacino Distrettuale Delle Alpi Orientali",
+"posti": 4,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=afab8dfa9f0d42e1903072fbf976a344",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova si intende superata con una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "93cbe277cbcd4fd78cbb5e5332621df7",
+"profilo": "funzionario-tecnico",
+"titolo": "Funzionario tecnico (ingegnere) - 3 posti tempo indeterminato e 1 posto a tempo determinato",
+"figura": "Funzionario tecnico (ingegnere)",
+"ente": "Autorita' di Bacino Distrettuale Delle Alpi Orientali",
+"posti": 4,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=93cbe277cbcd4fd78cbb5e5332621df7",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova si intende superata con una votazione di almeno 21/30"
+}
+}
+},
+{
 "id": "a01c26ed1e164ea4b3134803ccc3e31d",
 "profilo": "fisioterapista",
 "titolo": "Concorso pubblico, per titoli ed esami, per n. 4 posti a tempo pieno e indeterminato di Collaboratore Professionale Sanitario - Fisioterapista - APSF (ex cat. D)",
@@ -1294,7 +1310,7 @@
 "figura": "Istruttore Agente di Polizia Locale",
 "ente": "Comune di Siniscola",
 "posti": 4,
-"scade": "2026-10-28",
+"scade": "2026-10-30",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cab3d535ab6043909b3ea56ab62d73cf",
 "struttura_letta": {}
 },
@@ -1522,22 +1538,6 @@
 "scade": "2026-10-22",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=51ff09631dc4431d9744cfa6205399c7",
 "struttura_letta": {}
-},
-{
-"id": "341d5a7aea8b4a2ab9c621937100ed89",
-"profilo": "collaboratore-amministrativo",
-"titolo": "Bando n. 1 del 2026 di concorso pubblico, per titoli ed esami, per l’assunzione a tempo pieno e determinato, di n. 4 unità di personale, con il profilo di Collaboratore di Amministrazione di VII livello professionale, presso l’Istituto Nazionale per l’Analisi delle Politiche pubbliche",
-"figura": "Collaboratore di Amministrazione (VII livello professionale)",
-"ente": "Istituto Nazionale per l'Analisi delle Politiche Pubbliche (INAPP)",
-"posti": 4,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=341d5a7aea8b4a2ab9c621937100ed89",
-"struttura_letta": {
-"minuti": {
-"valore": 150,
-"frase": "La prova scritta, che si svolgerà con strumenti informatici e digitali, avrà una durata massima di 150 minuti (salvo quanto previsto all’articolo 3, commi 10 e 12, del presente Bando) e sarà articolata nella predisposizione di un elaborato teorico e di un testo di risp"
-}
-}
 },
 {
 "id": "9fce41f3c2d04158b8c081bff8692457",
@@ -1997,6 +1997,92 @@
 "scade": "2026-10-21",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5eb50daecd7c47f5877cf008657d1fd4",
 "struttura_letta": {}
+},
+{
+"id": "57afea541b0242109eba92a0b7d117a6",
+"profilo": "tecnico-della-prevenzione",
+"titolo": "Azienda sanitaria universitaria integrata del Trentino - Concorso pubblico per esami per la copertura a tempo pieno ed indeterminato di n. 2 posti di Collaboratore professionale sanitario – Tecnico della prevenzione nell’ambiente e nei luoghi di lavoro",
+"figura": "Collaboratore professionale sanitario – Tecnico della prevenzione nell’ambiente e nei luoghi di lavoro",
+"ente": "Azienda sanitaria universitaria integrata del Trentino",
+"posti": 2,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=57afea541b0242109eba92a0b7d117a6",
+"struttura_letta": {
+"soglia30": {
+"valore": 18,
+"frase": "Possono sostenere le prove d’esame i candidati che ottengono nella prova preselettiva il punteggio minimo di 18/30 e rientrano nel numero massimo di 80 idonei, fatta salva la parità di trattamento dei candidati che conseguono il medesimo punteggio"
+}
+}
+},
+{
+"id": "9685f07de07f412cbf7738da2ac8dcb0",
+"profilo": "dirigente-medico-parte-generale",
+"titolo": "INDIZIONE CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO DI N. 2 POSTI DI DIRIGENTE MEDICO - DISCIPLINA NEUROPSICHIATRIA INFANTILE",
+"figura": "Dirigente Medico",
+"ente": "Azienda Socio Sanitaria Territoriale della Valtellina e dell'Alto Lario",
+"posti": 2,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9685f07de07f412cbf7738da2ac8dcb0",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "superamento di ciascuna delle prove scritta e pratica è subordinato al raggiungimento di una valutazione di sufficienza espressa in termini numerici di almeno 21/30"
+}
+}
+},
+{
+"id": "4ff21312047840359cf6b5815d834cd4",
+"profilo": "operatore-esperto-ex-cat-b",
+"titolo": "CONCORSO PUBBLICO, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N.2 (DUE) POSTI NEL PROFILO PROFESSIONALE DI OPERATORE ESPERTO ASSISTENZIALE – AREA OPERATORI ESPERTI (SAD).",
+"figura": "OPERATORE O.S.S.",
+"ente": "Comune di Casalmaggiore",
+"posti": 2,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4ff21312047840359cf6b5815d834cd4",
+"struttura_letta": {}
+},
+{
+"id": "3c749e7734ac40998e942964b0e782a8",
+"profilo": "istruttore-contabile",
+"titolo": "Concorso pubblico per esami finalizzato all'assunzione a tempo pieno e indeterminato di n. 2 Istruttori contabili, Area degli Istruttori CCNL 2022/2024 presso il Comune di Ceva",
+"figura": "Istruttore Contabile - Area degli Istruttori",
+"ente": "Comune di Ceva",
+"posti": 2,
+"scade": "2026-11-04",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3c749e7734ac40998e942964b0e782a8",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Sono ammessi a partecipare alle successive prove d’esame solamente i candidati che abbiano conseguito una votazione di almeno 21/30 e che si siano collocati nei primi 20 posti della graduatoria, oltre le posizioni di pari punto"
+}
+}
+},
+{
+"id": "a1d7535bf48e4aa68fbc053f6e0127af",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "Concorso pubblico per esami per la copertura di n. 2 posti a tempo pieno e indeterminato con profilo professionale prioritario di autista/conducenti di automezzi",
+"figura": "AUTISTA",
+"ente": "Comune di Chiusdino",
+"posti": 2,
+"scade": "2026-11-04",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a1d7535bf48e4aa68fbc053f6e0127af",
+"struttura_letta": {}
+},
+{
+"id": "5bff59c71dc84f2b86b876f2ebbabe99",
+"profilo": "funzionario-tecnico",
+"titolo": "COMUNE DI GENOVA_CONCORSO PUBBLICO, PER ESAMI, PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N. 2 FUNZIONARI/E TECNICI/CHE – PROFILO DI RUOLO AGRONOMO - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE.",
+"figura": "FUNZIONARIO TECNICO - AGRONOMO",
+"ente": "Comune di Genova",
+"posti": 2,
+"scade": "2026-11-04",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5bff59c71dc84f2b86b876f2ebbabe99",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova si intende superata se si è raggiunto il punteggio minimo di 21/30 (ventuno/trentesimi)"
+}
+}
 },
 {
 "id": "908b41a6d63b416298e0d376c52782f8",
@@ -2742,30 +2828,6 @@
 }
 },
 {
-"id": "e706f2305ac64d7ba2ee6e1ed884b9e4",
-"profilo": "istruttore-amministrativo",
-"titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 2 POSTI DI “ISTRUTTORE AMMINISTRATIVO-CONTABILE” - AREA DEGLI ISTRUTTORI - A TEMPO PIENO E INDETERMINATO",
-"figura": "ISTRUTTORE AMMINISTRATIVO",
-"ente": "Comune di Riomaggiore",
-"posti": 2,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e706f2305ac64d7ba2ee6e1ed884b9e4",
-"struttura_letta": {
-"minuti": {
-"valore": 60,
-"frase": "La durata è di 60 minuti, fatti salvi gli eventuali tempi aggiuntivi"
-},
-"penalita": {
-"valore": 0.25,
-"frase": "Il punteggio massimo è 30/30, attribuito come segue: Risposta Punteggio Esatta +1,00 Errata -0,25 Omessa o con più opzioni 0,00 3"
-},
-"soglia30": {
-"valore": 21,
-"frase": "La prova è superata con almeno 21/30 e con idoneità in inglese e competenze digitali"
-}
-}
-},
-{
 "id": "55b02a8c90d54380a94a1b7c9d4cca3c",
 "profilo": "dirigente-tecnico-enti-locali",
 "titolo": "Comune di Vicenza - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 2 POSTI DI DIRIGENTE TECNICO, A TEMPO PIENO E INDETERMINATO, DI CUI N. 1 POSTO RISERVATO AI SENSI DELL'ART. 28, COMMA 1-BIS, DEL DECRETO-LEGGE 22 GIUGNO 2023, N. 75, CONVERTITO, CON MODIFICAZIONI, DALLA LEGGE 10 AGOSTO 2023, N.",
@@ -3108,6 +3170,387 @@
 "scade": "2027-02-10",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0033271159a941f0929cf9a754b57dd9",
 "struttura_letta": {}
+},
+{
+"id": "c0430bb424844cf6a9bd7a075ff0dd53",
+"profilo": "istruttore-amministrativo-contabile",
+"titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER L'ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 ISTRUTTORE AMMINISTRATIVO CONTABILE (AREA DEGLI ISTRUTTORI CCNL FUNZIONI LOCALI) DA ASSEGNARE AL SERVIZIO LAVORI PUBBLICI, MANUTENZIONI, PATRIMONIO E TUTELA AMBIENTALE DEL COMUNE DI BORGO VALBELLUNA (BL)",
+"figura": "ISTRUTTORE AMMINISTRATIVO CONTABILE",
+"ente": "Unione Montana Feltrina",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c0430bb424844cf6a9bd7a075ff0dd53",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Le prove d'esame si intendono superate se il candidato ottiene una votazione di almeno 21/30 in ciascuna di esse"
+}
+}
+},
+{
+"id": "349e788afb69440ca780abb51915035f",
+"profilo": "dirigente-medico-parte-generale",
+"titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO DI N. 1 POSTO DI DIRIGENTE MEDICO PER LA DISCIPLINA DI MEDICINA INTERNA DA ASSEGNARE ALLA S.C. DISTRETTO MUNICIPIO 9",
+"figura": "dirigente medico per la disciplina di medicina interna",
+"ente": "Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=349e788afb69440ca780abb51915035f",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "te prova scritta e prova pratica è subordinato al raggiungimento per ciascuna di esse, di una valutazione di sufficienza espressa in termini numerici di almeno 21/30"
+}
+}
+},
+{
+"id": "5e6cfee5a5264066a5112d2936824fa4",
+"profilo": "funzionario-contabile",
+"titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO E PIENO DI FUNZIONARIO CONTABILE - AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (EX CATEGORIA D)",
+"figura": "funzionario contabile",
+"ente": "Agenzia Territoriale per La Casa del Piemonte Nord",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5e6cfee5a5264066a5112d2936824fa4",
+"struttura_letta": {}
+},
+{
+"id": "9ab3c5b050c94684b10cc82470d2830a",
+"profilo": "dirigente-medico-parte-generale",
+"titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI N. 1 POSTO DI DIRIGENTE MEDICO DISCIPLINA DI ORTOPEDIA E TRAUMATOLOGIA",
+"figura": "Dirigente Medico disciplina di Ortopedia e Traumatologia",
+"ente": "Azienda Socio Sanitaria Territoriale di Mantova",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9ab3c5b050c94684b10cc82470d2830a",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "L'ammissione alla prova pratica è subordinata al raggiungimento di una valutazione di sufficienza nella prova scritta di almeno 21/30; l'ammissione alla prova orale è subordinata al conseguimento nella prova pratica del punteggio di almeno 21/30"
+}
+}
+},
+{
+"id": "cc3e94d3c0ef4d80ab816c909c3a9bc5",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI N. 1 POSTO DI OPERATORE TECNICO SPECIALIZZATO AUTISTA ADDETTO AL TRASPORTO SANITARIO (AREA DEGLI OPERATORI)",
+"figura": "Operatore Tecnico Specializzato Autista Addetto al Trasporto Sanitario",
+"ente": "Azienda Socio Sanitaria Territoriale di Mantova",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cc3e94d3c0ef4d80ab816c909c3a9bc5",
+"struttura_letta": {}
+},
+{
+"id": "812dec2ea60c458f9cd276bf52bd711e",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "Selezione pubblica per soli esami per la copertura di n° 1 posto a tempo pieno ed indeterminato di un \"Collaboratore tecnico manutentivo\" - Area Operatori esperti (CCNL Funzioni locali 2019-2021) da assegnare al Servizio Gestione del Territorio, Infrastrutture e Patrimonio",
+"figura": "Collaboratore tecnico manutentivo",
+"ente": "Comune di Torrazza Piemonte",
+"posti": 1,
+"scade": "2026-11-11",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=812dec2ea60c458f9cd276bf52bd711e",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "VALUTAZIONE DELLE PROVE Le prove si intendono superate con una votazione minima di 21/30 per ogni prova"
+}
+}
+},
+{
+"id": "bc90f77d9a26471b92056894980e1ab0",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "UNITE-Concorso pubblico, per titoli ed esami, per il reclutamento di n. 1 unità di personale afferente all’Area dei Collaboratori, Settore Amministrativo, a tempo determinato, della durata di 36 mesi",
+"figura": "COLLABORATORE",
+"ente": "Universita' degli Studi di Teramo",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc90f77d9a26471b92056894980e1ab0",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta e la prova orale si intendono superate solo se il candidato riporti un voto pari o superiore a 21/30 per ciascuna"
+}
+}
+},
+{
+"id": "1d16f7af13734f079d9963c97a03a16c",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "UNITE-Concorso pubblico, per titoli ed esami, per il reclutamento di n. 1 unità di personale afferente all’Area dei Funzionari, Settore Amministrativo-Gestionale, a tempo determinato, della durata di 36 mesi",
+"figura": "FUNZIONARIO",
+"ente": "Universita' degli Studi di Teramo",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1d16f7af13734f079d9963c97a03a16c",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta e la prova orale si intendono superate solo se il candidato riporti un voto pari o superiore a 21/30 per ciascuna"
+}
+}
+},
+{
+"id": "9439f025531a49d782886b14713b52f4",
+"profilo": "funzionario-amministrativo",
+"titolo": "COMUNE DI GRIGNASCO - BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI E.Q. SETTORE FINANZIARIO E TRIBUTI – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE",
+"figura": "AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE",
+"ente": "Comune di Grignasco",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9439f025531a49d782886b14713b52f4",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ad esito della prova preselettiva, saranno ammessi alle prove concorsuali i candidati che hanno realizzato un punteggio pari a 21/30"
+}
+}
+},
+{
+"id": "d511a828d32d41719b44d7a3a9dc1df2",
+"profilo": "istruttore-amministrativo-contabile",
+"titolo": "BANDO DI CONCORSO PUBBLICO, PER ESAMI, PER L’ASSUNZIONE, A TEMPO INDETERMINATO E PIENO, DI N. 1 UNITA’ DI PERSONALE APPARTENENTE ALL’AREA DEGLI ISTRUTTORI (EX CAT. C) – PROFILO PROFESSIONALE ISTRUTTORE AMMINISTRATIVO/CONTABILE - CCNL COMPARTO FUNZIONI LOCALI 2022-2024.",
+"figura": "Istruttore Amministrativo Contabile",
+"ente": "Comune di Rapolano Terme",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d511a828d32d41719b44d7a3a9dc1df2",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Superano la prova preselettiva i candidati che abbiano conseguito un punteggio non inferiore a 21/30"
+}
+}
+},
+{
+"id": "92dce3990ecb4d16857febcc1924b507",
+"profilo": "istruttore-tecnico",
+"titolo": "COMUNE DI BELLUSCO CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI ISTRUTTORE TECNICO – AREA DEGLI ISTRUTTORI",
+"figura": "ISTRUTTORE TECNICO",
+"ente": "Comune di Bellusco",
+"posti": 1,
+"scade": "2026-11-13",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=92dce3990ecb4d16857febcc1924b507",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "di verificare i requisiti di ammissione successivamente alla prova scritta e soltanto per quei candidati che avranno raggiunto il punteggio minimo previsto di 21/30 necessario per l’ammissione alla prova orale"
+}
+}
+},
+{
+"id": "b4f7fa5832364bedb75ec1aeaf8e122d",
+"profilo": "agente-di-polizia-locale",
+"titolo": "UNIONE DEI COMUNI DEL FRIGNANO – SELEZIONE PUBBLICA, PER SOLI ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E A TEMPO PIENO DI UN POSTO AL PROFILO PROFESSIONALE DI “AGENTE DI POLIZIA LOCALE”- AREA DEGLI ISTRUTTORI.",
+"figura": "Agente di Polizia Locale",
+"ente": "Unione Dei Comuni del Frignano",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b4f7fa5832364bedb75ec1aeaf8e122d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguono l'ammissione alla prova orale i candidati che abbiano riportato nella prova scritta una votazione minima di 21/30 (ventuno trentesimi)"
+}
+}
+},
+{
+"id": "2c2b50766e4b478f98248b9cea02a2cf",
+"profilo": "istruttore-amministrativo-contabile",
+"titolo": "CONCORSO PUBBLICO, PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N. 1 (UNO) ISTRUTTORE AMMINISTRATIVO CONTABILE INQUADRATO NELL’AREA DEGLI ISTRUTTORI.",
+"figura": "Istruttore amministrativo-contabile ex categ. \"C\"",
+"ente": "Comune di Garbagnate Monastero",
+"posti": 1,
+"scade": "2026-11-09",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2c2b50766e4b478f98248b9cea02a2cf",
+"struttura_letta": {}
+},
+{
+"id": "7f676e33d0e6404db72c8f30fa63c2a1",
+"profilo": "istruttore-tecnico-geometra",
+"titolo": "COMUNE DI TARQUINIA (VT) - CONCORSO, PER SOLI ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO E PIENO, N.1 POSTO “ISTRUTTORE TECNICO GEOMETRA\"– AREA ISTRUTTORI PRIORITARIAMENTE RISERVATO AI VOLONTARI DELLE FORZE ARMATE",
+"figura": "ISTRUTTORE TECNICO GEOMETRA",
+"ente": "Comune di Tarquinia",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7f676e33d0e6404db72c8f30fa63c2a1",
+"struttura_letta": {}
+},
+{
+"id": "2643136bee48447ab82b6d4be6a00cab",
+"profilo": "funzionario-amministrativo-contabile",
+"titolo": "CISS - CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIALI DI CHIVASSO - CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO E INDETERMINATO, PROFILO PROFESSIONALE “FUNZIONARIO AMMINISTRATIVO CONTABILE\", AREA FUNZIONARI ED ELEVATA QUALIFICAZIONE, DA ASSEGNARE AL SERVIZIO ECONOMI",
+"figura": "Funzionario Amministrativo / Contabile",
+"ente": "Consorzio Intercomunale Servizi Sociali di Chivasso",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2643136bee48447ab82b6d4be6a00cab",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta"
+}
+}
+},
+{
+"id": "3eade0f13bfc4bbab005bccce311326a",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "Concorso per titoli ed esami per cantoniere necroforo autista scuolabus",
+"figura": "Cantoniere necroforo autista scuolabus",
+"ente": "Comune di Dusino San Michele",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3eade0f13bfc4bbab005bccce311326a",
+"struttura_letta": {}
+},
+{
+"id": "82d939a2598f4ceab7c99e30e1279f27",
+"profilo": "istruttore-amministrativo-contabile",
+"titolo": "Comune di Rivarossa – Selezione pubblica per esami, 1 posto di Istruttore Amministrativo Contabile a tempo pieno ed indeterminato",
+"figura": "Istruttore Amministrativo - Contabile",
+"ente": "Comune di Rivarossa",
+"posti": 1,
+"scade": "2026-11-20",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=82d939a2598f4ceab7c99e30e1279f27",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Saranno ammessi alla prova orale i candidati che avranno riportato un punteggio di almeno 21/30 (ventuno trentesimi) nella prova scritta"
+}
+}
+},
+{
+"id": "a1d53735a18f4252a03b65e3af9d79a0",
+"profilo": "funzionario-tecnico",
+"titolo": "COMUNE DI TARQUINIA (VT) - CONCORSO, PER TITOLI ED ESAMI, COPERTURA A TEMPO INDETERMINATO E PIENO, N.1 POSTO “FUNZIONARIO TECNICO – FUNZIONARI ED E.Q.”, PRIORITARIAMENTE RISERVATO AI VOLONTARI DEL SERVIZIO CIVILE",
+"figura": "FUNZIONARIO TECNICO",
+"ente": "Comune di Tarquinia",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a1d53735a18f4252a03b65e3af9d79a0",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento di ciascuna prova d’esame è subordinato al raggiungimento di un punteggio minimo non inferiore a 21/30 (ventuno/trentesimi)"
+}
+}
+},
+{
+"id": "2227dd220e0946f1ab6059e4c06cbd74",
+"profilo": "funzionario-amministrativo-contabile",
+"titolo": "CONCORSO PUBBLICO, PER ESAMI, PER L'ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N. 1 FUNZIONARIO AMMINISTRATIVO/CONTABILE AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE DEL C.C.N.L. FUNZIONI LOCALI – A TEMPO PIENO E INDETERMINATO PRESSO IL COMUNE DI VADO LIGURE.",
+"figura": "FUNZIONARIO AMMINISTRATIVO/CONTABILE",
+"ente": "Comune di Vado Ligure",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2227dd220e0946f1ab6059e4c06cbd74",
+"struttura_letta": {}
+},
+{
+"id": "0529076541df440b85f406eec5fb443e",
+"profilo": "funzionario-amministrativo",
+"titolo": "PROFILO FUNZIONARIO AMMINISTRATIVO: BANDO DI CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO NEL PROFILO PROFESSIONALE DI FUNZIONARIO AMMINISTRATIVO – AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE (EX CAT. D), PRESSO IL COMUNE DI SPOTORNO.",
+"figura": "N. 1 Funzionario Amministrativo - Area dei Funzionari e della Elevata Qualificazione (ex Cat. D)",
+"ente": "Comune di Spotorno",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0529076541df440b85f406eec5fb443e",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata con una votazione minima di 21/30 (ventuno trentesimi)"
+}
+}
+},
+{
+"id": "7290ef446c064f3696a0e298723eea35",
+"profilo": "funzionario-amministrativo",
+"titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA A TEMPO INDETERMINATO ED A TEMPO PIENO DI UNA UNITÀ DI \"FUNZIONARIO AMMINISTRATIVO\" - AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE CCNL 16/11/2022 DA ASSEGNARE AI SERVIZI DEMOGRAFICI. APPROVAZIONE AVVISO DI SELEZIONE.",
+"figura": "FUNZIONARIO AMMINISTRATIVO” – AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE CCNL 16/11/2022",
+"ente": "Comune di Morrovalle",
+"posti": 1,
+"scade": "2026-11-09",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7290ef446c064f3696a0e298723eea35",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La suddetta prova si intenderà superata se il candidato otterrà una valutazione di almeno 21/30"
+}
+}
+},
+{
+"id": "8d2e28fd593748b09f5d32c77d75ae5f",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "BANDO DI CONCORSO PUBBLICO PER LA COPERTURA DI UN POSTO DI OPERAIO SPECIALIZZATO, CAT. B, POSIZIONE ECONOMICA B1 A TEMPO INDETERMINATO E PIENO PRESSO L’AREA GESTIONE DEL TERRITORIO DEL COMUNE DI PONTEBBA SCADENZA ORE 23.59 DEL 10/11/2026 Codice concorso 2026_B_PON",
+"figura": "OPERAIO SPECIALIZZATO",
+"ente": "Comune di Gemona del Friuli",
+"posti": 1,
+"scade": "2026-11-10",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8d2e28fd593748b09f5d32c77d75ae5f",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Le votazioni vengono espresse in trentesimi ed ogni prova d’esame si intende superata se il candidato ottiene una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "f19c42d52cbe4e039c7ca941ed1bafd3",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "COMUNE DI CANINO - CONCORSO PUBBLICO, PER TITOLI E PROVA SCRITTA (A CONTENUTO TEORICOPRATICO), PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO NEL PROFILO DI OPERATORE TECNICO/ AUTISTA SCUOLABUS – AREA DEGLI OPERATORI ESPERTI DEL CCNL FUNZIONI LOCALI",
+"figura": "OPERATORE TECNICO - AUTISTA SCUOLABUS",
+"ente": "Comune di Canino",
+"posti": 1,
+"scade": "2026-11-05",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f19c42d52cbe4e039c7ca941ed1bafd3",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "I candidati superano la prova scritta con il punteggio minimo di 21/30"
+}
+}
+},
+{
+"id": "5574594208704900b593c70e6f36353d",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "Concorso pubblico per titoli ed esami, 1p Funzionario Amministrativo-gestionale, indeterminato, presso Direzione risorse umane e affari generali-Università degli Studi di Udine",
+"figura": "Area dei Funzionari, settore Amministrativo-gestionale",
+"ente": "Universita' degli Studi di Udine",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5574594208704900b593c70e6f36353d",
+"struttura_letta": {}
+},
+{
+"id": "348838e6634d4b04be264771b4be2264",
+"profilo": "funzionario-amministrativo",
+"titolo": "8/2026 - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO A TEMPO PIENO E INDETERMINATO DI UNA UNITÀ DI PERSONALE PROFILO FUNZIONARIO DI AMMINISTRAZIONE, V LIVELLO PROFESSIONALE, DA ASSEGNARE ALL’UFFICIO RISORSE UMANE PRESSO LA STAZIONE ZOOLOGICA ANTON DOHRN – SEDE DI NAPOLI",
+"figura": "Funzionario - V livello professionale",
+"ente": "Stazione Zoologica",
+"posti": 1,
+"scade": "2026-10-30",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=348838e6634d4b04be264771b4be2264",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta è superata dai candidati che riportano un punteggio non inferiore a 21/30"
+}
+}
+},
+{
+"id": "fada21f1ee2241a69392d0aa5166b664",
+"profilo": "istruttore-tecnico",
+"titolo": "COMUNITA' DEL FRIULI ORIENTALE",
+"figura": "Istruttore tecnico",
+"ente": "COMUNITA' DEL FRIULI ORIENTALE",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fada21f1ee2241a69392d0aa5166b664",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Le votazioni vengono espresse in trentesimi ed ogni prova d’esame si intende superata se il candidato ottiene una votazione di almeno 21/30"
+}
+}
 },
 {
 "id": "463c66c029c847759983b1d6307563e6",
@@ -7219,17 +7662,6 @@
 "struttura_letta": {}
 },
 {
-"id": "7d1a8ba3839b4598bc650ed879d2bc43",
-"profilo": "agente-di-polizia-locale",
-"titolo": "CONCORSO PUBBLICO, PER ESAMI, PER N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI AGENTE DI POLIZIA LOCALE (AREA PROFESSIONALE DEGLI ISTRUTTORI). RIAPERTURA DEI TERMINI PER LA PRESENTAZIONE DELLE DOMANDE DI PARTECIPAZIONE",
-"figura": "AGENTE DI POLIZIA LOCALE",
-"ente": "Comune di Campobasso",
-"posti": 1,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7d1a8ba3839b4598bc650ed879d2bc43",
-"struttura_letta": {}
-},
-{
 "id": "d4dc715c4e1341c1ba3cc2eea3b121c6",
 "profilo": "operatore-esperto-ex-cat-b",
 "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 OPERATORE ESPERTO TECNICO - AREA OPERATORI ESPERTI (EX CAT. B) DA ASSEGNARE AL SETTORE LAVORI PUBBLICI E PIANIFICAZIONE TERRITORIALE DEL COMUNE DI MASSA E COZZILE.",
@@ -7761,26 +8193,6 @@
 }
 },
 {
-"id": "1e7140d890b2422b83949fe563075462",
-"profilo": "funzionario-tecnico",
-"titolo": "COMUNE DI TORRICELLA IN SABINA - BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DI \"FUNZIONARIO TECNICO\" AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE",
-"figura": "Funzionario Tecnico",
-"ente": "Comune di Torricella in Sabina",
-"posti": 1,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1e7140d890b2422b83949fe563075462",
-"struttura_letta": {
-"quesiti": {
-"valore": 30,
-"frase": "30 quesiti a risposta multipla, con una sola risposta esatta, aventi contenuto attitudinale e/o professionale e vertenti sulle materie previste dal programma d’esame"
-},
-"soglia30": {
-"valore": 21,
-"frase": "La prova preselettiva si intende superata dai candidati che abbiano conseguito un punteggio pari o superiore a 21/30"
-}
-}
-},
-{
 "id": "bb9607d543a74e7a95ea9c13085cde7e",
 "profilo": "assistente-sociale-enti-locali",
 "titolo": "Bando di concorso pubblico per esami per l'assunzione di n. 1 Funzionario Socio Assistenziale (Assistente sociale), Area dei funzionari ed elevata qualificazione, a tempo pieno e indeterminato, da destinare al servizio sociale dei Comuni di Cavernago e Bagnatica, con impiego ripartito in misura pari",
@@ -7801,22 +8213,6 @@
 "scade": "2026-10-30",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=330c37e25785430e9c2cb0d80355df6a",
 "struttura_letta": {}
-},
-{
-"id": "aafc8ba99dc2419cbd00c21cd46cbe90",
-"profilo": "funzionario-tecnico",
-"titolo": "COMUNE DI ROCCA PIA. BANDO DI CONCORSO PER ESAMI PER N. 1 POSTO A TEMPO INDETERMINATO, ORARIO PART TIME 18 ORE SETTIMANALI, PROFILO PROFESSIONALE FUNZIONARIO TECNICO , AREA FUNZIONARI/ EQ",
-"figura": "FUNZIONARIO TECNICO",
-"ente": "Comune di Rocca Pia",
-"posti": 1,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aafc8ba99dc2419cbd00c21cd46cbe90",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "sione dispone di 60 punti così suddivisi: - prova scritta: 30 - prova orale: 30 L’ammissione alla prova orale è comunque subordinata al conseguimento di almeno 21/30 nella prova scritta La prova orale si considera superata ove il concorrente abbia conseguito almeno 21/30"
-}
-}
 },
 {
 "id": "e48659bdc959469286c95d633723d78f",
@@ -7924,22 +8320,6 @@
 "scade": "2026-10-31",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8f1a48b5c32e4347b1d14abacf7670c1",
 "struttura_letta": {}
-},
-{
-"id": "196d68e5ba674440833059ce80f628d6",
-"profilo": "istruttore-amministrativo",
-"titolo": "COMUNE DI SCHIGNANO. BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO DETERMINATO (MASSIMO 12 MESI) E PARZIALE, (20 ORE SETTIMANALI), DI N. 1 POSTO NELL’AREA DEGLI ISTRUTTORI CON PROFILO PROFESSIONALE DI “ISTRUTTORE AMMINISTRATIVO”, PRESSO L’UFFICIO DEMOGRAFICO, FINALIZZATO ALLA COPERTU",
-"figura": "ISTRUTTORE AMMINISTRATIVO",
-"ente": "Comune di Schignano",
-"posti": 1,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=196d68e5ba674440833059ce80f628d6",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Alla prova orale sono ammessi i candidati che hanno riportato nella prova scritta un punteggio minimo non inferiore a 21/30"
-}
-}
 },
 {
 "id": "baefdcecea184002a7dc49185866db33",
@@ -8869,17 +9249,6 @@
 "posti": 1,
 "scade": "2026-10-25",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8da19b6bc28d457c830a1c867ee2d7c6",
-"struttura_letta": {}
-},
-{
-"id": "2e937700fa7849a3aa69c25d9b66c0b3",
-"profilo": "istruttore-amministrativo-contabile",
-"titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ISTRUTTORE AMMINISTRATIVO CONTABILE – AREA DEGLI ISTRUTTORI - PRESSO IL COMUNE DI CARUGATE",
-"figura": "Istruttore Amministrativo Contabile",
-"ente": "Comune di Carugate",
-"posti": 1,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2e937700fa7849a3aa69c25d9b66c0b3",
 "struttura_letta": {}
 },
 {
@@ -9813,22 +10182,6 @@
 }
 },
 {
-"id": "bec51b4798e54f7085ab659e459fd33c",
-"profilo": "istruttore-amministrativo-contabile",
-"titolo": "AVVISO DI SELEZIONE PUBBLICA PER N. 1 ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE AMMINISTRATIVO CONTABILE” – AREA DEGLI ISTRUTTORI – COMPARTO FUNZIONI LOCALI - PRESSO L’ A.S.P. ISTITUTO G. FALUSI",
-"figura": "Istruttore Amministrativo Contabile – Area degli Istruttori",
-"ente": "Istituto G. Falusi",
-"posti": 1,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bec51b4798e54f7085ab659e459fd33c",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "16 - VALUTAZIONE DELLE PROVE DI ESAME Sono ammessi alla prova orale i candidati che conseguono nella prova scritta la votazione di almeno 21/30 o equivalente"
-}
-}
-},
-{
 "id": "50d7c82544d546f8b80c54b1a5b72357",
 "profilo": "funzionario-tecnico",
 "titolo": "Concorso pubblico per esami per la copertura a tempo indeterminato e part time 18 ore settimanali, di n. 1 posto di Funzionario Tecnico, Area dei Funzionari e dell'Elevata Qualificazione, da assegnare al Settore LL.PP. del Comune di Bono.",
@@ -9890,22 +10243,6 @@
 "soglia30": {
 "valore": 21,
 "frase": "La prova si intende superata se il candidato ottiene un punteggio di almeno 21/30"
-}
-}
-},
-{
-"id": "ee6b02d1e0e04a5bac9a01f510b9b09c",
-"profilo": "istruttore-informatico",
-"titolo": "UNIVERSITA' DEGLI STUDI DI GENOVA - procedura pubblica per titoli ed esami a n. 1 posto a tempo indeterminato e pieno - Area dei Collaboratori - CeSAT Campus di Savona",
-"figura": "Area dei Collaboratori - Settore professionale tecnico, scientifico, tecnologico, informatico e dei servizi generali",
-"ente": "Universita Degli Studi di Genova",
-"posti": 1,
-"scade": "2026-10-20",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ee6b02d1e0e04a5bac9a01f510b9b09c",
-"struttura_letta": {
-"soglia30": {
-"valore": 18,
-"frase": "Conseguono l’ammissione alla prova orale i candidati che abbiano riportato nella prova scritta un punteggio di almeno 18/30"
 }
 }
 },
@@ -10042,6 +10379,17 @@
 "frase": "12 - VALUTAZIONE DELLE PROVE DI ESAME Sono ammessi alla prova orale i candidati che conseguono nella prova scritta la votazione di almeno 21/30 o equivalente"
 }
 }
+},
+{
+"id": "9982ec31ba884586b29badfc15103199",
+"profilo": "funzionario-tecnico",
+"titolo": "COMUNE DI MULAZZANO - CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI FUNZIONARIO TECNICO - AREA DEI FUNZIONARI (EX CAT. D)",
+"figura": "Funzionario Tecnico",
+"ente": "Comune di Mulazzano",
+"posti": 1,
+"scade": "2026-11-19",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9982ec31ba884586b29badfc15103199",
+"struttura_letta": {}
 },
 {
 "id": "641fd6f912374422ac042b93362567ab",

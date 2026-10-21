@@ -32,6 +32,16 @@
   "posti": 77,
   "esempi": [
    {
+    "id": "6587a7dea005493f8075c593598d7859",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI NR. 1 DOCENTE – AFAM018 PIANOFORTE DPR 83/2024 - A.A. 2026/2027",
+    "figura": "Docente",
+    "ente": "Conservatorio di Musica Gesualdo da Venosa - Potenza",
+    "posti": 1,
+    "scade": "2026-11-19",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6587a7dea005493f8075c593598d7859"
+   },
+   {
     "id": "0086a7caa622478bb3339d1801ea1ace",
     "profilo": null,
     "titolo": "Concorso pubblico,titoli ed esami,15 posti Collaboratore Esperto Linguistico (CEL),tempo indeterminato,esigenze Sapienza ed in particolare del Centro Linguistico di Ateneo.Concorso Cod.15/CEL-2026",
@@ -70,16 +80,6 @@
     "posti": 1,
     "scade": "2026-11-13",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67d09e7e75f8477fa83447451b562bdb"
-   },
-   {
-    "id": "9a1f3e17e85346a495a87753666e609c",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027",
-    "figura": "Docente di prima fascia",
-    "ente": "Istituto Superiore di Studi Musicali Giulio Briccialdi",
-    "posti": 1,
-    "scade": "2026-11-13",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9a1f3e17e85346a495a87753666e609c"
    }
   ]
  },
@@ -88,6 +88,16 @@
   "bandi": 19,
   "posti": 27,
   "esempi": [
+   {
+    "id": "03a53a2ddf374e23b08daa5e99d5b6f4",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per 1 Research Project Controller",
+    "figura": "Research Project Controller",
+    "ente": "Politecnico di Milano",
+    "posti": 1,
+    "scade": "2026-11-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=03a53a2ddf374e23b08daa5e99d5b6f4"
+   },
    {
     "id": "cd8fd8fc93be4fdca67becec399137c6",
     "profilo": null,
@@ -127,16 +137,6 @@
     "posti": 1,
     "scade": "2026-10-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfa423ff0a1044d580d65a93d98c1903"
-   },
-   {
-    "id": "8508b2e840974d8aa0cd688bd76c176d",
-    "profilo": null,
-    "titolo": "UNITE-Avviso di ricognizione interna e contestuale avvio di selezione pubblica, per titoli, prova scritta e colloquio, per un incarico di collaborazione coordinata e continuativa, della durata di n. 1 anno, eventualmente prorogabili di ulteriore n. 1 anno, finalizzato al supporto delle attività di T",
-    "figura": "Incarico di collaborazione",
-    "ente": "Universita' degli Studi di Teramo",
-    "posti": 1,
-    "scade": "2026-11-03",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8508b2e840974d8aa0cd688bd76c176d"
    }
   ]
  },
@@ -199,9 +199,19 @@
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 6,
-  "posti": 12,
+  "bandi": 7,
+  "posti": 13,
   "esempi": [
+   {
+    "id": "9b7d46ce08014300a4c289b1bae23e0e",
+    "profilo": null,
+    "titolo": "Funzionario tecnico (fisico-matematico)",
+    "figura": "Funzionario tecnico (fisico-matematico)",
+    "ente": "Autorita' di Bacino Distrettuale Delle Alpi Orientali",
+    "posti": 1,
+    "scade": "2026-11-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9b7d46ce08014300a4c289b1bae23e0e"
+   },
    {
     "id": "8484987128f7498fae6a9f15309c35f5",
     "profilo": null,
@@ -241,16 +251,6 @@
     "posti": 1,
     "scade": "2026-10-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e416d4d42ba4b3eacd3bd069784426d"
-   },
-   {
-    "id": "0c04a12b365c471aac7f8ebe4a6fece2",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ORTOTTISTA - AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI - RUOLO SANITARIO.",
-    "figura": "ORTOTTISTA",
-    "ente": "Azienda Socio Sanitaria Territoriale Melegnano e della Martesana",
-    "posti": 1,
-    "scade": "2026-10-21",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0c04a12b365c471aac7f8ebe4a6fece2"
    }
   ]
  },
