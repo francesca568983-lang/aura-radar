@@ -27,10 +27,67 @@
   ]
  },
  {
-  "gruppo": "docente universitario/AFAM",
-  "bandi": 54,
-  "posti": 77,
+  "gruppo": "ALTRO",
+  "bandi": 4,
+  "posti": 69,
   "esempi": [
+   {
+    "id": "f59391d574394674806674ee6d5ea602",
+    "profilo": null,
+    "titolo": "Avviso pubblico per la selezione di n. 60 destinatari dei percorsi formativi e dei relativi Allegati A (domanda), B (scheda istruttoria e colloquio), C (griglia analitica di valutazione), D (informativa privacy).",
+    "figura": "magazziniere, agricoltore, panettiere, giardiniere",
+    "ente": "Comunita' Montana Vallo di Diano",
+    "posti": 60,
+    "scade": "2026-11-10",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f59391d574394674806674ee6d5ea602"
+   },
+   {
+    "id": "bfdec821c2bb4a1a8925212599e2e734",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER L’ ASSUNZIONE DI N. 6 “OPERATORI SOCIO SANITARI” DI CUI N. 3 A TEMPO PIENO E INDETERMINATO E N. 3 A TEMPO PARZIALE ED INDETERMINATO - AREA DEGLI OPERATORI ESPERTI CCNL COMPARTO FUNZIONI LOCALI (EX CAT. B)",
+    "figura": "O.S.S.",
+    "ente": "Istituto Servizi Assistenziali Cima Colbacchini",
+    "posti": 6,
+    "scade": "2026-11-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfdec821c2bb4a1a8925212599e2e734"
+   },
+   {
+    "id": "73115355e472460db1a853a27ee28074",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO AL PROFILO PROFESSIONALE DI EDUCATORE – AREA DEI FUNZIONARI E DELL’E.Q. (ex Cat. D) DEL VIGENTE CCNL FUNZIONI LOCALI, DA ASSEGNARE AI SERVIZI GESTITI DA ASP GHIRLANDINA MODENA",
+    "figura": "Educatore",
+    "ente": "ASP Ghirlandina Modena",
+    "posti": 2,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=73115355e472460db1a853a27ee28074"
+   },
+   {
+    "id": "b295f6e7d9704f3e95b4e4e14d97db9d",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO ED INDETERMINATO, NEL PROFILO PROFESSIONALE DI \"VICE COMMISSARIO DI POLIZIA LOCALE\" (AREA DEI FUNZIONARI ED E.Q.)",
+    "figura": "Vice Commissario di Polizia Locale (Area dei funzionari ed E.Q.)",
+    "ente": "Comune di Savona",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b295f6e7d9704f3e95b4e4e14d97db9d"
+   }
+  ]
+ },
+ {
+  "gruppo": "docente universitario/AFAM",
+  "bandi": 47,
+  "posti": 64,
+  "esempi": [
+   {
+    "id": "02d430af04f0480db6130760406716b1",
+    "profilo": null,
+    "titolo": "Bando per il reclutamento a tempo indeterminato di n. 1 docente di prima fascia - AFAM048 Coro (ex COMI/01 Esercitazioni corali)",
+    "figura": "docente di Coro",
+    "ente": "Conservatorio Statale di Musica “Pietro Mascagni”",
+    "posti": 1,
+    "scade": "2026-11-05",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=02d430af04f0480db6130760406716b1"
+   },
    {
     "id": "6587a7dea005493f8075c593598d7859",
     "profilo": null,
@@ -70,23 +127,13 @@
     "posti": 1,
     "scade": "2026-11-13",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b392c281e164cfaa6edecb0bfd41e8d"
-   },
-   {
-    "id": "67d09e7e75f8477fa83447451b562bdb",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027",
-    "figura": "Docente di prima fascia",
-    "ente": "Istituto Superiore di Studi Musicali Giulio Briccialdi",
-    "posti": 1,
-    "scade": "2026-11-13",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67d09e7e75f8477fa83447451b562bdb"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 19,
-  "posti": 27,
+  "bandi": 18,
+  "posti": 26,
   "esempi": [
    {
     "id": "03a53a2ddf374e23b08daa5e99d5b6f4",
@@ -200,8 +247,18 @@
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
   "bandi": 7,
-  "posti": 13,
+  "posti": 14,
   "esempi": [
+   {
+    "id": "4e935311e72c4ea687a698fc01d10eff",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per titoli ed esami, per la copertura a tempo indeterminato e a tempo pieno di n. 2 posti di ortottista - area dei professionisti della salute e dei funzionari.",
+    "figura": "Ortottista - area dei professionisti della salute e dei funzionari",
+    "ente": "Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda",
+    "posti": 2,
+    "scade": "2026-11-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4e935311e72c4ea687a698fc01d10eff"
+   },
    {
     "id": "9b7d46ce08014300a4c289b1bae23e0e",
     "profilo": null,
@@ -241,60 +298,13 @@
     "posti": 2,
     "scade": "2026-10-29",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b7f2e9db8c6f4384a3cc6a261573d364"
-   },
-   {
-    "id": "3e416d4d42ba4b3eacd3bd069784426d",
-    "profilo": null,
-    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026N27, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 persona nell’Area dei Collaboratori, Settore Tecnico, scientifico, tecnologico, informatico e dei servizi generali, presso l’Università degli Studi di Padova",
-    "figura": "Tecnico di laboratorio per l’assistenza ai servizi logistici e operativi generali dell’Ospedale Veterinario Universitario didattico (OVUD)",
-    "ente": "Universita' degli Studi di Padova",
-    "posti": 1,
-    "scade": "2026-10-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e416d4d42ba4b3eacd3bd069784426d"
-   }
-  ]
- },
- {
-  "gruppo": "ALTRO",
-  "bandi": 3,
-  "posti": 9,
-  "esempi": [
-   {
-    "id": "bfdec821c2bb4a1a8925212599e2e734",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER L’ ASSUNZIONE DI N. 6 “OPERATORI SOCIO SANITARI” DI CUI N. 3 A TEMPO PIENO E INDETERMINATO E N. 3 A TEMPO PARZIALE ED INDETERMINATO - AREA DEGLI OPERATORI ESPERTI CCNL COMPARTO FUNZIONI LOCALI (EX CAT. B)",
-    "figura": "O.S.S.",
-    "ente": "Istituto Servizi Assistenziali Cima Colbacchini",
-    "posti": 6,
-    "scade": "2026-11-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfdec821c2bb4a1a8925212599e2e734"
-   },
-   {
-    "id": "73115355e472460db1a853a27ee28074",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO AL PROFILO PROFESSIONALE DI EDUCATORE – AREA DEI FUNZIONARI E DELL’E.Q. (ex Cat. D) DEL VIGENTE CCNL FUNZIONI LOCALI, DA ASSEGNARE AI SERVIZI GESTITI DA ASP GHIRLANDINA MODENA",
-    "figura": "Educatore",
-    "ente": "ASP Ghirlandina Modena",
-    "posti": 2,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=73115355e472460db1a853a27ee28074"
-   },
-   {
-    "id": "b295f6e7d9704f3e95b4e4e14d97db9d",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO, A TEMPO PIENO ED INDETERMINATO, NEL PROFILO PROFESSIONALE DI \"VICE COMMISSARIO DI POLIZIA LOCALE\" (AREA DEI FUNZIONARI ED E.Q.)",
-    "figura": "Vice Commissario di Polizia Locale (Area dei funzionari ed E.Q.)",
-    "ente": "Comune di Savona",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b295f6e7d9704f3e95b4e4e14d97db9d"
    }
   ]
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 6,
-  "posti": 9,
+  "bandi": 5,
+  "posti": 8,
   "esempi": [
    {
     "id": "2fc90c96a53948be8d1e82c6eb870155",
@@ -470,23 +480,6 @@
     "posti": 1,
     "scade": "2026-11-06",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781"
-   }
-  ]
- },
- {
-  "gruppo": "funzionario specialistico (altro)",
-  "bandi": 1,
-  "posti": 1,
-  "esempi": [
-   {
-    "id": "dc7a21315e25426a9395dbb86371fa74",
-    "profilo": null,
-    "titolo": "POLIS-LOMBARDIA – SELEZIONE PUBBLICA, PER TITOLI ED ESAMI, PER L’ASSUNZIONE A TEMPO PIENO, MEDIANTE CONTRATTO DI APPRENDISTATO DELLA DURATA DI 36 MESI, DI N. 1 UNITÀ NELL’AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE – PROFILO SPECIALISTA PER LA RICERCA E L’ANALISI DEI DATI E DELLE POLITICHE PUB",
-    "figura": "Funzionario specialista per la ricerca e l'analisi dei dati e delle politiche pubbliche",
-    "ente": "PoliS-Lombardia - Istituto regionale per il supporto alle politiche della Lombardia",
-    "posti": 1,
-    "scade": "2026-10-21",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dc7a21315e25426a9395dbb86371fa74"
    }
   ]
  }
