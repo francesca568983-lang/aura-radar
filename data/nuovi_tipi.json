@@ -1,5 +1,62 @@
 [
  {
+  "gruppo": "ALTRO",
+  "bandi": 15,
+  "posti": 224,
+  "esempi": [
+   {
+    "id": "af6765fb6d5a470eacf6582848f08771",
+    "profilo": null,
+    "titolo": "Marescialli nomina diretta AM 2026",
+    "figura": "Sottufficiali",
+    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+    "posti": 60,
+    "scade": "2026-11-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=af6765fb6d5a470eacf6582848f08771"
+   },
+   {
+    "id": "4562979f4dba4d3b80fbe366c436c47d",
+    "profilo": null,
+    "titolo": "Marescialli nomina diretta EI 2026",
+    "figura": "Sottufficiali",
+    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+    "posti": 51,
+    "scade": "2026-11-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4562979f4dba4d3b80fbe366c436c47d"
+   },
+   {
+    "id": "4677f52ce26b479ba14ab21da6869c07",
+    "profilo": null,
+    "titolo": "Marescialli nomina diretta MM 2026",
+    "figura": "Sottufficiali",
+    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+    "posti": 33,
+    "scade": "2026-11-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4677f52ce26b479ba14ab21da6869c07"
+   },
+   {
+    "id": "2c0759e4952540d2be3fbecd4bff9437",
+    "profilo": null,
+    "titolo": "IST.COM.LE VILLA MIARI: BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO PER IL PROFILO DI EDUCATORE A TEMPO PARZIALE 50% (O ALTRI PART-TIME EQUIVALENTI) E INDETERMINATO (AREA FUNZIONARI ED E.Q. – CCNL 2022/2024 COMPARTO FUNZIONI LOCALI) POSTO RISERVATO PRIORITARIAMENTE AI VOLONTA",
+    "figura": "Educatore presso Istituzione Comunale Villa Miari",
+    "ente": "Comune di Santorso",
+    "posti": 1,
+    "scade": "2026-11-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2c0759e4952540d2be3fbecd4bff9437"
+   },
+   {
+    "id": "fe2dd4d4fb7e4610bcb949743ea5d625",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 4 OPERATORI SOCIO SANITARI - AREA DEGLI OPERATORI ESPERTI",
+    "figura": "OPERATORI SOCIO SANITARI - AREA DEGLI OPERATORI ESPERTI",
+    "ente": "EnEA - Ente Educazione Assistenza",
+    "posti": 4,
+    "scade": "2026-11-26",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fe2dd4d4fb7e4610bcb949743ea5d625"
+   }
+  ]
+ },
+ {
   "gruppo": "docente di religione (IRC)",
   "bandi": 2,
   "posti": 207,
@@ -27,67 +84,20 @@
   ]
  },
  {
-  "gruppo": "ALTRO",
-  "bandi": 11,
-  "posti": 79,
-  "esempi": [
-   {
-    "id": "fe2dd4d4fb7e4610bcb949743ea5d625",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 4 OPERATORI SOCIO SANITARI - AREA DEGLI OPERATORI ESPERTI",
-    "figura": "OPERATORI SOCIO SANITARI - AREA DEGLI OPERATORI ESPERTI",
-    "ente": "EnEA - Ente Educazione Assistenza",
-    "posti": 4,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fe2dd4d4fb7e4610bcb949743ea5d625"
-   },
-   {
-    "id": "7ce0a4eaad52405aa1ec9246af4ee0ad",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE DI N. 1 UNITA’ DI PERSONALE AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE AI SENSI DEL CCNL COMPARTO FUNZIONI LOCALI DEL 16/11/2022, PROFILO PROFESSIONALE DI FARMACISTA A TEMPO INDETERMINATO – TEMPO PIENO PRESSO IL DIPARTIMENTO RISORSE FINANZIARIE E P",
-    "figura": "farmacista",
-    "ente": "Comune di Verbania",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7ce0a4eaad52405aa1ec9246af4ee0ad"
-   },
-   {
-    "id": "77f85f1d4e124692954b8994fe50c3a2",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per esami, per l’assunzione full time 100% a tempo indeterminato di n. 1 Funzionario Contabile – Area dei Funzionari e dell’Elevata Qualificazione",
-    "figura": "conta",
-    "ente": "Comune di San Sosti",
-    "posti": 1,
-    "scade": "2026-11-25",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=77f85f1d4e124692954b8994fe50c3a2"
-   },
-   {
-    "id": "bdd06d787b6f40a79e21e036b04c17b9",
-    "profilo": null,
-    "titolo": "Concorso pubblico per esami per l' assunzione a tempo determinato pieno e/o parziale di n.1 figura di Farmacista- Area dei Funzionari e dell' elevata qualificazione CCNL Funzioni Locali",
-    "figura": "farmacista",
-    "ente": "Azienda Pubblica Servizi alla Persona Maria Redditi",
-    "posti": 1,
-    "scade": "2026-11-12",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bdd06d787b6f40a79e21e036b04c17b9"
-   },
-   {
-    "id": "13c36503a2ee4d4fabe6db78f638bd35",
-    "profilo": null,
-    "titolo": "AVVISO PUBBLICO DI PROCEDURA PER L’INDIVIDUAZIONE DI CORRIPETITORI, STRUMENTISTI E ORCHESTRALI AGGIUNTI PER L’EVENTUALE STIPULA DI CONTRATTI DI COLLABORAZIONE Strumento: OBOE",
-    "figura": "CORRIPETITORI, STRUMENTISTI E ORCHESTRALI AGGIUNTI - Oboe",
-    "ente": "Conservatorio di Musica Giuseppe Tartini di Trieste",
-    "posti": 1,
-    "scade": "2026-11-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=13c36503a2ee4d4fabe6db78f638bd35"
-   }
-  ]
- },
- {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 42,
+  "bandi": 41,
   "posti": 58,
   "esempi": [
+   {
+    "id": "b9b308cb4bf34617a0118b58a83f8133",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA",
+    "figura": "DOCENTE",
+    "ente": "Istituto Superiore di Studi Musicali G.F.Ghedini",
+    "posti": 2,
+    "scade": "2026-11-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b9b308cb4bf34617a0118b58a83f8133"
+   },
    {
     "id": "02f98a6b03c941bfaacf0e78d225a41a",
     "profilo": null,
@@ -127,23 +137,13 @@
     "posti": 1,
     "scade": "2026-11-11",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=79538c1a6e444619b66b76f4ea1ab2a7"
-   },
-   {
-    "id": "a7c2a99759b44c568eb6a5d445eb72f2",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 AFAM051 - PRATICA PIANISTICA E DELLA LETTURA VOCALE E PIANISTICA",
-    "figura": "DOCENTE I FASCIA - AFAM051 PRATICA PIANISTICA E DELLA LETTURA VOCALE E PIANISTICA",
-    "ente": "Conservatorio Statale di Musica 'Giovanni Paisiello' di Taranto",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a7c2a99759b44c568eb6a5d445eb72f2"
    }
   ]
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 11,
-  "posti": 39,
+  "bandi": 10,
+  "posti": 37,
   "esempi": [
    {
     "id": "23392addf93546b082346802d0548831",
@@ -256,8 +256,8 @@
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 15,
-  "posti": 21,
+  "bandi": 14,
+  "posti": 20,
   "esempi": [
    {
     "id": "3b4d8f8227d042899fccf5932c0c5fc4",
@@ -300,22 +300,32 @@
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cd8fd8fc93be4fdca67becec399137c6"
    },
    {
-    "id": "9a03e1d05bbf4b4ba851a0db9657e894",
+    "id": "bfa423ff0a1044d580d65a93d98c1903",
     "profilo": null,
-    "titolo": "Concorso pubblico per titoli ed esame, per un/una \"Ricercatore/Ricercatrice\", III Livello Professionale, ai fini dello svolgimento delle attività di “Inferenza cosmologica dalle statistiche di clustering delle galassie della missione Euclid” Cod: 2026INAFRIC-OAB-Euclid-009",
-    "figura": "Ricercatore Terzo livello professionale",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "titolo": "7/2026 - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO A TEMPO PIENO E DETERMINATO DI UNA UNITÀ DI PERSONALE, PROFILO RICERCATORE, III LIVELLO PROFESSIONALE, CON COMPETENZE IN MICROBIOLOGIA APPLICATA, BIOTECNOLOGIE MICROBICHE MARINE E BIOPROSPEZIONE DI BATTERI MARINI NELL’AMBI",
+    "figura": "Ricercatore - III livello professionale",
+    "ente": "Stazione Zoologica",
     "posti": 1,
-    "scade": "2026-10-29",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9a03e1d05bbf4b4ba851a0db9657e894"
+    "scade": "2026-10-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfa423ff0a1044d580d65a93d98c1903"
    }
   ]
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 6,
-  "posti": 10,
+  "bandi": 7,
+  "posti": 11,
   "esempi": [
+   {
+    "id": "ac4e2fbe04af408da804d43c1aba5c74",
+    "profilo": null,
+    "titolo": "COMUNE DI VALDAGNO - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI DIRIGENTE (CCNL AREA FUNZIONI LOCALI) PER LA \"DIREZIONE ORGANIZZAZIONE E TRASFORMAZIONE DIGITALE\"",
+    "figura": "Dirigente",
+    "ente": "Comune di Valdagno",
+    "posti": 1,
+    "scade": "2026-11-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
+   },
    {
     "id": "5c004f961aef4692a3a6bc0b7d11237c",
     "profilo": null,
@@ -355,16 +365,6 @@
     "posti": 4,
     "scade": "2026-11-11",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2fc90c96a53948be8d1e82c6eb870155"
-   },
-   {
-    "id": "7535cc2816df4966a633d606c5653961",
-    "profilo": null,
-    "titolo": "Concorso Pubblico, per Titoli ed Esami, per l’Assunzione di N. 1 Dirigente a Tempo Indeterminato Presso la Gestione Governativa Ferrovia Circumetnea per il Conferimento dell’Incarico di Dirigente Investimenti – Codice Concorso Portale del Reclutamento INPA: fc_087_024 – Scadenza 11/11/2026",
-    "figura": "DIRIGENTE INVESTIMENTI",
-    "ente": "Ferrovia Circumetnea",
-    "posti": 1,
-    "scade": "2026-11-11",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7535cc2816df4966a633d606c5653961"
    }
   ]
  },
