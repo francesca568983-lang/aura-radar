@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 15,
-  "posti": 224,
+  "bandi": 16,
+  "posti": 225,
   "esempi": [
+   {
+    "id": "68e29d566a0a4be38ba22990c60928df",
+    "profilo": null,
+    "titolo": "Bando di concorso riservato al personale interno titolare di contratto a tempo determinato dell’Accademia di Belle arti di Firenze - profilo professionale “Modelli viventi”",
+    "figura": "Modello vivente",
+    "ente": "Accademia di Belle Arti di Firenze",
+    "posti": 1,
+    "scade": "2026-11-29",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=68e29d566a0a4be38ba22990c60928df"
+   },
    {
     "id": "af6765fb6d5a470eacf6582848f08771",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-11-20",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2c0759e4952540d2be3fbecd4bff9437"
-   },
-   {
-    "id": "fe2dd4d4fb7e4610bcb949743ea5d625",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 4 OPERATORI SOCIO SANITARI - AREA DEGLI OPERATORI ESPERTI",
-    "figura": "OPERATORI SOCIO SANITARI - AREA DEGLI OPERATORI ESPERTI",
-    "ente": "EnEA - Ente Educazione Assistenza",
-    "posti": 4,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fe2dd4d4fb7e4610bcb949743ea5d625"
    }
   ]
  },
@@ -85,65 +85,65 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 41,
-  "posti": 58,
+  "bandi": 49,
+  "posti": 67,
   "esempi": [
    {
-    "id": "b9b308cb4bf34617a0118b58a83f8133",
+    "id": "388cf25d4b854fc6bc87e3e5f8c9893f",
     "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA",
+    "titolo": "Concorso pubblico, per esami e titoli , per l'assunzione di n. 1 unità a tempo indeterminato e pieno di personale del profilo di Funzionario amministrativo - gestionale di cui al CCNL Istruzione e Ricerca - comparto AFAM del 18/01/2024",
+    "figura": "Funzionario amministrativo/gestionale - Area dei Funzionari CCNL Istruzione e Ricerca - sezione AFAM",
+    "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+    "posti": 1,
+    "scade": "2026-11-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=388cf25d4b854fc6bc87e3e5f8c9893f"
+   },
+   {
+    "id": "78d2e6c057654265ba3a098d0dcdd21a",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO DETERMINATO - AFAM042 (EX CODC/04) – Composizione, arrangiamento e concertazione per i nuovi linguaggi musicali",
+    "figura": "Docente",
+    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=78d2e6c057654265ba3a098d0dcdd21a"
+   },
+   {
+    "id": "dcaa4b10254f41ccbe735679bfc39df1",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO DETERMINATO AFAM051 (EX COTP/03) – PRATICA PIANISTICA E DELLA LETTERATURA VOCALE E PIANISTICA",
+    "figura": "Docente",
+    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dcaa4b10254f41ccbe735679bfc39df1"
+   },
+   {
+    "id": "f70086e17d0149a0bb4eb0f67d218968",
+    "profilo": null,
+    "titolo": "BANDO RECLUTAMENTO DOCENTE TEMPO INDETERMINATO AFAM113 - Fotografia",
     "figura": "DOCENTE",
-    "ente": "Istituto Superiore di Studi Musicali G.F.Ghedini",
-    "posti": 2,
-    "scade": "2026-11-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b9b308cb4bf34617a0118b58a83f8133"
-   },
-   {
-    "id": "02f98a6b03c941bfaacf0e78d225a41a",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE AFAM 010 CORNO",
-    "figura": "Docente di prima fascia AFAM",
-    "ente": "Istituto Superiore di Studi Musicali Vincenzo Bellini di Caltanissetta",
+    "ente": "ACCADEMIA DI BELLE ARTI STATALE DI RAVENNA",
     "posti": 1,
-    "scade": "2026-11-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=02f98a6b03c941bfaacf0e78d225a41a"
+    "scade": "2026-11-19",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f70086e17d0149a0bb4eb0f67d218968"
    },
    {
-    "id": "60dc13870f7148e7b82007484eecd941",
+    "id": "46c4344792824aaa950de20badb83a36",
     "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA PER L’ANNO ACCADEMICO 2026/2027- DPR 83/2024- AFAM051 PRATICA PIANISTICA E DELLA LETTURA VOCALE E PIANISTICA",
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO - AFAM 019 - STRUMENTI A PERCUSSIONE",
     "figura": "DOCENTE",
-    "ente": "Istituto Superiore di Studi Musicali di Reggio Emilia e Castelnovo Nei Monti",
+    "ente": "CONSERVATORIO DI MUSICA ARCANGELO CORELLI",
     "posti": 1,
-    "scade": "2026-11-29",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=60dc13870f7148e7b82007484eecd941"
-   },
-   {
-    "id": "a470c0c742bb4541a8a9d18fb6b98f3f",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027",
-    "figura": "Docente di prima fascia",
-    "ente": "Istituto Superiore di Studi Musicali Giulio Briccialdi",
-    "posti": 1,
-    "scade": "2026-11-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a470c0c742bb4541a8a9d18fb6b98f3f"
-   },
-   {
-    "id": "79538c1a6e444619b66b76f4ea1ab2a7",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO DETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 AFAM018 – PIANOFORTE",
-    "figura": "DOCENTE I FASCIA - AFAM018 PIANOFORTE",
-    "ente": "Conservatorio Statale di Musica 'Giovanni Paisiello' di Taranto",
-    "posti": 1,
-    "scade": "2026-11-11",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=79538c1a6e444619b66b76f4ea1ab2a7"
+    "scade": "2026-11-15",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=46c4344792824aaa950de20badb83a36"
    }
   ]
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 10,
-  "posti": 37,
+  "bandi": 9,
+  "posti": 36,
   "esempi": [
    {
     "id": "23392addf93546b082346802d0548831",
@@ -199,9 +199,29 @@
  },
  {
   "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 7,
-  "posti": 21,
+  "bandi": 9,
+  "posti": 23,
   "esempi": [
+   {
+    "id": "9564ab33248a4a998a1fa3a72692e32a",
+    "profilo": null,
+    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S29, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
+    "figura": "Tecnologo di Ricerca di primo livello",
+    "ente": "Universita' degli Studi di Padova",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9564ab33248a4a998a1fa3a72692e32a"
+   },
+   {
+    "id": "c53b724b57544fd98f214cf94412f8a7",
+    "profilo": null,
+    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S30, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
+    "figura": "Tecnologo di Ricerca di primo livello",
+    "ente": "Universita' degli Studi di Padova",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c53b724b57544fd98f214cf94412f8a7"
+   },
    {
     "id": "9716ef773a02442592f141e459838e6c",
     "profilo": null,
@@ -231,26 +251,6 @@
     "posti": 1,
     "scade": "2026-11-18",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=01d880e28bf746dfba8993d3d298bc00"
-   },
-   {
-    "id": "54139b1108494683a6d6829c754b2c21",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per titoli ed esami, con profilo di tecnologo a tempo indeterminato per le esigenze di Sapienza. Concorso Cod. 15/TECNOLOGI/T-IND-2026",
-    "figura": "Tecnologo",
-    "ente": "Universita' degli Studi di Roma La Sapienza",
-    "posti": 15,
-    "scade": "2026-11-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=54139b1108494683a6d6829c754b2c21"
-   },
-   {
-    "id": "f3024f2207db4c0e90f7fd2b3fbdaffc",
-    "profilo": null,
-    "titolo": "SELEZIONE PUBBLICA PER N. 1 TECNOLOGO DI II LIV.,TEMPO DET. 18 MESI,PROGETTO \"PIMIQ\"-DIP. SCIENZE MATEMATICHE, FISICHE E INFORMATICHE-UNIV. PARMA",
-    "figura": "Tecnologo di II livello",
-    "ente": "Universita' degli Studi di Parma",
-    "posti": 1,
-    "scade": "2026-11-02",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3024f2207db4c0e90f7fd2b3fbdaffc"
    }
   ]
  },
@@ -259,6 +259,26 @@
   "bandi": 14,
   "posti": 20,
   "esempi": [
+   {
+    "id": "084fd6d12a164b1a973e21dbb03fdbb4",
+    "profilo": null,
+    "titolo": "Comune di Valmadrera - BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 ISTRUTTORE AMMINISTRATIVO/CONTABILE – AREA DEGLI ISTRUTTORI -DA ASSEGNARE ALL’AREA AMMINISTRAZIONE GENERALE - CED.",
+    "figura": "ISTRUTTORE AMMINISTRATIVO/CONTABILE – AREA DEGLI ISTRUTTORI -DA ASSEGNARE ALL’AREA AMMINISTRAZIONE GENERALE - CED.",
+    "ente": "Comune di Valmadrera",
+    "posti": 1,
+    "scade": "2026-11-19",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=084fd6d12a164b1a973e21dbb03fdbb4"
+   },
+   {
+    "id": "fb510d82f601477d9eb7b34608b6433a",
+    "profilo": null,
+    "titolo": "COMUNE DI VIGONZA (PD) – CONCORSO PUBBLICO PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO CONTABILE – AREA DEGLI ISTRUTTORI, C.C.N.L. PERSONALE NON DIRIGENTE COMPARTO FUNZIONI LOCALI 2025/2027 A TEMPO PIENO ED INDETERMINATO, DA ASSEGNARE AL SETTORE ECONOMICO-FINANZIARIO.",
+    "figura": "Istruttore amministrativo contabile, da assegnare al Settore Economico-Finanziario",
+    "ente": "Comune di Vigonza",
+    "posti": 1,
+    "scade": "2026-11-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fb510d82f601477d9eb7b34608b6433a"
+   },
    {
     "id": "3b4d8f8227d042899fccf5932c0c5fc4",
     "profilo": null,
@@ -288,26 +308,6 @@
     "posti": 1,
     "scade": "2026-11-09",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=03a53a2ddf374e23b08daa5e99d5b6f4"
-   },
-   {
-    "id": "cd8fd8fc93be4fdca67becec399137c6",
-    "profilo": null,
-    "titolo": "Concorso pubblico titoli/esame, per n. 3 “Ricercatori”, III Liv., contratto TD, impegno a tempo pieno, dI 24 mesi prorogabili, per ASTRASud - Aerospazio, Space weather, Tecnologia per la Ricerca Astrofisica multimessaggera nel Sud Cod: 2026INAFRIC-OPA-105210301-004",
-    "figura": "Ricercatore, III livello professionale",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 3,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cd8fd8fc93be4fdca67becec399137c6"
-   },
-   {
-    "id": "bfa423ff0a1044d580d65a93d98c1903",
-    "profilo": null,
-    "titolo": "7/2026 - CONCORSO PUBBLICO PER TITOLI ED ESAMI PER L’ASSUNZIONE CON CONTRATTO A TEMPO PIENO E DETERMINATO DI UNA UNITÀ DI PERSONALE, PROFILO RICERCATORE, III LIVELLO PROFESSIONALE, CON COMPETENZE IN MICROBIOLOGIA APPLICATA, BIOTECNOLOGIE MICROBICHE MARINE E BIOPROSPEZIONE DI BATTERI MARINI NELL’AMBI",
-    "figura": "Ricercatore - III livello professionale",
-    "ente": "Stazione Zoologica",
-    "posti": 1,
-    "scade": "2026-10-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfa423ff0a1044d580d65a93d98c1903"
    }
   ]
  },
@@ -423,6 +423,33 @@
   ]
  },
  {
+  "gruppo": "docente (altro)",
+  "bandi": 2,
+  "posti": 2,
+  "esempi": [
+   {
+    "id": "69e6965bcf8c400da21a0724fef1d0db",
+    "profilo": null,
+    "titolo": "BANDO CONCORSO A TEMPO INDETERMINATO PER TITOLI ED ESAMI - AFAM040 MUSICOLOGIA E STORIA DELLA MUSICA",
+    "figura": "Docente a Tempo Indeterminato",
+    "ente": "ISTITUTO STATALE SUPERIORE DI STUDI MUSICALI E COREUTICI \"GAETANO BRAGA\"",
+    "posti": 1,
+    "scade": "2026-11-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=69e6965bcf8c400da21a0724fef1d0db"
+   },
+   {
+    "id": "2115ed9b7c3f4620afc6cfb22a2f6781",
+    "profilo": null,
+    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+    "figura": "FUNZIONARIO INSEGNANTE",
+    "ente": "Comune di Catanzaro",
+    "posti": 1,
+    "scade": "2026-11-06",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781"
+   }
+  ]
+ },
+ {
   "gruppo": "dirigente avvocato",
   "bandi": 1,
   "posti": 1,
@@ -453,23 +480,6 @@
     "posti": 1,
     "scade": "2026-11-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfe78b6d4c344cb18d56192dfebd92de"
-   }
-  ]
- },
- {
-  "gruppo": "docente (altro)",
-  "bandi": 1,
-  "posti": 1,
-  "esempi": [
-   {
-    "id": "2115ed9b7c3f4620afc6cfb22a2f6781",
-    "profilo": null,
-    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
-    "figura": "FUNZIONARIO INSEGNANTE",
-    "ente": "Comune di Catanzaro",
-    "posti": 1,
-    "scade": "2026-11-06",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781"
    }
   ]
  }
