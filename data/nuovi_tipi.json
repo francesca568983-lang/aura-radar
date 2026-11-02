@@ -1,9 +1,29 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 17,
-  "posti": 226,
+  "bandi": 19,
+  "posti": 287,
   "esempi": [
+   {
+    "id": "0bb8157d14964606bcfb4a27e99cce78",
+    "profilo": null,
+    "titolo": "Selezione pubblica per esami per la copertura, a tempo pieno e indeterminato, di n.1 posto con profilo professionale di Operatore tecnico esperto – cantoniere – Area degli operatori esperti (ex cat. giuridica B) da assegnare al Servizio Tecnico Manutentivo.",
+    "figura": "Monocratico",
+    "ente": "Comune di Pont Canavese",
+    "posti": 1,
+    "scade": "2026-11-17",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0bb8157d14964606bcfb4a27e99cce78"
+   },
+   {
+    "id": "3e96f65f29134bdb92c78fc19cdd15c9",
+    "profilo": null,
+    "titolo": "Ruolo Normale Nomina Diretta EI 2026",
+    "figura": "Ufficiali",
+    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+    "posti": 60,
+    "scade": "2026-12-01",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e96f65f29134bdb92c78fc19cdd15c9"
+   },
    {
     "id": "b4b811e72f264edab15e16f40aa008eb",
     "profilo": null,
@@ -33,26 +53,6 @@
     "posti": 60,
     "scade": "2026-11-28",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=af6765fb6d5a470eacf6582848f08771"
-   },
-   {
-    "id": "4562979f4dba4d3b80fbe366c436c47d",
-    "profilo": null,
-    "titolo": "Marescialli nomina diretta EI 2026",
-    "figura": "Sottufficiali",
-    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-    "posti": 51,
-    "scade": "2026-11-28",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4562979f4dba4d3b80fbe366c436c47d"
-   },
-   {
-    "id": "4677f52ce26b479ba14ab21da6869c07",
-    "profilo": null,
-    "titolo": "Marescialli nomina diretta MM 2026",
-    "figura": "Sottufficiali",
-    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-    "posti": 33,
-    "scade": "2026-11-28",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4677f52ce26b479ba14ab21da6869c07"
    }
   ]
  },
@@ -85,8 +85,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 49,
-  "posti": 67,
+  "bandi": 48,
+  "posti": 66,
   "esempi": [
    {
     "id": "875f70de14cf44e9bdb2da94880ee6ab",
@@ -199,8 +199,8 @@
  },
  {
   "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 9,
-  "posti": 23,
+  "bandi": 8,
+  "posti": 22,
   "esempi": [
    {
     "id": "9564ab33248a4a998a1fa3a72692e32a",
@@ -313,9 +313,19 @@
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 7,
-  "posti": 11,
+  "bandi": 8,
+  "posti": 12,
   "esempi": [
+   {
+    "id": "de4cb89a93704e10adb1e0f447492aa6",
+    "profilo": null,
+    "titolo": "COMUNE DI SEREGNO - CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA, A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI \"DIRIGENTE” – AREA SERVIZI PER IL TERRITORIO",
+    "figura": "DIRIGENTE",
+    "ente": "Comune di Seregno",
+    "posti": 1,
+    "scade": "2026-11-23",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=de4cb89a93704e10adb1e0f447492aa6"
+   },
    {
     "id": "ac4e2fbe04af408da804d43c1aba5c74",
     "profilo": null,
@@ -355,16 +365,6 @@
     "posti": 2,
     "scade": "2026-11-23",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2ec2e1fd50644b42b19732572192ce4e"
-   },
-   {
-    "id": "2fc90c96a53948be8d1e82c6eb870155",
-    "profilo": null,
-    "titolo": "Avviso pubblico, per titoli ed esami, per l’assunzione di n. 4 unità di personale con contratto di lavoro subordinato a tempo indeterminato e a tempo pieno con qualifica dirigenziale presso la Regione Molise con riserva del 50 per cento dei posti (pari a n. 2 unità) da destinare al personale interno",
-    "figura": "dirigente",
-    "ente": "Regione Molise",
-    "posti": 4,
-    "scade": "2026-11-11",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2fc90c96a53948be8d1e82c6eb870155"
    }
   ]
  },
