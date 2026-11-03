@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 19,
-  "posti": 287,
+  "bandi": 20,
+  "posti": 288,
   "esempi": [
+   {
+    "id": "596d37a5581240ea890206e0e85c41c6",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE A TEMPO INDETERMINATO E A TEMPO PARZIALE (18 ORE SETTIMANALI) DI N. 1 AGENTE DI POLIZIA MUNICIPALE – AREA DEGLI ISTRUTTORI",
+    "figura": "ISTRUTTURE DI VIGILANZA",
+    "ente": "Comune di Carpignano Salentino - Ufficio Affari Generali",
+    "posti": 1,
+    "scade": "2026-11-23",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=596d37a5581240ea890206e0e85c41c6"
+   },
    {
     "id": "0bb8157d14964606bcfb4a27e99cce78",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-11-29",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=68e29d566a0a4be38ba22990c60928df"
-   },
-   {
-    "id": "af6765fb6d5a470eacf6582848f08771",
-    "profilo": null,
-    "titolo": "Marescialli nomina diretta AM 2026",
-    "figura": "Sottufficiali",
-    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-    "posti": 60,
-    "scade": "2026-11-28",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=af6765fb6d5a470eacf6582848f08771"
    }
   ]
  },
@@ -86,8 +86,18 @@
  {
   "gruppo": "docente universitario/AFAM",
   "bandi": 48,
-  "posti": 66,
+  "posti": 67,
   "esempi": [
+   {
+    "id": "b2871baa0f2b4e4bb6751d1439e82072",
+    "profilo": null,
+    "titolo": "Bando congiunto per il reclutamento a tempo indeterminato di docenti di prima fascia nei Conservatori di musica DPR 83/2024 per a.a. 2026/2027: Conservatorio “A. Boito” – Parma – Conservatorio “G. Rossini” – Pesaro AFAM040 – Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica ",
+    "figura": "Docente I fascia settore artistico-AFAM40 - Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica e drammaturgia musicale)",
+    "ente": "Conservatorio di Musica A.Boito dI Parma",
+    "posti": 2,
+    "scade": "2026-12-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b2871baa0f2b4e4bb6751d1439e82072"
+   },
    {
     "id": "875f70de14cf44e9bdb2da94880ee6ab",
     "profilo": null,
@@ -127,16 +137,6 @@
     "posti": 1,
     "scade": "2026-11-16",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dcaa4b10254f41ccbe735679bfc39df1"
-   },
-   {
-    "id": "f70086e17d0149a0bb4eb0f67d218968",
-    "profilo": null,
-    "titolo": "BANDO RECLUTAMENTO DOCENTE TEMPO INDETERMINATO AFAM113 - Fotografia",
-    "figura": "DOCENTE",
-    "ente": "ACCADEMIA DI BELLE ARTI STATALE DI RAVENNA",
-    "posti": 1,
-    "scade": "2026-11-19",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f70086e17d0149a0bb4eb0f67d218968"
    }
   ]
  },
@@ -203,6 +203,16 @@
   "posti": 22,
   "esempi": [
    {
+    "id": "43140ff44fc44fd594a20e141dfb32ea",
+    "profilo": null,
+    "titolo": "SELEZIONE PER L'ASSUNZIONE DI N. 1 UNITA' DI TECNOLOGO DI SECONDO LIVELLO (CON INQUADRAMENTO STIPENDIALE DI CUI ALLA EX CATEGORIA D, POSIZIONE ECONOMICA D3), CON CONTRATTO DI LAVORO A TEMPO DETERMINATO (DURATA 18 MESI), CON ORARIO DI LAVORO A TEMPO PIENO – DIPARTIMENTO DI SCIENZE DELLA SANITA’ PUBBL",
+    "figura": "TECNOLOGO DI SECONDO LIVELLO, EX CATEGORIA D, POSIZIONE ECONOMICA D3",
+    "ente": "Universita' degli Studi di Torino",
+    "posti": 1,
+    "scade": "2026-12-03",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43140ff44fc44fd594a20e141dfb32ea"
+   },
+   {
     "id": "9564ab33248a4a998a1fa3a72692e32a",
     "profilo": null,
     "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S29, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
@@ -241,16 +251,6 @@
     "posti": 1,
     "scade": "2026-11-18",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b"
-   },
-   {
-    "id": "01d880e28bf746dfba8993d3d298bc00",
-    "profilo": null,
-    "titolo": "Selezione pubblica, per titoli ed esami, per il reclutamento di un/a tecnologo/a di secondo livello, a tempo determinato e pieno - Dipartimento di Ingegneria Industriale Elettrica Elettronica e Informatica dell’Università degli Studi di Catania.",
-    "figura": "tecnologo",
-    "ente": "Universita' degli Studi di Catania",
-    "posti": 1,
-    "scade": "2026-11-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=01d880e28bf746dfba8993d3d298bc00"
    }
   ]
  },
@@ -313,9 +313,19 @@
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 8,
-  "posti": 12,
+  "bandi": 9,
+  "posti": 13,
   "esempi": [
+   {
+    "id": "6ac178f4ae5045a9962b79180d0de062",
+    "profilo": null,
+    "titolo": "SELEZIONE PER SOLI ESAMI PER N. 1 POSTO DI DIRIGENTE A TEMPO PIENO E INDETERMINATO PRESSO L’UNIONE RENO GALLIERA – AREA SERVIZI ALLA PERSONA",
+    "figura": "Dirigente",
+    "ente": "Unione Reno Galliera",
+    "posti": 1,
+    "scade": "2026-11-24",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6ac178f4ae5045a9962b79180d0de062"
+   },
    {
     "id": "de4cb89a93704e10adb1e0f447492aa6",
     "profilo": null,
@@ -355,16 +365,6 @@
     "posti": 1,
     "scade": "2026-11-26",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1e85bececa04590b9a20a485bc36c33"
-   },
-   {
-    "id": "2ec2e1fd50644b42b19732572192ce4e",
-    "profilo": null,
-    "titolo": "Bando di concorso pubblico per esami per l'assunzione a tempo indeterminato di due lavoratori con qualifica di DIRIGENTE per le funzioni afferenti al Dipartimento 2 per la transizione digitale dell’amministrazione e comunicazione dei servizi al cittadino, all’impresa e al turista e Dipartimento 3 pe",
-    "figura": "DIRIGENTE",
-    "ente": "Comune di Spoleto",
-    "posti": 2,
-    "scade": "2026-11-23",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2ec2e1fd50644b42b19732572192ce4e"
    }
   ]
  },
