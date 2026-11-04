@@ -85,9 +85,29 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 48,
-  "posti": 67,
+  "bandi": 50,
+  "posti": 69,
   "esempi": [
+   {
+    "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO INDETERMINATO SETTORE ARTISTICO DISCIPLINARE AFAM113 (EX ABPR31) – FOTOGRAFIA",
+    "figura": "Docente",
+    "ente": "Accademia di Belle Arti di Catanzaro",
+    "posti": 1,
+    "scade": "2026-12-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e80cc25bad2406d8f2ec946e1f6c21f"
+   },
+   {
+    "id": "fd67444ea3d24fb9a48188fcf70516e2",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per A.A. 2026/2027 PER IL SETTORE ARTISTICO DISCIPLINARE “PEDAGOGIA MUSICALE E PSICOLOGIA DELLA MUSICA” AFAM053",
+    "figura": "docente",
+    "ente": "Conservatorio Musica Vibo Valentia",
+    "posti": 1,
+    "scade": "2026-12-03",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fd67444ea3d24fb9a48188fcf70516e2"
+   },
    {
     "id": "b2871baa0f2b4e4bb6751d1439e82072",
     "profilo": null,
@@ -117,34 +137,24 @@
     "posti": 1,
     "scade": "2026-11-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=388cf25d4b854fc6bc87e3e5f8c9893f"
-   },
-   {
-    "id": "78d2e6c057654265ba3a098d0dcdd21a",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO DETERMINATO - AFAM042 (EX CODC/04) – Composizione, arrangiamento e concertazione per i nuovi linguaggi musicali",
-    "figura": "Docente",
-    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=78d2e6c057654265ba3a098d0dcdd21a"
-   },
-   {
-    "id": "dcaa4b10254f41ccbe735679bfc39df1",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO DETERMINATO AFAM051 (EX COTP/03) – PRATICA PIANISTICA E DELLA LETTERATURA VOCALE E PIANISTICA",
-    "figura": "Docente",
-    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dcaa4b10254f41ccbe735679bfc39df1"
    }
   ]
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 9,
-  "posti": 36,
+  "bandi": 10,
+  "posti": 37,
   "esempi": [
+   {
+    "id": "fed7f33bd6ce448dbf54d5ebc4041c53",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO DI N. 1 POSTO DI DIRIGENTE FISICO PER LA DISCIPLINA DI FISICA SANITARIA DA ASSEGNARE ALLA S.C. FISICA SANITARIA",
+    "figura": "dirigente fisico",
+    "ente": "Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda",
+    "posti": 1,
+    "scade": "2026-12-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fed7f33bd6ce448dbf54d5ebc4041c53"
+   },
    {
     "id": "23392addf93546b082346802d0548831",
     "profilo": null,
@@ -184,80 +194,13 @@
     "posti": 1,
     "scade": "2026-11-25",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2710da8056e24e079c0caa529180cdc7"
-   },
-   {
-    "id": "4e935311e72c4ea687a698fc01d10eff",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per titoli ed esami, per la copertura a tempo indeterminato e a tempo pieno di n. 2 posti di ortottista - area dei professionisti della salute e dei funzionari.",
-    "figura": "Ortottista - area dei professionisti della salute e dei funzionari",
-    "ente": "Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda",
-    "posti": 2,
-    "scade": "2026-11-20",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4e935311e72c4ea687a698fc01d10eff"
-   }
-  ]
- },
- {
-  "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 8,
-  "posti": 22,
-  "esempi": [
-   {
-    "id": "43140ff44fc44fd594a20e141dfb32ea",
-    "profilo": null,
-    "titolo": "SELEZIONE PER L'ASSUNZIONE DI N. 1 UNITA' DI TECNOLOGO DI SECONDO LIVELLO (CON INQUADRAMENTO STIPENDIALE DI CUI ALLA EX CATEGORIA D, POSIZIONE ECONOMICA D3), CON CONTRATTO DI LAVORO A TEMPO DETERMINATO (DURATA 18 MESI), CON ORARIO DI LAVORO A TEMPO PIENO – DIPARTIMENTO DI SCIENZE DELLA SANITA’ PUBBL",
-    "figura": "TECNOLOGO DI SECONDO LIVELLO, EX CATEGORIA D, POSIZIONE ECONOMICA D3",
-    "ente": "Universita' degli Studi di Torino",
-    "posti": 1,
-    "scade": "2026-12-03",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43140ff44fc44fd594a20e141dfb32ea"
-   },
-   {
-    "id": "9564ab33248a4a998a1fa3a72692e32a",
-    "profilo": null,
-    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S29, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
-    "figura": "Tecnologo di Ricerca di primo livello",
-    "ente": "Universita' degli Studi di Padova",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9564ab33248a4a998a1fa3a72692e32a"
-   },
-   {
-    "id": "c53b724b57544fd98f214cf94412f8a7",
-    "profilo": null,
-    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S30, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
-    "figura": "Tecnologo di Ricerca di primo livello",
-    "ente": "Universita' degli Studi di Padova",
-    "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c53b724b57544fd98f214cf94412f8a7"
-   },
-   {
-    "id": "9716ef773a02442592f141e459838e6c",
-    "profilo": null,
-    "titolo": "Selezione pubblica, per titoli e prove selettive, per l’assunzione di n. 1 tecnologo – ex art. 24 bis Legge 30.12.2010 n. 240 – con contratto di lavoro subordinato a tempo determinato a tempo pieno della durata di 24 mesi eventualmente rinnovabile per ulteriori 12 mesi, nella posizione economica ex ",
-    "figura": "Tecnologo, ex cat. D3",
-    "ente": "Universita' degli Studi di Trento",
-    "posti": 1,
-    "scade": "2026-11-17",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9716ef773a02442592f141e459838e6c"
-   },
-   {
-    "id": "a2ceeb2c49794604813eb402f5f61a9b",
-    "profilo": null,
-    "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, per il Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durab",
-    "figura": "Tecnologo",
-    "ente": "Universita' degli Studi di Firenze",
-    "posti": 1,
-    "scade": "2026-11-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 13,
-  "posti": 19,
+  "bandi": 12,
+  "posti": 18,
   "esempi": [
    {
     "id": "084fd6d12a164b1a973e21dbb03fdbb4",
@@ -365,6 +308,63 @@
     "posti": 1,
     "scade": "2026-11-26",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1e85bececa04590b9a20a485bc36c33"
+   }
+  ]
+ },
+ {
+  "gruppo": "tecnologo universitario / progetto di ricerca",
+  "bandi": 7,
+  "posti": 7,
+  "esempi": [
+   {
+    "id": "43140ff44fc44fd594a20e141dfb32ea",
+    "profilo": null,
+    "titolo": "SELEZIONE PER L'ASSUNZIONE DI N. 1 UNITA' DI TECNOLOGO DI SECONDO LIVELLO (CON INQUADRAMENTO STIPENDIALE DI CUI ALLA EX CATEGORIA D, POSIZIONE ECONOMICA D3), CON CONTRATTO DI LAVORO A TEMPO DETERMINATO (DURATA 18 MESI), CON ORARIO DI LAVORO A TEMPO PIENO – DIPARTIMENTO DI SCIENZE DELLA SANITA’ PUBBL",
+    "figura": "TECNOLOGO DI SECONDO LIVELLO, EX CATEGORIA D, POSIZIONE ECONOMICA D3",
+    "ente": "Universita' degli Studi di Torino",
+    "posti": 1,
+    "scade": "2026-12-03",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43140ff44fc44fd594a20e141dfb32ea"
+   },
+   {
+    "id": "9564ab33248a4a998a1fa3a72692e32a",
+    "profilo": null,
+    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S29, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
+    "figura": "Tecnologo di Ricerca di primo livello",
+    "ente": "Universita' degli Studi di Padova",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9564ab33248a4a998a1fa3a72692e32a"
+   },
+   {
+    "id": "c53b724b57544fd98f214cf94412f8a7",
+    "profilo": null,
+    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S30, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
+    "figura": "Tecnologo di Ricerca di primo livello",
+    "ente": "Universita' degli Studi di Padova",
+    "posti": 1,
+    "scade": "2026-11-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c53b724b57544fd98f214cf94412f8a7"
+   },
+   {
+    "id": "9716ef773a02442592f141e459838e6c",
+    "profilo": null,
+    "titolo": "Selezione pubblica, per titoli e prove selettive, per l’assunzione di n. 1 tecnologo – ex art. 24 bis Legge 30.12.2010 n. 240 – con contratto di lavoro subordinato a tempo determinato a tempo pieno della durata di 24 mesi eventualmente rinnovabile per ulteriori 12 mesi, nella posizione economica ex ",
+    "figura": "Tecnologo, ex cat. D3",
+    "ente": "Universita' degli Studi di Trento",
+    "posti": 1,
+    "scade": "2026-11-17",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9716ef773a02442592f141e459838e6c"
+   },
+   {
+    "id": "a2ceeb2c49794604813eb402f5f61a9b",
+    "profilo": null,
+    "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, per il Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durab",
+    "figura": "Tecnologo",
+    "ente": "Universita' degli Studi di Firenze",
+    "posti": 1,
+    "scade": "2026-11-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b"
    }
   ]
  },
