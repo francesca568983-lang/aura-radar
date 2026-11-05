@@ -1,8 +1,8 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 20,
-  "posti": 288,
+  "bandi": 18,
+  "posti": 281,
   "esempi": [
    {
     "id": "596d37a5581240ea890206e0e85c41c6",
@@ -85,8 +85,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 50,
-  "posti": 69,
+  "bandi": 44,
+  "posti": 49,
   "esempi": [
    {
     "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
@@ -199,8 +199,8 @@
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 12,
-  "posti": 18,
+  "bandi": 11,
+  "posti": 17,
   "esempi": [
    {
     "id": "084fd6d12a164b1a973e21dbb03fdbb4",
@@ -369,6 +369,43 @@
   ]
  },
  {
+  "gruppo": "docente (altro)",
+  "bandi": 3,
+  "posti": 4,
+  "esempi": [
+   {
+    "id": "8dd616977ff24406ba6db82b763e8118",
+    "profilo": null,
+    "titolo": "COMUNE DI MILANO - ISF BB02 INGLESE C. 2026 – SELEZIONE PUBBLICA, PER ESAMI, PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO E INDETERMINATO DEL PROFILO PROFESSIONALE DI ISTRUTTORE DEI SERVIZI FORMATIVI– AREA DEGLI ISTRUTTORI – AMBITO DI ATTIVITA’: INSEGNANTE TECNICO PRATICO - CLASSE DI INSEGNAMENTO BB",
+    "figura": "ISTRUTTORE DEI SERVIZI FORMATIVI– AREA DEGLI ISTRUTTORI – AMBITO DI ATTIVITA’: INSEGNANTE TECNICO PRATICO - CLASSE DI INSEGNAMENTO BB02 – CONVERSAZIONE IN LINGUA STRANIERA - INGLESE",
+    "ente": "Comune di Milano",
+    "posti": 2,
+    "scade": "2026-12-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8dd616977ff24406ba6db82b763e8118"
+   },
+   {
+    "id": "69e6965bcf8c400da21a0724fef1d0db",
+    "profilo": null,
+    "titolo": "BANDO CONCORSO A TEMPO INDETERMINATO PER TITOLI ED ESAMI - AFAM040 MUSICOLOGIA E STORIA DELLA MUSICA",
+    "figura": "Docente a Tempo Indeterminato",
+    "ente": "ISTITUTO STATALE SUPERIORE DI STUDI MUSICALI E COREUTICI \"GAETANO BRAGA\"",
+    "posti": 1,
+    "scade": "2026-12-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=69e6965bcf8c400da21a0724fef1d0db"
+   },
+   {
+    "id": "2115ed9b7c3f4620afc6cfb22a2f6781",
+    "profilo": null,
+    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
+    "figura": "FUNZIONARIO INSEGNANTE",
+    "ente": "Comune di Catanzaro",
+    "posti": 1,
+    "scade": "2026-11-06",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781"
+   }
+  ]
+ },
+ {
   "gruppo": "addetto sorveglianza portuale",
   "bandi": 1,
   "posti": 4,
@@ -419,33 +456,6 @@
     "posti": 1,
     "scade": "2026-11-05",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=122ec07b1b46403f8c860c2773f7ba04"
-   }
-  ]
- },
- {
-  "gruppo": "docente (altro)",
-  "bandi": 2,
-  "posti": 2,
-  "esempi": [
-   {
-    "id": "69e6965bcf8c400da21a0724fef1d0db",
-    "profilo": null,
-    "titolo": "BANDO CONCORSO A TEMPO INDETERMINATO PER TITOLI ED ESAMI - AFAM040 MUSICOLOGIA E STORIA DELLA MUSICA",
-    "figura": "Docente a Tempo Indeterminato",
-    "ente": "ISTITUTO STATALE SUPERIORE DI STUDI MUSICALI E COREUTICI \"GAETANO BRAGA\"",
-    "posti": 1,
-    "scade": "2026-11-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=69e6965bcf8c400da21a0724fef1d0db"
-   },
-   {
-    "id": "2115ed9b7c3f4620afc6cfb22a2f6781",
-    "profilo": null,
-    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
-    "figura": "FUNZIONARIO INSEGNANTE",
-    "ente": "Comune di Catanzaro",
-    "posti": 1,
-    "scade": "2026-11-06",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781"
    }
   ]
  },
