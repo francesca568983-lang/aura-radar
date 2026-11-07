@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 20,
-  "posti": 285,
+  "bandi": 21,
+  "posti": 286,
   "esempi": [
+   {
+    "id": "cd7a2ac280004bd995bcfb80579ad068",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per 1 ICT Service Desk Assistant",
+    "figura": "ICT Service Desk Assistant",
+    "ente": "Politecnico di Milano",
+    "posti": 1,
+    "scade": "2026-11-26",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cd7a2ac280004bd995bcfb80579ad068"
+   },
    {
     "id": "beaf2ae920bf4192a984707a150d9385",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-11-17",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0bb8157d14964606bcfb4a27e99cce78"
-   },
-   {
-    "id": "3e96f65f29134bdb92c78fc19cdd15c9",
-    "profilo": null,
-    "titolo": "Ruolo Normale Nomina Diretta EI 2026",
-    "figura": "Ufficiali",
-    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-    "posti": 60,
-    "scade": "2026-12-01",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e96f65f29134bdb92c78fc19cdd15c9"
    }
   ]
  },
@@ -85,8 +85,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 42,
-  "posti": 47,
+  "bandi": 38,
+  "posti": 43,
   "esempi": [
    {
     "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
@@ -142,9 +142,19 @@
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 10,
-  "posti": 37,
+  "bandi": 11,
+  "posti": 38,
   "esempi": [
+   {
+    "id": "b69f58e359c449cca6be1bd98253cd43",
+    "profilo": null,
+    "titolo": "CONSORZIO I.R.I.S. - BANDO DI SELEZIONE PUBBLICA, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO PSICOLOGO, AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE DEL VIGENTE C.C.N.L. COMPARTO FUNZIONI LOCALI, A TEMPO DETERMINATO DI 1 ANNO, EVENTUALMENTE RINNOVABILE, E A TEMPO PARZIALE DI 12 OR",
+    "figura": "FUNZIONARIO PSICOLOGO",
+    "ente": "Consorzio Intercomunale Servizi Socio Assistenziali IRIS di Biella",
+    "posti": 1,
+    "scade": "2026-11-23",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b69f58e359c449cca6be1bd98253cd43"
+   },
    {
     "id": "4f7ae77864a24f4486a2d4b8350de88d",
     "profilo": null,
@@ -184,23 +194,13 @@
     "posti": 11,
     "scade": "2026-11-16",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c104e13b29664ae1a66b8c458b85c6cb"
-   },
-   {
-    "id": "91dc8b762bff49dfbe622dca2d303c09",
-    "profilo": null,
-    "titolo": "Concorso pubblico indetto in forma aggregata tra le ATS di Regione Lombardia per l'assunzione di Dirigenti Veterinari nella disciplina di Sanità Animale ( Area \"A\")",
-    "figura": "Dirigente Veterinario nella disciplina di Sanità Animale (Area A)",
-    "ente": "Agenzia di Tutela della Salute dell'Insubria",
-    "posti": 12,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91dc8b762bff49dfbe622dca2d303c09"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 15,
-  "posti": 21,
+  "bandi": 14,
+  "posti": 20,
   "esempi": [
    {
     "id": "490af621a07b427889309281d542aa44",
@@ -369,9 +369,26 @@
   ]
  },
  {
-  "gruppo": "docente (altro)",
-  "bandi": 3,
+  "gruppo": "addetto sorveglianza portuale",
+  "bandi": 1,
   "posti": 4,
+  "esempi": [
+   {
+    "id": "f19be88d0c6a49978a70b9a48b7c5807",
+    "profilo": null,
+    "titolo": "AVVISO PUBBLICO PER TITOLI ED ESAMI PER N. 4 POSIZIONI DI 2° LIVELLO A TEMPO DETERMINATO 36 MESI (CCNL PORTI) DI ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE DA ASSEGNARE ALLA DIREZIONE ATTIVITÀ E LAVORO PORTUALI DELL’AUTORITA’ DI SISTEMA PORTUALE DEL MARE ADRIATICO OR",
+    "figura": "ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE",
+    "ente": "Autorita' di Sistema Portuale del Mar Adriatico Orientale",
+    "posti": 4,
+    "scade": "2026-11-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f19be88d0c6a49978a70b9a48b7c5807"
+   }
+  ]
+ },
+ {
+  "gruppo": "docente (altro)",
+  "bandi": 2,
+  "posti": 3,
   "esempi": [
    {
     "id": "8dd616977ff24406ba6db82b763e8118",
@@ -392,33 +409,6 @@
     "posti": 1,
     "scade": "2026-12-04",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=69e6965bcf8c400da21a0724fef1d0db"
-   },
-   {
-    "id": "2115ed9b7c3f4620afc6cfb22a2f6781",
-    "profilo": null,
-    "titolo": "COMUNE DI CATANZARO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 FUNZIONARIO INSEGNANTE - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL NUOVO ORDINAMENTO DEL CCNL DI COMPARTO DELLE FUNZIONI LOCALI.",
-    "figura": "FUNZIONARIO INSEGNANTE",
-    "ente": "Comune di Catanzaro",
-    "posti": 1,
-    "scade": "2026-11-06",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2115ed9b7c3f4620afc6cfb22a2f6781"
-   }
-  ]
- },
- {
-  "gruppo": "addetto sorveglianza portuale",
-  "bandi": 1,
-  "posti": 4,
-  "esempi": [
-   {
-    "id": "f19be88d0c6a49978a70b9a48b7c5807",
-    "profilo": null,
-    "titolo": "AVVISO PUBBLICO PER TITOLI ED ESAMI PER N. 4 POSIZIONI DI 2° LIVELLO A TEMPO DETERMINATO 36 MESI (CCNL PORTI) DI ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE DA ASSEGNARE ALLA DIREZIONE ATTIVITÀ E LAVORO PORTUALI DELL’AUTORITA’ DI SISTEMA PORTUALE DEL MARE ADRIATICO OR",
-    "figura": "ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE",
-    "ente": "Autorita' di Sistema Portuale del Mar Adriatico Orientale",
-    "posti": 4,
-    "scade": "2026-11-09",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f19be88d0c6a49978a70b9a48b7c5807"
    }
   ]
  },
