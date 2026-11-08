@@ -143,17 +143,6 @@
 "struttura_letta": {}
 },
 {
-"id": "3821d43ca3124e59b896acb3168a8ead",
-"profilo": "capitanerie-di-porto-vsp",
-"titolo": "VSP CP 2026",
-"figura": "Volontari",
-"ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
-"posti": 100,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3821d43ca3124e59b896acb3168a8ead",
-"struttura_letta": {}
-},
-{
 "id": "7bc3034f1d6045e5abce9365535ad7d8",
 "profilo": "docenti-secondaria-parte-generale",
 "titolo": "D.D.G. 2939/2025 – Concorso secondaria – Classe di concorso AS2B",
@@ -677,17 +666,6 @@
 "frase": "12 quesiti comuni ai codici di concorso di cui al precedente articolo 1, comma 1, del presente bando volti a verificare la conoscenza afferente alle seguenti materie: - E"
 }
 }
-},
-{
-"id": "58ba37206af94ef7b5f73c173d6f02ca",
-"profilo": "operatore-esperto-ex-cat-b",
-"titolo": "COMUNE DI FERENTINO - BANDO OPERAI (OPERATORI ESPERTI)",
-"figura": "OPERATORE ESPERTO",
-"ente": "Comune di Ferentino",
-"posti": 8,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=58ba37206af94ef7b5f73c173d6f02ca",
-"struttura_letta": {}
 },
 {
 "id": "ed460ed0f6584b4f872d3179c5692646",
@@ -1827,22 +1805,6 @@
 "scade": "2026-11-11",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8b961e02b3ba49ec9a0f35785c9d13ec",
 "struttura_letta": {}
-},
-{
-"id": "957e8a9f0edf4df383d0ee7851e3278e",
-"profilo": "istruttore-amministrativo",
-"titolo": "Bando di concorso pubblico per esami per l’assunzione a tempo determinato per 36 mesi di n. 3 Istruttori amministrativi da assegnare al servizio protezione civile di cui n. 1 a tempo pieno e n. 2 a tempo parziale al 50% – Area degli Istruttori CCNL Comparto Funzioni Locali vigente",
-"figura": "Istruttore amministrativo",
-"ente": "Comune di Ciampino",
-"posti": 3,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=957e8a9f0edf4df383d0ee7851e3278e",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "isposta aperta sulle materie oggetto del programma di esame indicate nel presente articolo; e) la prova scritta si intende superata con una votazione di almeno 21/30 (ventuno/trentesimi); f) non è prevista la pubblicazione della banca dati dei quesiti relativi alla prova scritta prima dello svolgimento della stessa; g) ai s"
-}
-}
 },
 {
 "id": "b3fcef1a18c64847b1dcf6a075737cf5",
@@ -3117,6 +3079,17 @@
 "posti": 2,
 "scade": "2027-02-10",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0033271159a941f0929cf9a754b57dd9",
+"struttura_letta": {}
+},
+{
+"id": "f1b16e88beea4c66a6216d051d55b375",
+"profilo": "istruttore-servizi-demografici-e-anagrafe",
+"titolo": "BANDO DI CONCORSO PUBBLICO, PER ESAMI, PER IL CONFERIMENTO DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO CONTABILE – EX CAT. C–AREA AMMINISTRATIVA – UFFICIO SERVIZI DEMOGRAFICI-A TEMPO PIENO E INDETERMINATO.",
+"figura": "ISTRUTTORE AMMINISTRATIVO CONTABILE – EX CAT. C–AREA AMMINISTRATIVA – UFFICIO SERVIZI DEMOGRAFICI",
+"ente": "Comune di Armeno",
+"posti": 1,
+"scade": "2026-11-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f1b16e88beea4c66a6216d051d55b375",
 "struttura_letta": {}
 },
 {
@@ -8377,22 +8350,6 @@
 "struttura_letta": {}
 },
 {
-"id": "125b4c9805684ec8a9a386cf735fe869",
-"profilo": "agente-di-polizia-locale",
-"titolo": "Concorso pubblico per esami per la copertura di n. 1 posto nel profilo di Agente di Polizia Locale, Area degli Istruttori, Comparto Funzioni Locali, con rapporto di lavoro a tempo indeterminato e a tempo pieno, assegnato alla U.O.A. Polizia Locale",
-"figura": "Agente di Polizia Locale",
-"ente": "Comune di Casale Monferrato",
-"posti": 1,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=125b4c9805684ec8a9a386cf735fe869",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "La prova preselettiva sarà considerata superata al conseguimento del punteggio minimo pari a 21/30"
-}
-}
-},
-{
 "id": "21c863d7030d488f821e6da993203fee",
 "profilo": "assistente-sociale-enti-locali",
 "titolo": "COMUNE DI CUASSO AL MONTE - SELEZIONE PUBBLICA, PER ESAMI, FINALIZZATA ALLA COPERTURA DI N. 1 POSTO PROFILO ASSISTENTE SOCIALE – AREA FUNZIONARI ED ELEVATA QUALIFICAZIONE – TEMPO INDETERMINATO, TEMPO PIENO 36 ORE, AREA SERVIZI ALLA PERSONA",
@@ -9563,86 +9520,6 @@
 "scade": "2026-11-09",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=674615fa904240a29c1604150144790d",
 "struttura_letta": {}
-},
-{
-"id": "c7eb687e1c2c49a0a72cb0d33077d36b",
-"profilo": "operaio-specializzato-operatore-tecnico",
-"titolo": "BANDO CNR N. 367.640 CTER ADR PALERMO",
-"figura": "COLLABORATORE TECNICO ENTI DI RICERCA VI LIVELLO PROFESSIONALE",
-"ente": "Consiglio Nazionale delle Ricerche - CNR",
-"posti": 1,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c7eb687e1c2c49a0a72cb0d33077d36b",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "La prova orale è superata dai candidati che riportano un punteggio non inferiore a 21/30 ed un giudizio almeno sufficiente in ordine alla conoscenza della lingua inglese e dell’informatica di base e, per i c"
-}
-}
-},
-{
-"id": "273284b4b94040ac95378db719f2bb83",
-"profilo": "funzionario-contabile",
-"titolo": "Comune di Passignano sul Trasimeno - Selezione mediante concorso pubblico per soli esami, per la copertura di n. 1 posto di funzionario Economico Finanziario, Area dei Funzionari e delle E.Q., (Ex Categoria D, Pos. Econ. D1) a tempo pieno e periodo indeterminato",
-"figura": "Funzionario Economico Finanziario",
-"ente": "Comune di Passignano sul Trasimeno",
-"posti": 1,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=273284b4b94040ac95378db719f2bb83",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Saranno ammessi alla successiva prova scritta solo i concorrenti che avranno 10 ottenuto un voto alla preselezione non inferiore a 21/30 e che si saranno classificati tra i primi 70 in ordine decrescente, compresi gli eventuali candidati ex aequo all'ultima posizione utile"
-}
-}
-},
-{
-"id": "791725cb88f544ea8816990ef77fb191",
-"profilo": "dirigente-tecnico-enti-locali",
-"titolo": "Comune di Villafranca di Verona - Concorso pubblico, per esami, per la copertura di n. 1 posto a tempo pieno e indeterminato di Dirigente Tecnico, da assegnare all’Area Tecnica",
-"figura": "Dirigente Tecnico",
-"ente": "Comune di Villafranca di Verona",
-"posti": 1,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=791725cb88f544ea8816990ef77fb191",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Una prova orale, alla quale accederanno coloro che avranno riportato in ciascuna prova scritta una votazione non inferiore a 21/30; la prova orale si intende superata con il conseguimento di un punteggio non inferiore a 21/30"
-}
-}
-},
-{
-"id": "b7dcb9dda7f14b308c76064746f9e93a",
-"profilo": "istruttore-tecnico",
-"titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N.1 POSTO A TEMPO PIENO E INDETERMINATO DI “ISTRUTTORE TECNICODA DESTINARE ALL’INTERNO DELL’AREA TECNICA DEL COMUNE DI POPPI (AR).",
-"figura": "Istruttore Tecnico",
-"ente": "Comune di Poppi",
-"posti": 1,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b7dcb9dda7f14b308c76064746f9e93a",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Il superamento della prova preselettiva, che si consegue con la votazione di 21/30, è valido esclusivamente per l’ammissione alla prova scritta e non concorre alla formazione della graduatoria finale di merito della selezione pubblica"
-}
-}
-},
-{
-"id": "51441b41b76a462288b904a3c1fed15b",
-"profilo": "istruttore-informatico",
-"titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI “ISTRUTTORE INFORMATICO” (AREA DEGLI ISTRUTTORI SECONDO IL CCNL DEL 16/11/2022), CON PROFILO SPECIALISTICO DI INFORMATICO DA ASSEGNARE AL SETTORE I “RISORSE FINANZIARIE E PATRIMONIALI, PROGETTI CONDIVISI” CON",
-"figura": "Istruttore informatico",
-"ente": "Provincia del Verbano Cusio Ossola",
-"posti": 1,
-"scade": "2026-11-07",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=51441b41b76a462288b904a3c1fed15b",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Alla successiva prova d’esame saranno ammessi a partecipare i primi 30 (trenta) classificati che abbiano conseguito il punteggio di almeno 21/30, includendo comunque i pari merito al 30° posto"
-}
-}
 },
 {
 "id": "f51049414bab4519bf4eebe88136dfed",
