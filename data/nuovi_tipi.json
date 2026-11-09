@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 21,
-  "posti": 286,
+  "bandi": 22,
+  "posti": 290,
   "esempi": [
+   {
+    "id": "fdb8b5ad512c424b9515a3442b19e4af",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO PER ESAMI PER COPERTURA N.4 POSTI DI OPERATORE SOCIO SANIITARIO TEMPO PIENO E INDETERMINATO- AREA OPERATORI ESPERTI CCNL FUNZIONI LOCALI",
+    "figura": "OPEARTORE SOCIO SANITARIO",
+    "ente": "I.P.A.B. La Pieve",
+    "posti": 4,
+    "scade": "2026-12-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fdb8b5ad512c424b9515a3442b19e4af"
+   },
    {
     "id": "cd7a2ac280004bd995bcfb80579ad068",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-11-23",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=596d37a5581240ea890206e0e85c41c6"
-   },
-   {
-    "id": "0bb8157d14964606bcfb4a27e99cce78",
-    "profilo": null,
-    "titolo": "Selezione pubblica per esami per la copertura, a tempo pieno e indeterminato, di n.1 posto con profilo professionale di Operatore tecnico esperto – cantoniere – Area degli operatori esperti (ex cat. giuridica B) da assegnare al Servizio Tecnico Manutentivo.",
-    "figura": "Monocratico",
-    "ente": "Comune di Pont Canavese",
-    "posti": 1,
-    "scade": "2026-11-17",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0bb8157d14964606bcfb4a27e99cce78"
    }
   ]
  },
@@ -85,9 +85,19 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 37,
-  "posti": 42,
+  "bandi": 33,
+  "posti": 38,
   "esempi": [
+   {
+    "id": "6496333ca72448fc9e64f01b8ce89099",
+    "profilo": null,
+    "titolo": "BANDO DI AUDIZIONE PER IL CONFERIMENTO DI INCARICHI AGLI ACCOMPAGNATORI AL PIANOFORTE",
+    "figura": "Accompagnatore al Pianoforte",
+    "ente": "Conservatorio Statale di Musica E.F. Dall'Abaco di Verona",
+    "posti": 1,
+    "scade": "2026-11-12",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6496333ca72448fc9e64f01b8ce89099"
+   },
    {
     "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
     "profilo": null,
@@ -127,16 +137,6 @@
     "posti": 1,
     "scade": "2026-12-01",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=875f70de14cf44e9bdb2da94880ee6ab"
-   },
-   {
-    "id": "388cf25d4b854fc6bc87e3e5f8c9893f",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per esami e titoli , per l'assunzione di n. 1 unità a tempo indeterminato e pieno di personale del profilo di Funzionario amministrativo - gestionale di cui al CCNL Istruzione e Ricerca - comparto AFAM del 18/01/2024",
-    "figura": "Funzionario amministrativo/gestionale - Area dei Funzionari CCNL Istruzione e Ricerca - sezione AFAM",
-    "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-    "posti": 1,
-    "scade": "2026-11-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=388cf25d4b854fc6bc87e3e5f8c9893f"
    }
   ]
  },
@@ -199,8 +199,8 @@
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 14,
-  "posti": 20,
+  "bandi": 13,
+  "posti": 19,
   "esempi": [
    {
     "id": "490af621a07b427889309281d542aa44",
@@ -256,9 +256,19 @@
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 9,
-  "posti": 13,
+  "bandi": 10,
+  "posti": 14,
   "esempi": [
+   {
+    "id": "7639aa8b69f3432aa286ba932dd828a3",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per titoli ed esami, per la copertura di un posto di Dirigente di II Fascia, a tempo indeterminato e pieno, per le esigenze della Direzione Edilizia, Innovazione Digitale e Sostenibilità Ambientale dell’Università di Foggia (Cod. 5/2026)",
+    "figura": "Dirigente di II Fascia",
+    "ente": "Universita' degli Studi di Foggia",
+    "posti": 1,
+    "scade": "2026-11-24",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7639aa8b69f3432aa286ba932dd828a3"
+   },
    {
     "id": "6ac178f4ae5045a9962b79180d0de062",
     "profilo": null,
@@ -298,16 +308,6 @@
     "posti": 1,
     "scade": "2026-11-12",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c004f961aef4692a3a6bc0b7d11237c"
-   },
-   {
-    "id": "d1e85bececa04590b9a20a485bc36c33",
-    "profilo": null,
-    "titolo": "Pubblico Concorso, per titoli ed esami, per la copertura a tempo indeterminato di n. 1 posto di Dirigente Analista – Area Comunicazione, da destinare all’Azienda Ospedaliera Universitaria di Cagliari",
-    "figura": "DIRIGENTE ANALISTA",
-    "ente": "AZIENDA REGIONALE DELLA SALUTE REGIONE SARDEGNA",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1e85bececa04590b9a20a485bc36c33"
    }
   ]
  },
@@ -443,23 +443,6 @@
     "posti": 1,
     "scade": "2026-11-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfe78b6d4c344cb18d56192dfebd92de"
-   }
-  ]
- },
- {
-  "gruppo": "cuoco / conducente / animatore",
-  "bandi": 1,
-  "posti": 1,
-  "esempi": [
-   {
-    "id": "dbda69386e1146fd9c5c5ba387af229a",
-    "profilo": null,
-    "titolo": "INDIZIONE PROCEDURA SELETTIVA PUBBLICA PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO NELL’AREA DEGLI OPERATORI (EX CAT. B1), FIGURA PROFESSIONALE CUOCO, MEDIANTE ASSUNZIONE A TEMPO DETERMINATO E PARZIALE PER 36 MESI – 65% RISERVATA A IMPRENDITORI AGRICOLI AI SENSI DELLA LEGGE 31 GENNAIO 1994, N. 97,",
-    "figura": "cuoco",
-    "ente": "Comune di Cravanzana",
-    "posti": 1,
-    "scade": "2026-11-08",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dbda69386e1146fd9c5c5ba387af229a"
    }
   ]
  }
