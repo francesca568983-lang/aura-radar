@@ -1,8 +1,8 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 22,
-  "posti": 290,
+  "bandi": 21,
+  "posti": 230,
   "esempi": [
    {
     "id": "fdb8b5ad512c424b9515a3442b19e4af",
@@ -84,63 +84,6 @@
   ]
  },
  {
-  "gruppo": "docente universitario/AFAM",
-  "bandi": 33,
-  "posti": 38,
-  "esempi": [
-   {
-    "id": "6496333ca72448fc9e64f01b8ce89099",
-    "profilo": null,
-    "titolo": "BANDO DI AUDIZIONE PER IL CONFERIMENTO DI INCARICHI AGLI ACCOMPAGNATORI AL PIANOFORTE",
-    "figura": "Accompagnatore al Pianoforte",
-    "ente": "Conservatorio Statale di Musica E.F. Dall'Abaco di Verona",
-    "posti": 1,
-    "scade": "2026-11-12",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6496333ca72448fc9e64f01b8ce89099"
-   },
-   {
-    "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO INDETERMINATO SETTORE ARTISTICO DISCIPLINARE AFAM113 (EX ABPR31) – FOTOGRAFIA",
-    "figura": "Docente",
-    "ente": "Accademia di Belle Arti di Catanzaro",
-    "posti": 1,
-    "scade": "2026-12-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e80cc25bad2406d8f2ec946e1f6c21f"
-   },
-   {
-    "id": "fd67444ea3d24fb9a48188fcf70516e2",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per A.A. 2026/2027 PER IL SETTORE ARTISTICO DISCIPLINARE “PEDAGOGIA MUSICALE E PSICOLOGIA DELLA MUSICA” AFAM053",
-    "figura": "docente",
-    "ente": "Conservatorio Musica Vibo Valentia",
-    "posti": 1,
-    "scade": "2026-12-03",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fd67444ea3d24fb9a48188fcf70516e2"
-   },
-   {
-    "id": "b2871baa0f2b4e4bb6751d1439e82072",
-    "profilo": null,
-    "titolo": "Bando congiunto per il reclutamento a tempo indeterminato di docenti di prima fascia nei Conservatori di musica DPR 83/2024 per a.a. 2026/2027: Conservatorio “A. Boito” – Parma – Conservatorio “G. Rossini” – Pesaro AFAM040 – Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica ",
-    "figura": "Docente I fascia settore artistico-AFAM40 - Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica e drammaturgia musicale)",
-    "ente": "Conservatorio di Musica A.Boito dI Parma",
-    "posti": 2,
-    "scade": "2026-12-02",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b2871baa0f2b4e4bb6751d1439e82072"
-   },
-   {
-    "id": "875f70de14cf44e9bdb2da94880ee6ab",
-    "profilo": null,
-    "titolo": "BANDO RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI AFAM047 (Ex COME/03) Tecnologie del suono e della multimedialità Profilo: Acustica musicale",
-    "figura": "Docente",
-    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
-    "posti": 1,
-    "scade": "2026-12-01",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=875f70de14cf44e9bdb2da94880ee6ab"
-   }
-  ]
- },
- {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
   "bandi": 11,
   "posti": 38,
@@ -198,10 +141,77 @@
   ]
  },
  {
-  "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 13,
-  "posti": 19,
+  "gruppo": "docente universitario/AFAM",
+  "bandi": 31,
+  "posti": 36,
   "esempi": [
+   {
+    "id": "6496333ca72448fc9e64f01b8ce89099",
+    "profilo": null,
+    "titolo": "BANDO DI AUDIZIONE PER IL CONFERIMENTO DI INCARICHI AGLI ACCOMPAGNATORI AL PIANOFORTE",
+    "figura": "Accompagnatore al Pianoforte",
+    "ente": "Conservatorio Statale di Musica E.F. Dall'Abaco di Verona",
+    "posti": 1,
+    "scade": "2026-11-12",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6496333ca72448fc9e64f01b8ce89099"
+   },
+   {
+    "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO INDETERMINATO SETTORE ARTISTICO DISCIPLINARE AFAM113 (EX ABPR31) – FOTOGRAFIA",
+    "figura": "Docente",
+    "ente": "Accademia di Belle Arti di Catanzaro",
+    "posti": 1,
+    "scade": "2026-12-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e80cc25bad2406d8f2ec946e1f6c21f"
+   },
+   {
+    "id": "fd67444ea3d24fb9a48188fcf70516e2",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per A.A. 2026/2027 PER IL SETTORE ARTISTICO DISCIPLINARE “PEDAGOGIA MUSICALE E PSICOLOGIA DELLA MUSICA” AFAM053",
+    "figura": "docente",
+    "ente": "Conservatorio Musica Vibo Valentia",
+    "posti": 1,
+    "scade": "2026-12-03",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fd67444ea3d24fb9a48188fcf70516e2"
+   },
+   {
+    "id": "b2871baa0f2b4e4bb6751d1439e82072",
+    "profilo": null,
+    "titolo": "Bando congiunto per il reclutamento a tempo indeterminato di docenti di prima fascia nei Conservatori di musica DPR 83/2024 per a.a. 2026/2027: Conservatorio “A. Boito” – Parma – Conservatorio “G. Rossini” – Pesaro AFAM040 – Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica ",
+    "figura": "Docente I fascia settore artistico-AFAM40 - Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica e drammaturgia musicale)",
+    "ente": "Conservatorio di Musica A.Boito dI Parma",
+    "posti": 2,
+    "scade": "2026-12-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b2871baa0f2b4e4bb6751d1439e82072"
+   },
+   {
+    "id": "875f70de14cf44e9bdb2da94880ee6ab",
+    "profilo": null,
+    "titolo": "BANDO RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI AFAM047 (Ex COME/03) Tecnologie del suono e della multimedialità Profilo: Acustica musicale",
+    "figura": "Docente",
+    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
+    "posti": 1,
+    "scade": "2026-12-01",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=875f70de14cf44e9bdb2da94880ee6ab"
+   }
+  ]
+ },
+ {
+  "gruppo": "ricercatore / borsista / incarichi di ricerca",
+  "bandi": 14,
+  "posti": 20,
+  "esempi": [
+   {
+    "id": "4455d178cbb9430797602a0032e0f154",
+    "profilo": null,
+    "titolo": "Concorso pubblico nazionale, per titoli ed esami a n. 1 posto a tempo pieno e determinato, nel profilo di Ricercatore III livello, della durata di 11 mesi (e comunque non oltre la scadenza del Progetto prevista il 31 dicembre 2027)",
+    "figura": "Ricercatore III livello del CCNL Istruzione e Ricerca",
+    "ente": "Istituto Superiore per la Protezione e la Ricerca Ambientale",
+    "posti": 1,
+    "scade": "2026-12-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4455d178cbb9430797602a0032e0f154"
+   },
    {
     "id": "490af621a07b427889309281d542aa44",
     "profilo": null,
@@ -241,16 +251,6 @@
     "posti": 1,
     "scade": "2026-12-05",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=29e7c363f69f4f6094504df9f0085b14"
-   },
-   {
-    "id": "084fd6d12a164b1a973e21dbb03fdbb4",
-    "profilo": null,
-    "titolo": "Comune di Valmadrera - BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 ISTRUTTORE AMMINISTRATIVO/CONTABILE – AREA DEGLI ISTRUTTORI -DA ASSEGNARE ALL’AREA AMMINISTRAZIONE GENERALE - CED.",
-    "figura": "ISTRUTTORE AMMINISTRATIVO/CONTABILE – AREA DEGLI ISTRUTTORI -DA ASSEGNARE ALL’AREA AMMINISTRAZIONE GENERALE - CED.",
-    "ente": "Comune di Valmadrera",
-    "posti": 1,
-    "scade": "2026-11-19",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=084fd6d12a164b1a973e21dbb03fdbb4"
    }
   ]
  },
@@ -365,23 +365,6 @@
     "posti": 1,
     "scade": "2026-11-17",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9716ef773a02442592f141e459838e6c"
-   }
-  ]
- },
- {
-  "gruppo": "addetto sorveglianza portuale",
-  "bandi": 1,
-  "posti": 4,
-  "esempi": [
-   {
-    "id": "f19be88d0c6a49978a70b9a48b7c5807",
-    "profilo": null,
-    "titolo": "AVVISO PUBBLICO PER TITOLI ED ESAMI PER N. 4 POSIZIONI DI 2° LIVELLO A TEMPO DETERMINATO 36 MESI (CCNL PORTI) DI ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE DA ASSEGNARE ALLA DIREZIONE ATTIVITÀ E LAVORO PORTUALI DELL’AUTORITA’ DI SISTEMA PORTUALE DEL MARE ADRIATICO OR",
-    "figura": "ADDETTO ALLA SORVEGLIANZA E AL CONTROLLO DELLA SICUREZZA IN AMBITO PORTUALE",
-    "ente": "Autorita' di Sistema Portuale del Mar Adriatico Orientale",
-    "posti": 4,
-    "scade": "2026-11-09",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f19be88d0c6a49978a70b9a48b7c5807"
    }
   ]
  },
