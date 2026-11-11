@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 21,
-  "posti": 230,
+  "bandi": 22,
+  "posti": 234,
   "esempi": [
+   {
+    "id": "bd4193b45cde4c76a3c2286cd4ce8017",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PER L’AMMISSIONE AI CORSI DI DOTTORATO DEL XLII CICLO - A.A. 2026/2027",
+    "figura": "DOTTORANDO",
+    "ente": "Accademia di Belle Arti di Lecce",
+    "posti": 4,
+    "scade": "2026-12-11",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bd4193b45cde4c76a3c2286cd4ce8017"
+   },
    {
     "id": "fdb8b5ad512c424b9515a3442b19e4af",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 3,
     "scade": "2026-11-20",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=95d4ff5993c343fab0afe93882fdc3c4"
-   },
-   {
-    "id": "596d37a5581240ea890206e0e85c41c6",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE A TEMPO INDETERMINATO E A TEMPO PARZIALE (18 ORE SETTIMANALI) DI N. 1 AGENTE DI POLIZIA MUNICIPALE – AREA DEGLI ISTRUTTORI",
-    "figura": "ISTRUTTURE DI VIGILANZA",
-    "ente": "Comune di Carpignano Salentino - Ufficio Affari Generali",
-    "posti": 1,
-    "scade": "2026-11-23",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=596d37a5581240ea890206e0e85c41c6"
    }
   ]
  },
@@ -143,8 +143,18 @@
  {
   "gruppo": "docente universitario/AFAM",
   "bandi": 31,
-  "posti": 36,
+  "posti": 37,
   "esempi": [
+   {
+    "id": "39ea074df30b4d35ae881fe7739db2cc",
+    "profilo": null,
+    "titolo": "UNI. MILANO-BICOCCA / CONCORSO PUBBLICO / PER ESAMI / N. 2 POSTI / AREA DEI FUNZIONARI / S. P. AMMINISTRATIVO-GESTIONALE / TEMPO DETERMINATO (12 MESI) E PIENO / AREA DIDATTICA, SERVIZI AGLI STUDENTI E SVILUPPO INTERNAZIONALE / SETTORE FORMAZIONE INSEGNANTI",
+    "figura": "FUNZIONARIO AMMINISTRATIVO-GESTIONALE (12 MESI) PRESSO L'AREA DIDATTICA, SERVIZI AGLI STUDENTI E SVILUPPO INTERNAZIONALE (SETTORE FORMAZIONE INSEGNANTI)",
+    "ente": "Universita' degli Studi di Milano - Bicocca",
+    "posti": 2,
+    "scade": "2026-11-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39ea074df30b4d35ae881fe7739db2cc"
+   },
    {
     "id": "6496333ca72448fc9e64f01b8ce89099",
     "profilo": null,
@@ -184,24 +194,34 @@
     "posti": 2,
     "scade": "2026-12-02",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b2871baa0f2b4e4bb6751d1439e82072"
-   },
-   {
-    "id": "875f70de14cf44e9bdb2da94880ee6ab",
-    "profilo": null,
-    "titolo": "BANDO RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI AFAM047 (Ex COME/03) Tecnologie del suono e della multimedialità Profilo: Acustica musicale",
-    "figura": "Docente",
-    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
-    "posti": 1,
-    "scade": "2026-12-01",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=875f70de14cf44e9bdb2da94880ee6ab"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 14,
-  "posti": 20,
+  "bandi": 16,
+  "posti": 23,
   "esempi": [
+   {
+    "id": "5901b259cb1f4401ac19ede9520d4b19",
+    "profilo": null,
+    "titolo": "Università Politecnica delle Marche - selezione pubblica",
+    "figura": "Il personale da assumere sarà adibito alle attività proprie dell’Area delle Elevate Professionalità connesse alla responsabilità del Servizio ICT: • presidiare la sicurezza informatica dell’Ateneo: - definire, attuare e aggiornare le misure tecniche e organizzative di sicurezza di reti, sistemi, dati e servizi, sulla base dell’analisi e della gestione del rischio; - coordinare le azioni di adeguamento alla direttiva NIS 2 (D.Lgs. 138/2024) e i relativi adempimenti; - monitorare gli eventi di sicurezza e gestire gli incidenti informatici, incluse le comunicazioni alle autorità competenti, in raccordo con il Responsabile della protezione dei dati per le violazioni di dati personali; - assicurare la continuità operativa e il ripristino dei servizi (backup e disaster recovery); - presidiare la sicurezza delle forniture e dei servizi ICT acquisiti da terzi; - promuovere la formazione e la sensibilizzazione del personale sui rischi informatici. • supportare l’Ateneo nelle funzioni di transizione digitale di cui all’art. 17 del D.Lgs. 82/2005 e, ove designato con atto dell’organo competente, svolgere le funzioni di Responsabile per la transizione digitale: coordinamento dello sviluppo dei sistemi informativi e dei servizi digitali, accessibilità, diffusione di identità e domicilio digitale, protocollo informatico e firma digitale, interoperabilità, pianificazione degli acquisti ICT coerente con il Piano triennale per l’informatica nella PA; • progettare, realizzare, gestire e presidiare i servizi informatici dell’Ateneo, costituendo un punto di riferimento e raccordo trasversale alla pluralità di strutture e servizi per quanto concerne infrastruttura di rete e sistemistica, multimedialità, applicazioni e servizi di supporto; • presidiare i servizi di assistenza informatica delle strutture dei Poli universitari e supportare la transizione digitale dell’Ateneo, compresa la transizione del personale alla telefonia digitale tramite MS Teams; • gestire la progettazione, lo sviluppo e la gestione dei server e dei data center per quanto riguarda le infrastrutture, i sistemi e i servizi per la salvaguardia dei dati e dell’operatività; • coordinare il personale assegnato e gli Uffici del Servizio.",
+    "ente": "Universita' Politecnica delle Marche",
+    "posti": 1,
+    "scade": "2026-12-11",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5901b259cb1f4401ac19ede9520d4b19"
+   },
+   {
+    "id": "6a7cc9604c4f4087bfc2e19d6035dccb",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE A TEMPO INDETERMINATO E PARZIALE – (18 ORE SETTIMANALI) - DI N. 02 FARMACISTI - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI (EX. CAT. D1) – CON RISERVA DI 01 POSTO A FAVORE DEI MILITARI VOLONTARI CONGEDATI FF.AA.",
+    "figura": "CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE A TEMPO INDETERMINATO E PARZIALE – (18 ORE SETTIMANALI) - DI N. 02 FARMACISTI - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI (EX. CAT. D1) – CON RISERVA DI 01 POSTO A FAVORE DEI MILITARI VOLONTARI CONGEDATI FF.AA",
+    "ente": "Comune di Sant'Omero",
+    "posti": 2,
+    "scade": "2026-11-25",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6a7cc9604c4f4087bfc2e19d6035dccb"
+   },
    {
     "id": "4455d178cbb9430797602a0032e0f154",
     "profilo": null,
@@ -231,26 +251,6 @@
     "posti": 1,
     "scade": "2026-12-05",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d5a707276ddb4b3a85f9e577877ca9f5"
-   },
-   {
-    "id": "140934ab20d7427ab92a9f2c70693a98",
-    "profilo": null,
-    "titolo": "pubblico concorso, per titoli ed esami, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Ricercatore in prova – III livello professionale dell’Istituto Superiore di Sanità presso il Dipartimento Neuroscienze – codice concorso: TI RIC NEURO 2026 01.",
-    "figura": "Ricercatore",
-    "ente": "Istituto Superiore di Sanita' - ISS",
-    "posti": 1,
-    "scade": "2026-12-05",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=140934ab20d7427ab92a9f2c70693a98"
-   },
-   {
-    "id": "29e7c363f69f4f6094504df9f0085b14",
-    "profilo": null,
-    "titolo": "Pubblico concorso, per titoli ed esami, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Ricercatore in prova – III livello professionale dell’Istituto Superiore di Sanità presso il Servizio tecnico-scientifico di statistica – codice concorso: TI RIC STAT 2026 01",
-    "figura": "Ricercatore",
-    "ente": "Istituto Superiore di Sanita' - ISS",
-    "posti": 1,
-    "scade": "2026-12-05",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=29e7c363f69f4f6094504df9f0085b14"
    }
   ]
  },

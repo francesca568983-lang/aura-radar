@@ -1,9 +1,9 @@
 {
- "giro": "2026-11-10T12:51:17Z",
- "aperti_inpa": 1876,
- "con_profilo": 699,
- "con_prova_dal_bando": 8,
- "in_coda": 0,
- "senza_profilo": 100,
- "pdf_letti": 38
+ "giro": "2026-11-11T12:00:38Z",
+ "aperti_inpa": 1938,
+ "con_profilo": 714,
+ "con_prova_dal_bando": 9,
+ "in_coda": 1,
+ "senza_profilo": 103,
+ "pdf_letti": 42
 }
