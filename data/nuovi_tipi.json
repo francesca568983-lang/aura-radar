@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 22,
-  "posti": 234,
+  "bandi": 20,
+  "posti": 232,
   "esempi": [
+   {
+    "id": "941a87a85809492ea2991fe860584934",
+    "profilo": null,
+    "titolo": "Concorso pubblico per titoli ed esame, per il reclutamento di un Ricercatore, Terzo Livello Professionale, a tempo determinato e a tempo pieno, per un anno, prorogabile, per Sviluppo di software avanzato per fotometria di survey extragalattiche Cod: 2026INAFRIC-OAP-RUBIN-011",
+    "figura": "maria.carraro@inaf.it",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-12-03",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=941a87a85809492ea2991fe860584934"
+   },
    {
     "id": "bd4193b45cde4c76a3c2286cd4ce8017",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-11-26",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=beaf2ae920bf4192a984707a150d9385"
-   },
-   {
-    "id": "95d4ff5993c343fab0afe93882fdc3c4",
-    "profilo": null,
-    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILAN0 - CONCORSO PUBBLICO, PER ESAMI, PER IL RECLUTAMENTO DI N. 3 UNITÀ DI PERSONALE AFFERENTE ALL’AREA DEI FUNZIONARI – SETTORE SCIENTIFICO - TECNOLOGICO CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO INDETERMINATO PRESSO LA DIREZIONE EDILIZIA – (COD. 22665)",
-    "figura": "Area dei Funzionari",
-    "ente": "Universita Degli Studi di Milano",
-    "posti": 3,
-    "scade": "2026-11-20",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=95d4ff5993c343fab0afe93882fdc3c4"
    }
   ]
  },
@@ -142,8 +142,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 31,
-  "posti": 37,
+  "bandi": 30,
+  "posti": 36,
   "esempi": [
    {
     "id": "39ea074df30b4d35ae881fe7739db2cc",
@@ -154,16 +154,6 @@
     "posti": 2,
     "scade": "2026-11-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39ea074df30b4d35ae881fe7739db2cc"
-   },
-   {
-    "id": "6496333ca72448fc9e64f01b8ce89099",
-    "profilo": null,
-    "titolo": "BANDO DI AUDIZIONE PER IL CONFERIMENTO DI INCARICHI AGLI ACCOMPAGNATORI AL PIANOFORTE",
-    "figura": "Accompagnatore al Pianoforte",
-    "ente": "Conservatorio Statale di Musica E.F. Dall'Abaco di Verona",
-    "posti": 1,
-    "scade": "2026-11-12",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6496333ca72448fc9e64f01b8ce89099"
    },
    {
     "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
@@ -194,14 +184,44 @@
     "posti": 2,
     "scade": "2026-12-02",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b2871baa0f2b4e4bb6751d1439e82072"
+   },
+   {
+    "id": "875f70de14cf44e9bdb2da94880ee6ab",
+    "profilo": null,
+    "titolo": "BANDO RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI AFAM047 (Ex COME/03) Tecnologie del suono e della multimedialità Profilo: Acustica musicale",
+    "figura": "Docente",
+    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
+    "posti": 1,
+    "scade": "2026-12-01",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=875f70de14cf44e9bdb2da94880ee6ab"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
   "bandi": 16,
-  "posti": 23,
+  "posti": 22,
   "esempi": [
+   {
+    "id": "1508ab9dbf42490280b122f78fa0e383",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, RISERVATO AI SOGGETTI IN POSSESSO DEI REQUISITI DI CUI ALL’ART. 1, COMMA 312, DELLA LEGGE 30 DICEMBRE 2025, N. 199, PER L’ASSUNZIONE CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO PIENO E INDETERMINATO DI N. 1 RICERCATORE DI III LIVELLO PROFESSIONALE DEL C.C.N.L.",
+    "figura": "RICERCATORE",
+    "ente": "Area Science Park",
+    "posti": 1,
+    "scade": "2026-12-11",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1508ab9dbf42490280b122f78fa0e383"
+   },
+   {
+    "id": "9d78e4d4b0e24b6398e81115339e573a",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per titoli ed esami, ai fini del reclutamento di un \"Ricercatore\", terzo Livello Professionale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di un anno. Cod: 2026INAFRIC-IAP-105044908-030",
+    "figura": "RICERCATORE 3 LIVELLO",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-11-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9d78e4d4b0e24b6398e81115339e573a"
+   },
    {
     "id": "5901b259cb1f4401ac19ede9520d4b19",
     "profilo": null,
@@ -231,33 +251,13 @@
     "posti": 1,
     "scade": "2026-12-09",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4455d178cbb9430797602a0032e0f154"
-   },
-   {
-    "id": "490af621a07b427889309281d542aa44",
-    "profilo": null,
-    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per n. 1 Building Manager Assistant",
-    "figura": "Building Manager Assistant",
-    "ente": "Politecnico di Milano",
-    "posti": 1,
-    "scade": "2026-12-07",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=490af621a07b427889309281d542aa44"
-   },
-   {
-    "id": "d5a707276ddb4b3a85f9e577877ca9f5",
-    "profilo": null,
-    "titolo": "Pubblico concorso, per titoli ed esami, per l’assunzione, a tempo indeterminato, di n. 1 unità di personale con il profilo di Ricercatore in prova – III livello professionale dell’Istituto Superiore di Sanità presso il Centro Nazionale per la Ricerca e la Valutazione Preclinica e Clinica dei Farmaci",
-    "figura": "Ricercatore",
-    "ente": "Istituto Superiore di Sanita' - ISS",
-    "posti": 1,
-    "scade": "2026-12-05",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d5a707276ddb4b3a85f9e577877ca9f5"
    }
   ]
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 10,
-  "posti": 14,
+  "bandi": 7,
+  "posti": 8,
   "esempi": [
    {
     "id": "7639aa8b69f3432aa286ba932dd828a3",
