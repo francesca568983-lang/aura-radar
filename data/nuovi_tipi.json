@@ -1,9 +1,29 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 20,
-  "posti": 232,
+  "bandi": 22,
+  "posti": 237,
   "esempi": [
+   {
+    "id": "a3d94b66e8ac4e1196ad5474056946b3",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE PROFILO ESPERTO DI PROGETTAZIONE E GESTIONE DI RETI/INFRASTRUTTURE AMBITO DI RUOLO PATRIMONIO E MANUTENZIONE CON RISERVA A FAVORE DEI VOLONTARI DELLE ",
+    "figura": "ESPERTO DI PROGETTAZIONE E GESTIONE DI RETI/INFRASTRUTTURE AMBITO DI RUOLO PATRIMONIO",
+    "ente": "Unione della Romagna Faentina",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a3d94b66e8ac4e1196ad5474056946b3"
+   },
+   {
+    "id": "9531f373f5554bb0b3b3f9a66be94af7",
+    "profilo": null,
+    "titolo": "Comune di Monza - Concorso Pubblico per esami per l'assunzione n. 2 Messi Comunali e n.2 Ausiliari del traffico",
+    "figura": "MESSO COMUNALE/AUSILIARIO DEL TRAFFICO",
+    "ente": "Comune di Monza",
+    "posti": 4,
+    "scade": "2026-11-30",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9531f373f5554bb0b3b3f9a66be94af7"
+   },
    {
     "id": "941a87a85809492ea2991fe860584934",
     "profilo": null,
@@ -33,26 +53,6 @@
     "posti": 4,
     "scade": "2026-12-09",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fdb8b5ad512c424b9515a3442b19e4af"
-   },
-   {
-    "id": "cd7a2ac280004bd995bcfb80579ad068",
-    "profilo": null,
-    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per 1 ICT Service Desk Assistant",
-    "figura": "ICT Service Desk Assistant",
-    "ente": "Politecnico di Milano",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cd7a2ac280004bd995bcfb80579ad068"
-   },
-   {
-    "id": "beaf2ae920bf4192a984707a150d9385",
-    "profilo": null,
-    "titolo": "Concorso pubblico per titoli ed esame, ai fini del reclutamento di una unità di \"Collaboratore Tecnico degli Enti di Ricerca\", Sesto Livello Professionale, con contratto di lavoro a tempo determinato. Cod: 2026INAFCTER-AOR-PROGETTI-042",
-    "figura": "CTER VI livello",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=beaf2ae920bf4192a984707a150d9385"
    }
   ]
  },
@@ -142,9 +142,39 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 30,
-  "posti": 36,
+  "bandi": 29,
+  "posti": 35,
   "esempi": [
+   {
+    "id": "87dd9df5bc0d4b3a96f79346270227e6",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per esami e titoli, per la copertura a tempo pieno e indeterminato di n. 1 posto di Docente di prima fascia per il settore artistico-disciplinare AFAM007 – VIOLONCELLO, CCNL “Istruzione e Ricerca comparto AFAM”, presso la sede del Conservatorio di Musica “C. Monteverdi” di Cremona",
+    "figura": "Docente I fascia a tempo pieno",
+    "ente": "Istituto Superiore di Studi Musicali Claudio Monteverdi",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=87dd9df5bc0d4b3a96f79346270227e6"
+   },
+   {
+    "id": "0313d1d4c9784a2a94ef48d06e4873fc",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per esami e titoli, per la copertura a tempo pieno e indeterminato di n. 1 posto di Docente di prima fascia per il settore artistico-disciplinare AFAM018 – PIANOFORTE, CCNL “Istruzione e Ricerca comparto AFAM”, presso la sede del Conservatorio di Musica “C. Monteverdi” di Cremona",
+    "figura": "Docente I fascia a tempo pieno",
+    "ente": "Istituto Superiore di Studi Musicali Claudio Monteverdi",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0313d1d4c9784a2a94ef48d06e4873fc"
+   },
+   {
+    "id": "0e2290e7b91643379bf429ae7c49f387",
+    "profilo": null,
+    "titolo": "Accademia di Belle arti di Verona - Bando prot. 7858 del 12/11/2026 per il reclutamento a tempo indeterminato di n. 1 docente di prima fascia di n. 1 docente di prima fascia AFAM084 – Linguaggi e Pratiche Artistiche della Decorazione (ex ABAV11 – Decorazione)",
+    "figura": "Docente TI AFAM084",
+    "ente": "Accademia di Belle Arti di Verona",
+    "posti": 1,
+    "scade": "2026-12-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0e2290e7b91643379bf429ae7c49f387"
+   },
    {
     "id": "39ea074df30b4d35ae881fe7739db2cc",
     "profilo": null,
@@ -164,43 +194,13 @@
     "posti": 1,
     "scade": "2026-12-04",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e80cc25bad2406d8f2ec946e1f6c21f"
-   },
-   {
-    "id": "fd67444ea3d24fb9a48188fcf70516e2",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per A.A. 2026/2027 PER IL SETTORE ARTISTICO DISCIPLINARE “PEDAGOGIA MUSICALE E PSICOLOGIA DELLA MUSICA” AFAM053",
-    "figura": "docente",
-    "ente": "Conservatorio Musica Vibo Valentia",
-    "posti": 1,
-    "scade": "2026-12-03",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fd67444ea3d24fb9a48188fcf70516e2"
-   },
-   {
-    "id": "b2871baa0f2b4e4bb6751d1439e82072",
-    "profilo": null,
-    "titolo": "Bando congiunto per il reclutamento a tempo indeterminato di docenti di prima fascia nei Conservatori di musica DPR 83/2024 per a.a. 2026/2027: Conservatorio “A. Boito” – Parma – Conservatorio “G. Rossini” – Pesaro AFAM040 – Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica ",
-    "figura": "Docente I fascia settore artistico-AFAM40 - Musicologia e storia della musica (profilo: ex CODM/07 – Poesia per musica e drammaturgia musicale)",
-    "ente": "Conservatorio di Musica A.Boito dI Parma",
-    "posti": 2,
-    "scade": "2026-12-02",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b2871baa0f2b4e4bb6751d1439e82072"
-   },
-   {
-    "id": "875f70de14cf44e9bdb2da94880ee6ab",
-    "profilo": null,
-    "titolo": "BANDO RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI AFAM047 (Ex COME/03) Tecnologie del suono e della multimedialità Profilo: Acustica musicale",
-    "figura": "Docente",
-    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
-    "posti": 1,
-    "scade": "2026-12-01",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=875f70de14cf44e9bdb2da94880ee6ab"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 16,
-  "posti": 22,
+  "bandi": 14,
+  "posti": 17,
   "esempi": [
    {
     "id": "1508ab9dbf42490280b122f78fa0e383",
@@ -256,8 +256,8 @@
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 7,
-  "posti": 8,
+  "bandi": 6,
+  "posti": 7,
   "esempi": [
    {
     "id": "7639aa8b69f3432aa286ba932dd828a3",
@@ -300,14 +300,14 @@
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
    },
    {
-    "id": "5c004f961aef4692a3a6bc0b7d11237c",
+    "id": "d1e85bececa04590b9a20a485bc36c33",
     "profilo": null,
-    "titolo": "CONCORSO PER ESAMI RISERVATO AL PERSONALE DIPENDENTE DEL COMUNE DI POLICORO IN POSSESSO DEI REQUISITI DI CUI ALL’ART. 28 CO. 1 BIS DEL D.L. 75/2023 PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N.1 POSTO NEL PROFILO DI DIRIGENTE DEL II SETTORE “FINANZE – PROGRAMMAZIONE E PERSONALE” - AREA DIRIG",
-    "figura": "DIRIGENTE FINANZIARIO",
-    "ente": "Comune di Policoro",
+    "titolo": "Pubblico Concorso, per titoli ed esami, per la copertura a tempo indeterminato di n. 1 posto di Dirigente Analista – Area Comunicazione, da destinare all’Azienda Ospedaliera Universitaria di Cagliari",
+    "figura": "DIRIGENTE ANALISTA",
+    "ente": "AZIENDA REGIONALE DELLA SALUTE REGIONE SARDEGNA",
     "posti": 1,
-    "scade": "2026-11-12",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5c004f961aef4692a3a6bc0b7d11237c"
+    "scade": "2026-11-26",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1e85bececa04590b9a20a485bc36c33"
    }
   ]
  },
