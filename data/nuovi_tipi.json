@@ -85,8 +85,8 @@
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 11,
-  "posti": 38,
+  "bandi": 10,
+  "posti": 37,
   "esempi": [
    {
     "id": "b69f58e359c449cca6be1bd98253cd43",
@@ -142,8 +142,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 29,
-  "posti": 35,
+  "bandi": 28,
+  "posti": 34,
   "esempi": [
    {
     "id": "87dd9df5bc0d4b3a96f79346270227e6",
@@ -199,9 +199,29 @@
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 14,
-  "posti": 17,
+  "bandi": 15,
+  "posti": 18,
   "esempi": [
+   {
+    "id": "fdd467994b4e403283eab8ce7f99c0bc",
+    "profilo": null,
+    "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) CONCORSO PUBBLICO, PER 1 INCARICO A TEMPO DETERMINATO, RICERCATORE SANITARIO, TRE ANNI, EVENTUALMENTE PROROGABILI, BANDO FIS 3 - PROGETTO “DEFINING THE FUNCTIONAL ROLES OF THE SH2-CONTAINING INOSITOL 5-PHOSPHATASE PARALOGS IN IPSC DERIVED MICROGLIA AND TRI-CUL",
+    "figura": "Ricercatore Sanitario",
+    "ente": "IRCCS Ospedale Policlinico San Martino",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fdd467994b4e403283eab8ce7f99c0bc"
+   },
+   {
+    "id": "794fc684d4294547b6c9cbc150759073",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI UN POSTO A TEMPO PART-TIME (18 ORE SETTIMANALI) E INDETERMINATO AREA DEGLI ISTRUTTORI PROFILO DI ISTRUTTORE TECNICO DA ASSEGNARE ALL’ AREA LAVORI PUBBLICI E PATRIMONIO",
+    "figura": "ISTRUTTORE TECNICO DA ASSEGNARE ALL' AREA LAVORI PUBBLICI E PATRIMONIO",
+    "ente": "Comune di Schilpario",
+    "posti": 1,
+    "scade": "2026-12-03",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=794fc684d4294547b6c9cbc150759073"
+   },
    {
     "id": "1508ab9dbf42490280b122f78fa0e383",
     "profilo": null,
@@ -231,34 +251,24 @@
     "posti": 1,
     "scade": "2026-12-11",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5901b259cb1f4401ac19ede9520d4b19"
-   },
-   {
-    "id": "6a7cc9604c4f4087bfc2e19d6035dccb",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE A TEMPO INDETERMINATO E PARZIALE – (18 ORE SETTIMANALI) - DI N. 02 FARMACISTI - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI (EX. CAT. D1) – CON RISERVA DI 01 POSTO A FAVORE DEI MILITARI VOLONTARI CONGEDATI FF.AA.",
-    "figura": "CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE A TEMPO INDETERMINATO E PARZIALE – (18 ORE SETTIMANALI) - DI N. 02 FARMACISTI - AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI (EX. CAT. D1) – CON RISERVA DI 01 POSTO A FAVORE DEI MILITARI VOLONTARI CONGEDATI FF.AA",
-    "ente": "Comune di Sant'Omero",
-    "posti": 2,
-    "scade": "2026-11-25",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6a7cc9604c4f4087bfc2e19d6035dccb"
-   },
-   {
-    "id": "4455d178cbb9430797602a0032e0f154",
-    "profilo": null,
-    "titolo": "Concorso pubblico nazionale, per titoli ed esami a n. 1 posto a tempo pieno e determinato, nel profilo di Ricercatore III livello, della durata di 11 mesi (e comunque non oltre la scadenza del Progetto prevista il 31 dicembre 2027)",
-    "figura": "Ricercatore III livello del CCNL Istruzione e Ricerca",
-    "ente": "Istituto Superiore per la Protezione e la Ricerca Ambientale",
-    "posti": 1,
-    "scade": "2026-12-09",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4455d178cbb9430797602a0032e0f154"
    }
   ]
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 6,
-  "posti": 7,
+  "bandi": 7,
+  "posti": 8,
   "esempi": [
+   {
+    "id": "a6f6730456354d5594665cdc155fa2d9",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per la copertura di n. 1 posto a tempo pieno e indeterminato Dirigente del Settore 2° Sicurezza e Servizi Generali – Area Dirigenza CCNL Funzioni Locali 2022-2024.",
+    "figura": "DIRIGENTE - AREA DIRIGENZA CCNL FUNZIONI LOCALI 2022-2024",
+    "ente": "Comune di Alghero",
+    "posti": 1,
+    "scade": "2026-12-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6f6730456354d5594665cdc155fa2d9"
+   },
    {
     "id": "7639aa8b69f3432aa286ba932dd828a3",
     "profilo": null,
@@ -298,16 +308,6 @@
     "posti": 1,
     "scade": "2026-11-28",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
-   },
-   {
-    "id": "d1e85bececa04590b9a20a485bc36c33",
-    "profilo": null,
-    "titolo": "Pubblico Concorso, per titoli ed esami, per la copertura a tempo indeterminato di n. 1 posto di Dirigente Analista – Area Comunicazione, da destinare all’Azienda Ospedaliera Universitaria di Cagliari",
-    "figura": "DIRIGENTE ANALISTA",
-    "ente": "AZIENDA REGIONALE DELLA SALUTE REGIONE SARDEGNA",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1e85bececa04590b9a20a485bc36c33"
    }
   ]
  },
