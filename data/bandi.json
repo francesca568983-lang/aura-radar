@@ -1393,17 +1393,6 @@
 }
 },
 {
-"id": "ed4af4c03f114c36ac36377958071bff",
-"profilo": "collaboratore-amministrativo",
-"titolo": "INRIM/2/2026/TI/CAM- Concorso pubblico, per titoli ed esami, per l’assunzione, con contratto di lavoro a tempo indeterminato, di n. 4 unità di personale di VII livello professionale, profilo professionale Collaboratore di amministrazione, riservato ai soggetti disabili di cui all’art. 1 della Legge ",
-"figura": "Collaboratore di amministrazione, VII livello",
-"ente": "Istituto Nazionale di Ricerca Metrologica - INRIM",
-"posti": 4,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ed4af4c03f114c36ac36377958071bff",
-"struttura_letta": {}
-},
-{
 "id": "3a215e5a5053473195f9276d1cd9187b",
 "profilo": "dirigente-medico-parte-generale",
 "titolo": "CONCORSO PUBBLICO IN FORMA CONGIUNTA, PER TITOLI ED ESAMI, PER LA COPERTURA DI COMPLESSIVI N. 4 POSTI DI DIRIGENTE MEDICO DISCIPLINA DI MALATTIE DELL’APPARATO RESPIRATORIO",
@@ -2981,22 +2970,6 @@
 }
 },
 {
-"id": "80edf7e0e5494d1883e620672949ad70",
-"profilo": "agente-di-polizia-locale",
-"titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 2 POSTI AREA DEGLI ISTRUTTORI PROFILO AGENTE DI POLIZIA LOCALE AMBITO DI RUOLO POLIZIA LOCALE E AMMINISTRATIVA",
-"figura": "AGENTE DI POLIZIA LOCALE",
-"ente": "Unione della Romagna Faentina",
-"posti": 2,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=80edf7e0e5494d1883e620672949ad70",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "La prova sarà superata con un punteggio minimo di 21/30; - PROVA ORALE: consisterà in un colloquio tecnico-specialistico sulle materie d’esame e con le modalità sotto indicate, oltre alla verifica delle competenze c"
-}
-}
-},
-{
 "id": "c57c36c739fb4328bf31b9d6a182dd0c",
 "profilo": "oss-operatore-socio-sanitario",
 "titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI DUE POSTI DI \"OPERATORE SOCIO SANITARIO\" A TEMPO PIENO ED INDETERMINATO - AREA OPERATORI ESPERTI, DI CUI UNO RISERVATO AI VOLONTARI DELLE FORZE ARMATE.",
@@ -3118,6 +3091,17 @@
 "posti": 2,
 "scade": "2027-02-10",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0033271159a941f0929cf9a754b57dd9",
+"struttura_letta": {}
+},
+{
+"id": "c3ede114ad2141e1b734e54410459ed5",
+"profilo": "istruttore-di-vigilanza",
+"titolo": "COMUNE DI ROVELLO PORRO - concorso pubblico, per soli esami, per la copertura a tempo pieno e indeterminato di n. 1 (uno) posto di “Istruttore Direttivo di Vigilanza”, Area dei Funzionari e dell’Elevata Qualificazione, da assegnare all’Area Polizia Locale.",
+"figura": "Istruttore Direttivo di Vigilanza",
+"ente": "Comune di Rovello Porro",
+"posti": 1,
+"scade": "2026-11-26",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c3ede114ad2141e1b734e54410459ed5",
 "struttura_letta": {}
 },
 {
@@ -4384,7 +4368,7 @@
 {
 "id": "41684ca3af5c411f9d0a5ff3d4321316",
 "profilo": "funzionario-tecnico",
-"titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO DI SPECIALISTA TECNICO (AREA DEI FUNZIONARI ED ELEVATE QUALIFICAZIONI – CCNL FUNZIONI LOCALI) A TEMPO PIENO ED INDETERMINATO CODICE CONCORSO INPA SEGRATE 10/2026",
+"titolo": "COMUNE DI SEGRATE - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO DI SPECIALISTA TECNICO (AREA DEI FUNZIONARI ED ELEVATE QUALIFICAZIONI – CCNL FUNZIONI LOCALI) A TEMPO PIENO ED INDETERMINATO CODICE CONCORSO INPA SEGRATE 10/2026",
 "figura": "SPECIALISTA TECNICO",
 "ente": "Comune di Segrate",
 "posti": 1,
@@ -6684,26 +6668,6 @@
 }
 },
 {
-"id": "bb741eaed9f04dc08270c4baa3aedfce",
-"profilo": "istruttore-amministrativo",
-"titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI CON EVENTUALE PRESELEZIONE PER LA COPERTURA DI N. 1 POSTO DA ISTRUTTORE AMMINISTRATIVO – AREA DEGLI ISTRUTTORI CON CONTRATTO A TEMPO PIENO E INDETERMINATO – Codice c_b704_4",
-"figura": "Istruttore Amministrativo - Area istruttori ex cat. C",
-"ente": "Comune di Capriati a Volturno",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bb741eaed9f04dc08270c4baa3aedfce",
-"struttura_letta": {
-"quesiti": {
-"valore": 30,
-"frase": "Articolo 9 – Preselezione Nel caso pervenissero più di 30 domande di partecipazione, si procederà ad una prova di preselezione con quesiti a risposta multipla, sulle materie oggetto delle prove di selezione"
-},
-"soglia30": {
-"valore": 21,
-"frase": "ano riportato nella prova scritta una valutazione minima di 21/30"
-}
-}
-},
-{
 "id": "774221a813954b70aab2fe836df66a64",
 "profilo": "istruttore-amministrativo-contabile",
 "titolo": "COMUNE DI BARDONECCHIA - BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DA ISTRUTTORE AMMINISTRATIVO CONTABILE, AREA DEGLI ISTRUTTORI, DA ASSEGNARE ALL’AREA FINANZIARIA – SERVIZIO PERSONALE",
@@ -6997,22 +6961,6 @@
 }
 },
 {
-"id": "3db4023eb22d44cba40f5c453b63df2c",
-"profilo": "funzionario-amministrativo-contabile",
-"titolo": "COMUNE DI GORGONZOLA (MI). CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE – PROFILO PROFESSIONALE FUNZIONARIO AMMINISTRATIVO– CONTABILE, CON ATTRIBUZIONE DI INCARICO DI ELEVATA QUALIFICAZIONE (EQ) D",
-"figura": "FUNZIONARIO AMMINISTRATIVO-CONTABILE",
-"ente": "Comune di Gorgonzola",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3db4023eb22d44cba40f5c453b63df2c",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "sione ha a disposizione 70 punti, così ripartiti: ▪ 30 punti per la prova scritta, la quale si intende superata se il candidato consegue un punteggio minimo di 21/30; ▪ 30 punti per la prova orale, la quale si intende superata se il candidato consegue un punteggio minimo di 21/30; ▪ 10 punti per la valutazione dei titoli"
-}
-}
-},
-{
 "id": "598c38b9e0a044cebb03143105002453",
 "profilo": "istruttore-amministrativo-contabile",
 "titolo": "CASATENOVO - BANDO DI CONCORSO PER L'ASSUNZIONE DI UN ISTRUTTORE AMMINISTRATIVO CONTABILE A TEMPO PARZIALE (18 ORE SETTIMANALI) E INDETERMINATO",
@@ -7166,17 +7114,6 @@
 "posti": 1,
 "scade": "2026-11-17",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=115f528b524f4f33bd326683f438ba17",
-"struttura_letta": {}
-},
-{
-"id": "00ad877396234db28dd0651eb44c2ed9",
-"profilo": "operaio-specializzato-operatore-tecnico",
-"titolo": "Il Comune di Albese con Cassano indice concorso per soli esami per assunzione a tempo pieno e indeterminato di n. 1 operaio specializzato (area degli operatori esperti)",
-"figura": "Operaio specializzato",
-"ente": "Comune di Albese con Cassano",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=00ad877396234db28dd0651eb44c2ed9",
 "struttura_letta": {}
 },
 {
@@ -7732,17 +7669,6 @@
 }
 },
 {
-"id": "d69483112916438997bb5285c1a2e189",
-"profilo": "istruttore-amministrativo-contabile",
-"titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI N.1 (UN) POSTO A TEMPO PIENO ED INDETERMINATO DI “ISTRUTTORE AMMINISTRATIVO CONTABILE” - CAT.C - POSIZIONE ECONOMICA C1 – PRESSO IL SERVIZIO SEGRETERIA DEL COMUNE DI SAN VITO DI FAGAGNA (UD).",
-"figura": "ISTRUTTORE AMMINISTRATIVO CONTABILE",
-"ente": "Comunita' Collinare Del Friuli",
-"posti": 1,
-"scade": "2026-11-15",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d69483112916438997bb5285c1a2e189",
-"struttura_letta": {}
-},
-{
 "id": "041c73976b954af18fad14ac96e4dff6",
 "profilo": "operaio-specializzato-operatore-tecnico",
 "titolo": "Bando di concorso pubblico per esami per la copertura di n. 1 posto a tempo pieno e indeterminato di “Collaboratore tecnico manutentivo, autista scuolabus, cantoniere, addetto al servizio di raccolta rifiuti, necroforo” – Area Operatori Esperti – CCNL 23.02.2026 Personale non dirigente funzioni loca",
@@ -7865,17 +7791,6 @@
 "frase": "Le votazioni vengono espresse in trentesimi ed ogni prova d’esame si intende superata se il candidato ottiene una votazione di almeno 21/30"
 }
 }
-},
-{
-"id": "5779ac7646d34e00a5bb20bbc74579f8",
-"profilo": "istruttore-tecnico-geometra",
-"titolo": "COMUNE DI MOZZATE - BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI UN POSTO DI ISTRUTTORE DEI SERVIZI TECNICI - GEOMETRA AREA DEGLI ISTRUTTORI A TEMPO PIENO E INDETERMINATO",
-"figura": "Istruttore dei servizi tecnici - geometra",
-"ente": "Comune di Mozzate",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5779ac7646d34e00a5bb20bbc74579f8",
-"struttura_letta": {}
 },
 {
 "id": "7f219f629ed6463e90b1f7dc3c209d93",
@@ -9354,161 +9269,6 @@
 }
 },
 {
-"id": "8df685e27a384af4b9470da4d9d95ee8",
-"profilo": "istruttore-direttivo-amministrativo",
-"titolo": "COMUNE DI LEGNAGO (VR) - CONCORSO PUBBLICO, PER ESAMI, PER 1 ISTRUTT. DIRETTIVO AMM.VO - AREA FUNZIONARI - A TEMPO INDETER. E PIENO - ECON.-PROVV.-PATRIM., RISERVATO PRIORIT. AI VOLONTARI SERV. CIVILE",
-"figura": "ISTRUTTORE DIRETTIVO AMMINISTRATIVO",
-"ente": "Comune di Legnago",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8df685e27a384af4b9470da4d9d95ee8",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Saranno ammessi a sostenere la prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
-}
-}
-},
-{
-"id": "2e4c4dffafac46439f1a6144639612b3",
-"profilo": "istruttore-amministrativo",
-"titolo": "PROVINCIA DI VITERBO - AVVISO PUBBLICO DI SELEZIONE, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO-AREA DEGLI ISTRUTTORI-PROFILO PROFESSIONALE “ISTRUTTORE DEI SERVIZI AMMINISTRATIVI E GESTIONALI”",
-"figura": "ISTRUTTORE DEI SERVIZI AMMINISTRATIVI E GESTIONALI",
-"ente": "Provincia di Viterbo",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2e4c4dffafac46439f1a6144639612b3",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Per essere ammesso alla prova orale, il candidato deve aver superato la prova scritta con un punteggio minimo di 21/30"
-}
-}
-},
-{
-"id": "1c3990513f4341b982bd35c6de80788a",
-"profilo": "istruttore-contabile",
-"titolo": "PROVINCIA DI VITERBO - AVVISO PUBBLICO DI SELEZIONE, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO-AREA DEGLI ISTRUTTORI-PROFILO PROFESSIONALE “ISTRUTTORE DEI SERVIZI ECONOMICO-FINANZIARI”",
-"figura": "ISTRUTTORE DEI SERVIZI ECONOMICO-FINANZIARI",
-"ente": "Provincia di Viterbo",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1c3990513f4341b982bd35c6de80788a",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Per essere ammesso alla prova orale, il candidato deve aver superato la prova scritta con un punteggio minimo di 21/30"
-}
-}
-},
-{
-"id": "1b452cebfd754d1f988052536f6053d5",
-"profilo": "istruttore-ambiente-e-ecologia",
-"titolo": "PROVINCIA DI VITERBO - AVVISO PUBBLICO DI SELEZIONE, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO-AREA DEGLI ISTRUTTORI-PROFILO PROFESSIONALE “ISTRUTTORE TECNICO E AMBIENTALE”",
-"figura": "ISTRUTTORE TECNICO E AMBIENTALE",
-"ente": "Provincia di Viterbo",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1b452cebfd754d1f988052536f6053d5",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Per essere ammesso alla prova orale, il candidato deve aver superato la prova scritta con un punteggio minimo di 21/30"
-}
-}
-},
-{
-"id": "33b13eb0fce0433782eab0a9c9f45bfd",
-"profilo": "collaboratore-amministrativo",
-"titolo": "PROVINCIA DI VITERBO - AVVISO PUBBLICO DI SELEZIONE, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO-AREA DEGLI OPERATORI ESPERTI- PROFILO PROFESSIONALE “COLLABORATORE PROFESSIONALE SORVEGLIANZA STRADALE”",
-"figura": "COLLABORATORE PROFESSIONALE SORVEGLIANZA STRADALE",
-"ente": "Provincia di Viterbo",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=33b13eb0fce0433782eab0a9c9f45bfd",
-"struttura_letta": {}
-},
-{
-"id": "6c278889663c4ca998a2603e39362fae",
-"profilo": "funzionario-tecnico",
-"titolo": "PROVINCIA DI VITERBO - AVVISO PUBBLICO DI SELEZIONE, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO-AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE-PROFILO PROFESSIONALE  “FUNZIONARIO TECNICO” ",
-"figura": "FUNZIONARIO TECNICO",
-"ente": "Provincia di Viterbo",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6c278889663c4ca998a2603e39362fae",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Per essere ammesso alla prova orale, il candidato deve aver superato la prova scritta con un punteggio minimo di 21/30"
-}
-}
-},
-{
-"id": "15a2fd830cfa441781e673f0879e3e95",
-"profilo": "funzionario-amministrativo",
-"titolo": "PROVINCIA DI VITERBO - AVVISO PUBBLICO DI SELEZIONE, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO-AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE-PROFILO PROFESSIONALE “FUNZIONARIO AMMINISTRATIVO”",
-"figura": "FUNZIONARIO AMMINISTRATIVO",
-"ente": "Provincia di Viterbo",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=15a2fd830cfa441781e673f0879e3e95",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Per essere ammesso alla prova orale, il candidato deve aver superato la prova scritta con un punteggio minimo di 21/30"
-}
-}
-},
-{
-"id": "2a60be995f484554b1bb03b83a9060cb",
-"profilo": "funzionario-contabile",
-"titolo": "PROVINCIA DI VITERBO - AVVISO PUBBLICO DI SELEZIONE, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO-AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE-PROFILO PROFESSIONALE “FUNZIONARIO ECONOMICO-FINANZIARIO”",
-"figura": "FUNZIONARIO ECONOMICO-FINANZIARIO",
-"ente": "Provincia di Viterbo",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2a60be995f484554b1bb03b83a9060cb",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Per essere ammesso alla prova orale, il candidato deve aver superato la prova scritta con un punteggio minimo di 21/30"
-}
-}
-},
-{
-"id": "9e1e6cb3ffd943eab7d3d6dbdb980186",
-"profilo": "istruttore-amministrativo",
-"titolo": "Concorso per esami per l’assunzione di 1 istruttore amministrativo a tempo pieno e indeterminato",
-"figura": "Istruttore amministrativo",
-"ente": "Comune di Pitigliano",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9e1e6cb3ffd943eab7d3d6dbdb980186",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Saranno ammessi alla prova orale i candidati che avranno superato la prova scritta con un punteggio non inferiore a 21/30"
-}
-}
-},
-{
-"id": "35a2e4cdb55c47da801f82fbdf287d1f",
-"profilo": "istruttore-tecnico",
-"titolo": "CONCORSO - SELEZIONE PUBBLICA PER SOLI ESAMI PER LA COPERTURA DI UNA UNITA' DI PERSONALE AREA DEGLI ISTRUTTORI, A TEMPO INDETERMINATO E PART TIME AL 50% - AREA TECNICA",
-"figura": "Istruttore a tempo indeterminato e part-time al 50% - tecnico",
-"ente": "Comune di Zimella",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=35a2e4cdb55c47da801f82fbdf287d1f",
-"struttura_letta": {
-"penalita": {
-"valore": 0.25,
-"frase": "La valutazione della prova preselettiva è effettuata attribuendo i seguenti punteggi: 1 punto per ogni risposta esatta; -0,75 punti per ogni risposta errata o multipla; -0,25 punti per ogni mancata risposta"
-}
-}
-},
-{
 "id": "35bbeb01125f4ae884c863d55d1ea218",
 "profilo": "operaio-specializzato-operatore-tecnico",
 "titolo": "UNIONE DEL DELMONA - BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI UN POSTO NELL’AREA DEGLI OPERATORI ESPERTI - RAPPORTO DI LAVORO A TEMPO PIENO – 36 ORE SETTIMANALI – A TEMPO INDETERMINATO CON FUNZIONI DI OPERAIO, MURATORE, MANUTENTORE, CANTONIERE, SEPPELLITORE, AUTISTA DI SCUOLAB",
@@ -9517,17 +9277,6 @@
 "posti": 1,
 "scade": "2026-11-16",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=35bbeb01125f4ae884c863d55d1ea218",
-"struttura_letta": {}
-},
-{
-"id": "3786abe396f044a69e63e815f8c60c22",
-"profilo": "operatore-esperto-ex-cat-b",
-"titolo": "Comune di Castel San Giorgio - SELEZIONE PUBBLICA PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI OPERATORE ESPERTO TECNICO-MANUTENTIVO – OPERAIO",
-"figura": "operatore esperto tecnico manutentivo",
-"ente": "Comune di Castel San Giorgio",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3786abe396f044a69e63e815f8c60c22",
 "struttura_letta": {}
 },
 {
@@ -9609,17 +9358,6 @@
 "posti": 1,
 "scade": "2026-11-16",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=759673580e7d44c6ad08aef5cf7ad620",
-"struttura_letta": {}
-},
-{
-"id": "efea10b4a4674f51bd251a0201f83c94",
-"profilo": "istruttore-amministrativo",
-"titolo": "Avviso pubblico per la procedura comparativa per la progressione tra Aree, riservata al personale a tempo indeterminato dell’Azienda per il Diritto allo Studio Universitario della Regione Campania, per la copertura di n. 1 posto da Istruttore",
-"figura": "istruttore",
-"ente": "A.Di.S.U.R.C. Azienda per Il Diritto allo Studio Universitario della Regione Campania",
-"posti": 1,
-"scade": "2026-11-14",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=efea10b4a4674f51bd251a0201f83c94",
 "struttura_letta": {}
 },
 {

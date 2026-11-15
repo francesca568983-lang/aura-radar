@@ -142,9 +142,19 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 28,
-  "posti": 34,
+  "bandi": 29,
+  "posti": 35,
   "esempi": [
+   {
+    "id": "25de84d747884932b7c78cb867038ca9",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER ESAMI E TITOLI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO E PIENO DI N. 1 UNITA’ DI PERSONALE DEL PROFILO DI ACCOMPAGNATORE AL PIANOFORTE PER IL CANTO E PER LO STRUMENTO (Area dei Funzionari - Art. 164 del CCNL Istruzione e Ricerca 2019/2021 – sezione Afam del 18/01/2024)",
+    "figura": "Accompagnatore al pianoforte per il canto e per lo strumento",
+    "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25de84d747884932b7c78cb867038ca9"
+   },
    {
     "id": "87dd9df5bc0d4b3a96f79346270227e6",
     "profilo": null,
@@ -184,16 +194,6 @@
     "posti": 2,
     "scade": "2026-11-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39ea074df30b4d35ae881fe7739db2cc"
-   },
-   {
-    "id": "3e80cc25bad2406d8f2ec946e1f6c21f",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DOCENTE A TEMPO INDETERMINATO SETTORE ARTISTICO DISCIPLINARE AFAM113 (EX ABPR31) – FOTOGRAFIA",
-    "figura": "Docente",
-    "ente": "Accademia di Belle Arti di Catanzaro",
-    "posti": 1,
-    "scade": "2026-12-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e80cc25bad2406d8f2ec946e1f6c21f"
    }
   ]
  },
