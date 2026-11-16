@@ -1,8 +1,8 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 22,
-  "posti": 237,
+  "bandi": 20,
+  "posti": 234,
   "esempi": [
    {
     "id": "a3d94b66e8ac4e1196ad5474056946b3",
@@ -142,8 +142,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 29,
-  "posti": 35,
+  "bandi": 23,
+  "posti": 28,
   "esempi": [
    {
     "id": "25de84d747884932b7c78cb867038ca9",
@@ -199,9 +199,29 @@
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 15,
-  "posti": 18,
+  "bandi": 17,
+  "posti": 20,
   "esempi": [
+   {
+    "id": "e379aae44de946799068b81ef07d45bb",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ASSUNZIONE CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO PIENO E INDETERMINATO DI N. 1 RICERCATORE DI III LIVELLO PROFESSIONALE DEL C.C.N.L. ISTRUZIONE E RICERCA, AREA SCIENTIFICA: MICROSCOPIA AVANZATA E SCIENZA DEI MATERIALI. RIFERIMENTO BANDO 05/2026",
+    "figura": "RICERCATORE",
+    "ente": "Area Science Park",
+    "posti": 1,
+    "scade": "2026-12-15",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e379aae44de946799068b81ef07d45bb"
+   },
+   {
+    "id": "470ffece4b2c4e2da971c6af05bda8da",
+    "profilo": null,
+    "titolo": "Concorso pubblico per titoli ed esame, per il reclutamento di un \"Ricercatore\", Terzo Livello Professionale, con contratto di lavoro a tempo determinato, della durata di un anno, per le esigenze del Progetto denominato “Accordo PRORIS-SPADE”. Cod: 2026INAFRIC-AOR-SPADE-043",
+    "figura": "Ricercatore",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-12-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=470ffece4b2c4e2da971c6af05bda8da"
+   },
    {
     "id": "fdd467994b4e403283eab8ce7f99c0bc",
     "profilo": null,
@@ -231,26 +251,6 @@
     "posti": 1,
     "scade": "2026-12-11",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1508ab9dbf42490280b122f78fa0e383"
-   },
-   {
-    "id": "9d78e4d4b0e24b6398e81115339e573a",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per titoli ed esami, ai fini del reclutamento di un \"Ricercatore\", terzo Livello Professionale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di un anno. Cod: 2026INAFRIC-IAP-105044908-030",
-    "figura": "RICERCATORE 3 LIVELLO",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 1,
-    "scade": "2026-11-21",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9d78e4d4b0e24b6398e81115339e573a"
-   },
-   {
-    "id": "5901b259cb1f4401ac19ede9520d4b19",
-    "profilo": null,
-    "titolo": "Università Politecnica delle Marche - selezione pubblica",
-    "figura": "Il personale da assumere sarà adibito alle attività proprie dell’Area delle Elevate Professionalità connesse alla responsabilità del Servizio ICT: • presidiare la sicurezza informatica dell’Ateneo: - definire, attuare e aggiornare le misure tecniche e organizzative di sicurezza di reti, sistemi, dati e servizi, sulla base dell’analisi e della gestione del rischio; - coordinare le azioni di adeguamento alla direttiva NIS 2 (D.Lgs. 138/2024) e i relativi adempimenti; - monitorare gli eventi di sicurezza e gestire gli incidenti informatici, incluse le comunicazioni alle autorità competenti, in raccordo con il Responsabile della protezione dei dati per le violazioni di dati personali; - assicurare la continuità operativa e il ripristino dei servizi (backup e disaster recovery); - presidiare la sicurezza delle forniture e dei servizi ICT acquisiti da terzi; - promuovere la formazione e la sensibilizzazione del personale sui rischi informatici. • supportare l’Ateneo nelle funzioni di transizione digitale di cui all’art. 17 del D.Lgs. 82/2005 e, ove designato con atto dell’organo competente, svolgere le funzioni di Responsabile per la transizione digitale: coordinamento dello sviluppo dei sistemi informativi e dei servizi digitali, accessibilità, diffusione di identità e domicilio digitale, protocollo informatico e firma digitale, interoperabilità, pianificazione degli acquisti ICT coerente con il Piano triennale per l’informatica nella PA; • progettare, realizzare, gestire e presidiare i servizi informatici dell’Ateneo, costituendo un punto di riferimento e raccordo trasversale alla pluralità di strutture e servizi per quanto concerne infrastruttura di rete e sistemistica, multimedialità, applicazioni e servizi di supporto; • presidiare i servizi di assistenza informatica delle strutture dei Poli universitari e supportare la transizione digitale dell’Ateneo, compresa la transizione del personale alla telefonia digitale tramite MS Teams; • gestire la progettazione, lo sviluppo e la gestione dei server e dei data center per quanto riguarda le infrastrutture, i sistemi e i servizi per la salvaguardia dei dati e dell’operatività; • coordinare il personale assegnato e gli Uffici del Servizio.",
-    "ente": "Universita' Politecnica delle Marche",
-    "posti": 1,
-    "scade": "2026-12-11",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5901b259cb1f4401ac19ede9520d4b19"
    }
   ]
  },
