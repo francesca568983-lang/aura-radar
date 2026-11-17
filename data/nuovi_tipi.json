@@ -1,9 +1,39 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 20,
-  "posti": 234,
+  "bandi": 21,
+  "posti": 237,
   "esempi": [
+   {
+    "id": "39e4f91df7434ddea892a76135c52382",
+    "profilo": null,
+    "titolo": "Procedura Selettiva Pubblica per l’individuazione di esperto esterno Oboista, destinatario di contratto di collaborazione per supporto lezioni AFAM035 - Musica d’Insieme per Strumenti a Fiato",
+    "figura": "Espero esterno Oboista",
+    "ente": "Conservatorio Statale di Musica Paganini di Genova",
+    "posti": 1,
+    "scade": "2026-12-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39e4f91df7434ddea892a76135c52382"
+   },
+   {
+    "id": "fa06d566c9b54c398fc42d32233a068b",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per titoli ed esami, per il reclutamento di una unità di personale da inquadrare nel profilo di “Collaboratore Tecnico degli Enti di Ricerca”, Sesto Livello Professionale Cod: 2026INAFCTER-OAS-105031901-010",
+    "figura": "CTER - VI livello",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-12-17",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa06d566c9b54c398fc42d32233a068b"
+   },
+   {
+    "id": "824f84968a684cab887e1942440583b9",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO PER SOLI ESAMI, PER LA COPERTURA DI N. 3 POSTI DI EDUCATORE DEI SERVIZI PER L’INFANZIA A TEMPO PIENO ED A TEMPO INDETERMINATO – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE - CCNL DEL PERSONALE DEL COMPARTO FUNZIONI LOCALI PRESSO L’IPAB ASILO UMBERTO I° DI CONEGLIANO",
+    "figura": "Educatore dei Servizi per l'Infanzia",
+    "ente": "Casa di Riposo Francesco Fenzi",
+    "posti": 3,
+    "scade": "2026-12-16",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=824f84968a684cab887e1942440583b9"
+   },
    {
     "id": "a3d94b66e8ac4e1196ad5474056946b3",
     "profilo": null,
@@ -23,36 +53,6 @@
     "posti": 4,
     "scade": "2026-11-30",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9531f373f5554bb0b3b3f9a66be94af7"
-   },
-   {
-    "id": "941a87a85809492ea2991fe860584934",
-    "profilo": null,
-    "titolo": "Concorso pubblico per titoli ed esame, per il reclutamento di un Ricercatore, Terzo Livello Professionale, a tempo determinato e a tempo pieno, per un anno, prorogabile, per Sviluppo di software avanzato per fotometria di survey extragalattiche Cod: 2026INAFRIC-OAP-RUBIN-011",
-    "figura": "maria.carraro@inaf.it",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 1,
-    "scade": "2026-12-03",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=941a87a85809492ea2991fe860584934"
-   },
-   {
-    "id": "bd4193b45cde4c76a3c2286cd4ce8017",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PER L’AMMISSIONE AI CORSI DI DOTTORATO DEL XLII CICLO - A.A. 2026/2027",
-    "figura": "DOTTORANDO",
-    "ente": "Accademia di Belle Arti di Lecce",
-    "posti": 4,
-    "scade": "2026-12-11",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bd4193b45cde4c76a3c2286cd4ce8017"
-   },
-   {
-    "id": "fdb8b5ad512c424b9515a3442b19e4af",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO PER ESAMI PER COPERTURA N.4 POSTI DI OPERATORE SOCIO SANIITARIO TEMPO PIENO E INDETERMINATO- AREA OPERATORI ESPERTI CCNL FUNZIONI LOCALI",
-    "figura": "OPEARTORE SOCIO SANITARIO",
-    "ente": "I.P.A.B. La Pieve",
-    "posti": 4,
-    "scade": "2026-12-09",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fdb8b5ad512c424b9515a3442b19e4af"
    }
   ]
  },
@@ -84,67 +84,30 @@
   ]
  },
  {
-  "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 10,
-  "posti": 37,
-  "esempi": [
-   {
-    "id": "b69f58e359c449cca6be1bd98253cd43",
-    "profilo": null,
-    "titolo": "CONSORZIO I.R.I.S. - BANDO DI SELEZIONE PUBBLICA, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO PSICOLOGO, AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE DEL VIGENTE C.C.N.L. COMPARTO FUNZIONI LOCALI, A TEMPO DETERMINATO DI 1 ANNO, EVENTUALMENTE RINNOVABILE, E A TEMPO PARZIALE DI 12 OR",
-    "figura": "FUNZIONARIO PSICOLOGO",
-    "ente": "Consorzio Intercomunale Servizi Socio Assistenziali IRIS di Biella",
-    "posti": 1,
-    "scade": "2026-11-23",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b69f58e359c449cca6be1bd98253cd43"
-   },
-   {
-    "id": "4f7ae77864a24f4486a2d4b8350de88d",
-    "profilo": null,
-    "titolo": "PROCEDURA SELETTIVA AI FINI DI STABILIZZAZIONE AI SENSI DELL'ART. 1 C. 268, LETT. B) DELLA L. 234/2021 E S.M.I., PER LA COPERTURA DI N.1 POSTO A TEMPO INDETERMINATO DI DIRIGENTE PSICOLOGO",
-    "figura": "N. 1 POSTO A TEMPO INDETERMINATO DI DIRIGENTE PSICOLOGO",
-    "ente": "Azienda Socio Sanitaria Territoriale di Pavia",
-    "posti": 1,
-    "scade": "2026-12-07",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f7ae77864a24f4486a2d4b8350de88d"
-   },
-   {
-    "id": "fed7f33bd6ce448dbf54d5ebc4041c53",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO DI N. 1 POSTO DI DIRIGENTE FISICO PER LA DISCIPLINA DI FISICA SANITARIA DA ASSEGNARE ALLA S.C. FISICA SANITARIA",
-    "figura": "dirigente fisico",
-    "ente": "Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda",
-    "posti": 1,
-    "scade": "2026-12-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fed7f33bd6ce448dbf54d5ebc4041c53"
-   },
-   {
-    "id": "23392addf93546b082346802d0548831",
-    "profilo": null,
-    "titolo": "INDIZIONE CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO DI N. 1 POSTO DI ORTOTTISTA – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI",
-    "figura": "Ortottista",
-    "ente": "Azienda Socio Sanitaria Territoriale della Valtellina e dell'Alto Lario",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=23392addf93546b082346802d0548831"
-   },
-   {
-    "id": "c104e13b29664ae1a66b8c458b85c6cb",
-    "profilo": null,
-    "titolo": "Concorso pubblico indetto in forma aggregata tra le ATS di Regione Lombardia per l'assunzione di Dirigenti Veterinari nella disciplina di Igiene della Produzione, Trasformazione, Commercializzazione, Conservazione e Trasporto degli Alimenti di Origine Animale e loro Derivati ( Area \"B\")",
-    "figura": "Dirigente Veterinario nella disciplina di Igiene della Produzione, Trasformazione, Commercializzazione, Conservazione e Trasporto degli Alimenti di Origine Animale e Loro Derivati (Area B)",
-    "ente": "Agenzia di Tutela della Salute dell'Insubria",
-    "posti": 11,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c104e13b29664ae1a66b8c458b85c6cb"
-   }
-  ]
- },
- {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 23,
-  "posti": 28,
+  "bandi": 25,
+  "posti": 30,
   "esempi": [
+   {
+    "id": "020fa816aa3845aba82741b1390ee1e8",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI PER IL CONSERVATORIO DI MUSICA “F. VENEZZE” DI ROVIGO A.A. 2026/2027 - AFAM006 Violino ex CODI/06",
+    "figura": "Docente",
+    "ente": "Conservatorio di Musica 'Francesco Venezze' di Rovigo",
+    "posti": 1,
+    "scade": "2026-12-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=020fa816aa3845aba82741b1390ee1e8"
+   },
+   {
+    "id": "ea0d7353434d4543973a7a19b2cebc94",
+    "profilo": null,
+    "titolo": "Bandi reclutamento a tempo indeterminato Docenti",
+    "figura": "Docente AFAM031",
+    "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
+    "posti": 1,
+    "scade": "2026-12-17",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ea0d7353434d4543973a7a19b2cebc94"
+   },
    {
     "id": "25de84d747884932b7c78cb867038ca9",
     "profilo": null,
@@ -174,33 +137,13 @@
     "posti": 1,
     "scade": "2026-12-14",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0313d1d4c9784a2a94ef48d06e4873fc"
-   },
-   {
-    "id": "0e2290e7b91643379bf429ae7c49f387",
-    "profilo": null,
-    "titolo": "Accademia di Belle arti di Verona - Bando prot. 7858 del 12/11/2026 per il reclutamento a tempo indeterminato di n. 1 docente di prima fascia di n. 1 docente di prima fascia AFAM084 – Linguaggi e Pratiche Artistiche della Decorazione (ex ABAV11 – Decorazione)",
-    "figura": "Docente TI AFAM084",
-    "ente": "Accademia di Belle Arti di Verona",
-    "posti": 1,
-    "scade": "2026-12-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0e2290e7b91643379bf429ae7c49f387"
-   },
-   {
-    "id": "39ea074df30b4d35ae881fe7739db2cc",
-    "profilo": null,
-    "titolo": "UNI. MILANO-BICOCCA / CONCORSO PUBBLICO / PER ESAMI / N. 2 POSTI / AREA DEI FUNZIONARI / S. P. AMMINISTRATIVO-GESTIONALE / TEMPO DETERMINATO (12 MESI) E PIENO / AREA DIDATTICA, SERVIZI AGLI STUDENTI E SVILUPPO INTERNAZIONALE / SETTORE FORMAZIONE INSEGNANTI",
-    "figura": "FUNZIONARIO AMMINISTRATIVO-GESTIONALE (12 MESI) PRESSO L'AREA DIDATTICA, SERVIZI AGLI STUDENTI E SVILUPPO INTERNAZIONALE (SETTORE FORMAZIONE INSEGNANTI)",
-    "ente": "Universita' degli Studi di Milano - Bicocca",
-    "posti": 2,
-    "scade": "2026-11-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39ea074df30b4d35ae881fe7739db2cc"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 17,
-  "posti": 20,
+  "bandi": 16,
+  "posti": 17,
   "esempi": [
    {
     "id": "e379aae44de946799068b81ef07d45bb",
@@ -251,6 +194,63 @@
     "posti": 1,
     "scade": "2026-12-11",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1508ab9dbf42490280b122f78fa0e383"
+   }
+  ]
+ },
+ {
+  "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
+  "bandi": 8,
+  "posti": 14,
+  "esempi": [
+   {
+    "id": "b69f58e359c449cca6be1bd98253cd43",
+    "profilo": null,
+    "titolo": "CONSORZIO I.R.I.S. - BANDO DI SELEZIONE PUBBLICA, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO PSICOLOGO, AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE DEL VIGENTE C.C.N.L. COMPARTO FUNZIONI LOCALI, A TEMPO DETERMINATO DI 1 ANNO, EVENTUALMENTE RINNOVABILE, E A TEMPO PARZIALE DI 12 OR",
+    "figura": "FUNZIONARIO PSICOLOGO",
+    "ente": "Consorzio Intercomunale Servizi Socio Assistenziali IRIS di Biella",
+    "posti": 1,
+    "scade": "2026-11-23",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b69f58e359c449cca6be1bd98253cd43"
+   },
+   {
+    "id": "4f7ae77864a24f4486a2d4b8350de88d",
+    "profilo": null,
+    "titolo": "PROCEDURA SELETTIVA AI FINI DI STABILIZZAZIONE AI SENSI DELL'ART. 1 C. 268, LETT. B) DELLA L. 234/2021 E S.M.I., PER LA COPERTURA DI N.1 POSTO A TEMPO INDETERMINATO DI DIRIGENTE PSICOLOGO",
+    "figura": "N. 1 POSTO A TEMPO INDETERMINATO DI DIRIGENTE PSICOLOGO",
+    "ente": "Azienda Socio Sanitaria Territoriale di Pavia",
+    "posti": 1,
+    "scade": "2026-12-07",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f7ae77864a24f4486a2d4b8350de88d"
+   },
+   {
+    "id": "fed7f33bd6ce448dbf54d5ebc4041c53",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA A TEMPO INDETERMINATO DI N. 1 POSTO DI DIRIGENTE FISICO PER LA DISCIPLINA DI FISICA SANITARIA DA ASSEGNARE ALLA S.C. FISICA SANITARIA",
+    "figura": "dirigente fisico",
+    "ente": "Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda",
+    "posti": 1,
+    "scade": "2026-12-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fed7f33bd6ce448dbf54d5ebc4041c53"
+   },
+   {
+    "id": "23392addf93546b082346802d0548831",
+    "profilo": null,
+    "titolo": "INDIZIONE CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO DI N. 1 POSTO DI ORTOTTISTA – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI",
+    "figura": "Ortottista",
+    "ente": "Azienda Socio Sanitaria Territoriale della Valtellina e dell'Alto Lario",
+    "posti": 1,
+    "scade": "2026-11-26",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=23392addf93546b082346802d0548831"
+   },
+   {
+    "id": "2710da8056e24e079c0caa529180cdc7",
+    "profilo": null,
+    "titolo": "Università di Padova - Concorso pubblico n. 2026N28, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 persona nell’Area dei Funzionari, Settore Scientifico-tecnologico, presso l’Università degli Studi di Padova. Tecnico di laboratorio di Anatomia macro e microscopica, biologia molec",
+    "figura": "Tecnico di laboratorio di Anatomia macro e microscopica, biologia molecolare e culture cellulari.",
+    "ente": "Universita' degli Studi di Padova",
+    "posti": 1,
+    "scade": "2026-11-25",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2710da8056e24e079c0caa529180cdc7"
    }
   ]
  },
@@ -313,9 +313,19 @@
  },
  {
   "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 7,
-  "posti": 7,
+  "bandi": 5,
+  "posti": 5,
   "esempi": [
+   {
+    "id": "7a65f6ecd0004188b61547683fb4de10",
+    "profilo": null,
+    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILAN0 - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, A N. 1 UNITÀ DI TECNOLOGO DI PRIMO LIVELLO, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO PRESSO IL DIPARTIMENTO DI BIOSCIENZE (COD. 22718)",
+    "figura": "Tecnologo di primo livello",
+    "ente": "Universita Degli Studi di Milano",
+    "posti": 1,
+    "scade": "2026-12-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7a65f6ecd0004188b61547683fb4de10"
+   },
    {
     "id": "17af90e5a72e4145b7e1d8c6f0fe59f5",
     "profilo": null,
@@ -337,34 +347,24 @@
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43140ff44fc44fd594a20e141dfb32ea"
    },
    {
-    "id": "9564ab33248a4a998a1fa3a72692e32a",
+    "id": "a2ceeb2c49794604813eb402f5f61a9b",
     "profilo": null,
-    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S29, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
-    "figura": "Tecnologo di Ricerca di primo livello",
-    "ente": "Universita' degli Studi di Padova",
+    "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, per il Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durab",
+    "figura": "Tecnologo",
+    "ente": "Universita' degli Studi di Firenze",
     "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9564ab33248a4a998a1fa3a72692e32a"
+    "scade": "2026-11-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b"
    },
    {
-    "id": "c53b724b57544fd98f214cf94412f8a7",
+    "id": "01d880e28bf746dfba8993d3d298bc00",
     "profilo": null,
-    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S30, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di primo livello (categoria stipendiale pari alla ex cat. EP1), da assumere mediante contratto di lavoro a termine, a tempo pieno, per n. 24 mesi, presso il Dipartimento di Fisic",
-    "figura": "Tecnologo di Ricerca di primo livello",
-    "ente": "Universita' degli Studi di Padova",
+    "titolo": "Selezione pubblica, per titoli ed esami, per il reclutamento di un/a tecnologo/a di secondo livello, a tempo determinato e pieno - Dipartimento di Ingegneria Industriale Elettrica Elettronica e Informatica dell’Università degli Studi di Catania.",
+    "figura": "tecnologo",
+    "ente": "Universita' degli Studi di Catania",
     "posti": 1,
-    "scade": "2026-11-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c53b724b57544fd98f214cf94412f8a7"
-   },
-   {
-    "id": "9716ef773a02442592f141e459838e6c",
-    "profilo": null,
-    "titolo": "Selezione pubblica, per titoli e prove selettive, per l’assunzione di n. 1 tecnologo – ex art. 24 bis Legge 30.12.2010 n. 240 – con contratto di lavoro subordinato a tempo determinato a tempo pieno della durata di 24 mesi eventualmente rinnovabile per ulteriori 12 mesi, nella posizione economica ex ",
-    "figura": "Tecnologo, ex cat. D3",
-    "ente": "Universita' degli Studi di Trento",
-    "posti": 1,
-    "scade": "2026-11-17",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9716ef773a02442592f141e459838e6c"
+    "scade": "2026-11-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=01d880e28bf746dfba8993d3d298bc00"
    }
   ]
  },
