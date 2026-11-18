@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 21,
-  "posti": 237,
+  "bandi": 22,
+  "posti": 238,
   "esempi": [
+   {
+    "id": "7a77b0a476a542eea84d4c61dba01b1e",
+    "profilo": null,
+    "titolo": "Procedura selettiva, per esami, per l’assunzione di n. 1 unità di personale nell’area dei Funzionari, settore amministrativo-gestionale a tempo pieno, a tempo indeterminato presso il Settore Risorse Economiche dell’Università degli Studi di Brescia",
+    "figura": "Area dei Funzionari",
+    "ente": "UNIVERSITA' DEGLI STUDI DI BRESCIA",
+    "posti": 1,
+    "scade": "2026-12-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7a77b0a476a542eea84d4c61dba01b1e"
+   },
    {
     "id": "39e4f91df7434ddea892a76135c52382",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-12-14",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a3d94b66e8ac4e1196ad5474056946b3"
-   },
-   {
-    "id": "9531f373f5554bb0b3b3f9a66be94af7",
-    "profilo": null,
-    "titolo": "Comune di Monza - Concorso Pubblico per esami per l'assunzione n. 2 Messi Comunali e n.2 Ausiliari del traffico",
-    "figura": "MESSO COMUNALE/AUSILIARIO DEL TRAFFICO",
-    "ente": "Comune di Monza",
-    "posti": 4,
-    "scade": "2026-11-30",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9531f373f5554bb0b3b3f9a66be94af7"
    }
   ]
  },
@@ -85,9 +85,19 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 25,
-  "posti": 30,
+  "bandi": 26,
+  "posti": 31,
   "esempi": [
+   {
+    "id": "0b4bf19a6dcc4f65a9f53841d2d0129a",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027 AFAM028 Strumenti a corde per i nuovi linguaggi musicali - Basso elettrico pop rock;",
+    "figura": "Docente",
+    "ente": "Conservatorio di Musica Antonio Scontrino di Trapani",
+    "posti": 1,
+    "scade": "2026-12-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0b4bf19a6dcc4f65a9f53841d2d0129a"
+   },
    {
     "id": "020fa816aa3845aba82741b1390ee1e8",
     "profilo": null,
@@ -127,24 +137,24 @@
     "posti": 1,
     "scade": "2026-12-14",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=87dd9df5bc0d4b3a96f79346270227e6"
-   },
-   {
-    "id": "0313d1d4c9784a2a94ef48d06e4873fc",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per esami e titoli, per la copertura a tempo pieno e indeterminato di n. 1 posto di Docente di prima fascia per il settore artistico-disciplinare AFAM018 – PIANOFORTE, CCNL “Istruzione e Ricerca comparto AFAM”, presso la sede del Conservatorio di Musica “C. Monteverdi” di Cremona",
-    "figura": "Docente I fascia a tempo pieno",
-    "ente": "Istituto Superiore di Studi Musicali Claudio Monteverdi",
-    "posti": 1,
-    "scade": "2026-12-14",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0313d1d4c9784a2a94ef48d06e4873fc"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 16,
-  "posti": 17,
+  "bandi": 17,
+  "posti": 18,
   "esempi": [
+   {
+    "id": "ed27fbc4ad50422894c012fc65bbd92b",
+    "profilo": null,
+    "titolo": "Concorso pubblico per titoli ed esame, per il reclutamento di un Ricercatore, Terzo Livello Professionale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di due anni, prorogabile, dal titolo \"Analisi dei.. Cod: 2026INAFRIC-IAM-MOONS-002",
+    "figura": "Ricercatore III Livello",
+    "ente": "Istituto Nazionale di Astrofisica - INAF",
+    "posti": 1,
+    "scade": "2026-12-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ed27fbc4ad50422894c012fc65bbd92b"
+   },
    {
     "id": "e379aae44de946799068b81ef07d45bb",
     "profilo": null,
@@ -184,16 +194,6 @@
     "posti": 1,
     "scade": "2026-12-03",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=794fc684d4294547b6c9cbc150759073"
-   },
-   {
-    "id": "1508ab9dbf42490280b122f78fa0e383",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, RISERVATO AI SOGGETTI IN POSSESSO DEI REQUISITI DI CUI ALL’ART. 1, COMMA 312, DELLA LEGGE 30 DICEMBRE 2025, N. 199, PER L’ASSUNZIONE CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO PIENO E INDETERMINATO DI N. 1 RICERCATORE DI III LIVELLO PROFESSIONALE DEL C.C.N.L.",
-    "figura": "RICERCATORE",
-    "ente": "Area Science Park",
-    "posti": 1,
-    "scade": "2026-12-11",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1508ab9dbf42490280b122f78fa0e383"
    }
   ]
  },
@@ -256,9 +256,19 @@
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 7,
-  "posti": 8,
+  "bandi": 8,
+  "posti": 9,
   "esempi": [
+   {
+    "id": "14129131ec8d4bcb8e76a15e47892202",
+    "profilo": null,
+    "titolo": "Comune di Mentana - Concorso pubblico, per titoli ed esami, per due dirigenti a tempo pieno e indeterminato: Area 4 - Polizia locale (profilo A) e Area 5 - Sviluppo territoriale (profilo B)",
+    "figura": "Dirigente",
+    "ente": "Comune di Mentana",
+    "posti": 1,
+    "scade": "2026-12-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14129131ec8d4bcb8e76a15e47892202"
+   },
    {
     "id": "a6f6730456354d5594665cdc155fa2d9",
     "profilo": null,
@@ -298,16 +308,6 @@
     "posti": 1,
     "scade": "2026-11-23",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=de4cb89a93704e10adb1e0f447492aa6"
-   },
-   {
-    "id": "ac4e2fbe04af408da804d43c1aba5c74",
-    "profilo": null,
-    "titolo": "COMUNE DI VALDAGNO - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI DIRIGENTE (CCNL AREA FUNZIONI LOCALI) PER LA \"DIREZIONE ORGANIZZAZIONE E TRASFORMAZIONE DIGITALE\"",
-    "figura": "Dirigente",
-    "ente": "Comune di Valdagno",
-    "posti": 1,
-    "scade": "2026-11-28",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
    }
   ]
  },
@@ -316,6 +316,16 @@
   "bandi": 5,
   "posti": 5,
   "esempi": [
+   {
+    "id": "b877f23b63fb4b54b97861a07c780bf6",
+    "profilo": null,
+    "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di I livello, con contratto di lavoro a tempo determinato e pieno, della durata di 18 mesi, da assegnare al Dipartimento di Biologia, nell’ambito degli accordi con la Regione Toscana relativi ai progetti “NATura Network Toscana” - NAT.NE.T ",
+    "figura": "Tecnologo",
+    "ente": "Universita' degli Studi di Firenze",
+    "posti": 1,
+    "scade": "2026-12-15",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b877f23b63fb4b54b97861a07c780bf6"
+   },
    {
     "id": "7a65f6ecd0004188b61547683fb4de10",
     "profilo": null,
@@ -355,16 +365,6 @@
     "posti": 1,
     "scade": "2026-11-18",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b"
-   },
-   {
-    "id": "01d880e28bf746dfba8993d3d298bc00",
-    "profilo": null,
-    "titolo": "Selezione pubblica, per titoli ed esami, per il reclutamento di un/a tecnologo/a di secondo livello, a tempo determinato e pieno - Dipartimento di Ingegneria Industriale Elettrica Elettronica e Informatica dell’Università degli Studi di Catania.",
-    "figura": "tecnologo",
-    "ente": "Universita' degli Studi di Catania",
-    "posti": 1,
-    "scade": "2026-11-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=01d880e28bf746dfba8993d3d298bc00"
    }
   ]
  },
