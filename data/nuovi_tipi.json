@@ -1,58 +1,58 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 22,
-  "posti": 238,
+  "bandi": 27,
+  "posti": 260,
   "esempi": [
    {
-    "id": "7a77b0a476a542eea84d4c61dba01b1e",
+    "id": "053841218dff422ea7c71748cc2c9475",
     "profilo": null,
-    "titolo": "Procedura selettiva, per esami, per l’assunzione di n. 1 unità di personale nell’area dei Funzionari, settore amministrativo-gestionale a tempo pieno, a tempo indeterminato presso il Settore Risorse Economiche dell’Università degli Studi di Brescia",
+    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILANO - CONCORSO PUBBLICO, PER ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE AFFERENTE ALL’AREA DEI FUNZIONARI – SETTORE SCIENTIFICO-TECNOLOGICO, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO INDETERMINATO E PIENO PRESSO IL CTU - CENTRO PER L'INNOVAZIONE DIDATTICA E L",
     "figura": "Area dei Funzionari",
-    "ente": "UNIVERSITA' DEGLI STUDI DI BRESCIA",
+    "ente": "Universita Degli Studi di Milano",
+    "posti": 1,
+    "scade": "2026-12-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=053841218dff422ea7c71748cc2c9475"
+   },
+   {
+    "id": "ee24d25d8a1d4e1ba2ffc8260d4b6734",
+    "profilo": null,
+    "titolo": "BANDO DI CONCORSO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI POLIZIA LOCALE E COMMERCIO, A TEMPO PIENO ED INDETERMINATO, DA ASSEGNARE ALL'AREA SERVIZI DI VIGILANZA - CON RISERVA PER I MILITARI",
+    "figura": "ISTTRUTTORE DI POLIZIA LOCALE E COMMERCIO",
+    "ente": "Comune di Dogliani",
+    "posti": 1,
+    "scade": "2026-12-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ee24d25d8a1d4e1ba2ffc8260d4b6734"
+   },
+   {
+    "id": "2abb4921c5184e18a60cba3d676ea81f",
+    "profilo": null,
+    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILAN0 - CONCORSO PUBBLICO, PER ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE AFFERENTE ALL’AREA DEI FUNZIONARI – SETTORE AMMINISTRATIVO-GESTIONALE, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO E PARZIALE ALL’83,33% PRESSO IL DIPARTIMENTO DI SCIENZE PER GL",
+    "figura": "Area dei Funzionari",
+    "ente": "Universita Degli Studi di Milano",
+    "posti": 1,
+    "scade": "2026-12-04",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2abb4921c5184e18a60cba3d676ea81f"
+   },
+   {
+    "id": "d140b2ad0996450ab0ab833fdd3f069a",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER IL RIPIANAMENTO DI 18 POSTI PER ORCHESTRALE PRESSO LA BANDA MUSICALE DELL'ARMA DEI CARABINIERI.",
+    "figura": "ORCHESTRALI PRESSO LA BANDA MUSICALE DELL'ARMA DEI CARABINIERI",
+    "ente": "Arma dei Carabinieri - Centro Nazionale Selezione e Reclutamento",
+    "posti": 18,
+    "scade": "2026-12-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d140b2ad0996450ab0ab833fdd3f069a"
+   },
+   {
+    "id": "f6b2bb5e9a3b49d4ab1db3f431cad320",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per n. 1 Academic & Continuing Education Service Assistant",
+    "figura": "Academic & Continuing Education Service Assistant",
+    "ente": "Politecnico di Milano",
     "posti": 1,
     "scade": "2026-12-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7a77b0a476a542eea84d4c61dba01b1e"
-   },
-   {
-    "id": "39e4f91df7434ddea892a76135c52382",
-    "profilo": null,
-    "titolo": "Procedura Selettiva Pubblica per l’individuazione di esperto esterno Oboista, destinatario di contratto di collaborazione per supporto lezioni AFAM035 - Musica d’Insieme per Strumenti a Fiato",
-    "figura": "Espero esterno Oboista",
-    "ente": "Conservatorio Statale di Musica Paganini di Genova",
-    "posti": 1,
-    "scade": "2026-12-02",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39e4f91df7434ddea892a76135c52382"
-   },
-   {
-    "id": "fa06d566c9b54c398fc42d32233a068b",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per titoli ed esami, per il reclutamento di una unità di personale da inquadrare nel profilo di “Collaboratore Tecnico degli Enti di Ricerca”, Sesto Livello Professionale Cod: 2026INAFCTER-OAS-105031901-010",
-    "figura": "CTER - VI livello",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 1,
-    "scade": "2026-12-17",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa06d566c9b54c398fc42d32233a068b"
-   },
-   {
-    "id": "824f84968a684cab887e1942440583b9",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO PER SOLI ESAMI, PER LA COPERTURA DI N. 3 POSTI DI EDUCATORE DEI SERVIZI PER L’INFANZIA A TEMPO PIENO ED A TEMPO INDETERMINATO – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE - CCNL DEL PERSONALE DEL COMPARTO FUNZIONI LOCALI PRESSO L’IPAB ASILO UMBERTO I° DI CONEGLIANO",
-    "figura": "Educatore dei Servizi per l'Infanzia",
-    "ente": "Casa di Riposo Francesco Fenzi",
-    "posti": 3,
-    "scade": "2026-12-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=824f84968a684cab887e1942440583b9"
-   },
-   {
-    "id": "a3d94b66e8ac4e1196ad5474056946b3",
-    "profilo": null,
-    "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE PROFILO ESPERTO DI PROGETTAZIONE E GESTIONE DI RETI/INFRASTRUTTURE AMBITO DI RUOLO PATRIMONIO E MANUTENZIONE CON RISERVA A FAVORE DEI VOLONTARI DELLE ",
-    "figura": "ESPERTO DI PROGETTAZIONE E GESTIONE DI RETI/INFRASTRUTTURE AMBITO DI RUOLO PATRIMONIO",
-    "ente": "Unione della Romagna Faentina",
-    "posti": 1,
-    "scade": "2026-12-14",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a3d94b66e8ac4e1196ad5474056946b3"
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f6b2bb5e9a3b49d4ab1db3f431cad320"
    }
   ]
  },
@@ -85,9 +85,39 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 26,
-  "posti": 31,
+  "bandi": 29,
+  "posti": 34,
   "esempi": [
+   {
+    "id": "2fa84834abcf4868b4f69e4e350bdfbd",
+    "profilo": null,
+    "titolo": "Bando per il reclutamento a tempo indeterminato di docenti di prima fascia nei conservatori di musica DPR 83/2024 per a.a. 2026/2027 AFAM030 – Strumenti a tastiera per i nuovi linguaggi musicali - Pianoforte jazz",
+    "figura": "Docente I fascia settore artistico disciplinare - AFAM030 - Pianoforte jazz",
+    "ente": "Conservatorio di Musica A.Boito dI Parma",
+    "posti": 1,
+    "scade": "2026-12-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2fa84834abcf4868b4f69e4e350bdfbd"
+   },
+   {
+    "id": "181d5bce80e749a783ef2a969add0a83",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI PER IL CONSERVATORIO DI MUSICA “F. VENEZZE” DI ROVIGO A.A. 2026/2027 - AFAM002 Chitarra ex CODI/02",
+    "figura": "Docente",
+    "ente": "Conservatorio di Musica 'Francesco Venezze' di Rovigo",
+    "posti": 1,
+    "scade": "2026-12-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=181d5bce80e749a783ef2a969add0a83"
+   },
+   {
+    "id": "210fef1aa90042aeaaef29c261280bd2",
+    "profilo": null,
+    "titolo": "CONCORSO PER TITOLI ED ESAMI AFAM020 CANTO",
+    "figura": "DOCENTE",
+    "ente": "Istituto Superiore di Studi Musicali di Reggio Emilia e Castelnovo Nei Monti",
+    "posti": 1,
+    "scade": "2026-12-19",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=210fef1aa90042aeaaef29c261280bd2"
+   },
    {
     "id": "0b4bf19a6dcc4f65a9f53841d2d0129a",
     "profilo": null,
@@ -107,43 +137,13 @@
     "posti": 1,
     "scade": "2026-12-18",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=020fa816aa3845aba82741b1390ee1e8"
-   },
-   {
-    "id": "ea0d7353434d4543973a7a19b2cebc94",
-    "profilo": null,
-    "titolo": "Bandi reclutamento a tempo indeterminato Docenti",
-    "figura": "Docente AFAM031",
-    "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-    "posti": 1,
-    "scade": "2026-12-17",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ea0d7353434d4543973a7a19b2cebc94"
-   },
-   {
-    "id": "25de84d747884932b7c78cb867038ca9",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER ESAMI E TITOLI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO E PIENO DI N. 1 UNITA’ DI PERSONALE DEL PROFILO DI ACCOMPAGNATORE AL PIANOFORTE PER IL CANTO E PER LO STRUMENTO (Area dei Funzionari - Art. 164 del CCNL Istruzione e Ricerca 2019/2021 – sezione Afam del 18/01/2024)",
-    "figura": "Accompagnatore al pianoforte per il canto e per lo strumento",
-    "ente": "Conservatorio di Musica 'Stanislao Giacomantonio' di Cosenza",
-    "posti": 1,
-    "scade": "2026-12-14",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=25de84d747884932b7c78cb867038ca9"
-   },
-   {
-    "id": "87dd9df5bc0d4b3a96f79346270227e6",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per esami e titoli, per la copertura a tempo pieno e indeterminato di n. 1 posto di Docente di prima fascia per il settore artistico-disciplinare AFAM007 – VIOLONCELLO, CCNL “Istruzione e Ricerca comparto AFAM”, presso la sede del Conservatorio di Musica “C. Monteverdi” di Cremona",
-    "figura": "Docente I fascia a tempo pieno",
-    "ente": "Istituto Superiore di Studi Musicali Claudio Monteverdi",
-    "posti": 1,
-    "scade": "2026-12-14",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=87dd9df5bc0d4b3a96f79346270227e6"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 17,
-  "posti": 18,
+  "bandi": 16,
+  "posti": 17,
   "esempi": [
    {
     "id": "ed27fbc4ad50422894c012fc65bbd92b",
@@ -256,9 +256,19 @@
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 8,
-  "posti": 9,
+  "bandi": 9,
+  "posti": 10,
   "esempi": [
+   {
+    "id": "47d05c78f9ce478e83bc7c504308fe8e",
+    "profilo": null,
+    "titolo": "Comune di Bergamo - Concorso pubblico, per titoli ed esami, per n. 1 unità di personale con profilo professionale di \"Dirigente\" – Ambito dei Servizi Tecnici - Tempo pieno e indeterminato",
+    "figura": "Dirigente",
+    "ente": "Comune di Bergamo - SERVIZIO RISORSE UMANE",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=47d05c78f9ce478e83bc7c504308fe8e"
+   },
    {
     "id": "14129131ec8d4bcb8e76a15e47892202",
     "profilo": null,
@@ -298,23 +308,13 @@
     "posti": 1,
     "scade": "2026-11-24",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6ac178f4ae5045a9962b79180d0de062"
-   },
-   {
-    "id": "de4cb89a93704e10adb1e0f447492aa6",
-    "profilo": null,
-    "titolo": "COMUNE DI SEREGNO - CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA, A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI \"DIRIGENTE” – AREA SERVIZI PER IL TERRITORIO",
-    "figura": "DIRIGENTE",
-    "ente": "Comune di Seregno",
-    "posti": 1,
-    "scade": "2026-11-23",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=de4cb89a93704e10adb1e0f447492aa6"
    }
   ]
  },
  {
   "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 5,
-  "posti": 5,
+  "bandi": 4,
+  "posti": 4,
   "esempi": [
    {
     "id": "b877f23b63fb4b54b97861a07c780bf6",
@@ -329,7 +329,7 @@
    {
     "id": "7a65f6ecd0004188b61547683fb4de10",
     "profilo": null,
-    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILAN0 - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, A N. 1 UNITÀ DI TECNOLOGO DI PRIMO LIVELLO, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO PRESSO IL DIPARTIMENTO DI BIOSCIENZE (COD. 22718)",
+    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILAN0 - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI TECNOLOGO DI PRIMO LIVELLO, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO PRESSO IL DIPARTIMENTO DI BIOSCIENZE (COD. 22718)",
     "figura": "Tecnologo di primo livello",
     "ente": "Universita Degli Studi di Milano",
     "posti": 1,
@@ -355,16 +355,6 @@
     "posti": 1,
     "scade": "2026-12-03",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43140ff44fc44fd594a20e141dfb32ea"
-   },
-   {
-    "id": "a2ceeb2c49794604813eb402f5f61a9b",
-    "profilo": null,
-    "titolo": "Selezione pubblica, per titoli ed esami, per n. 1 Tecnologo di II livello, con contratto di lavoro a tempo determinato e pieno, della durata di 24 mesi, per il Dipartimento di Biologia, nell’ambito del progetto europeo GAP 101113950 - LIFE22-NAT-IT-LIFE TETIDE “Turning Eradication Targets Into Durab",
-    "figura": "Tecnologo",
-    "ente": "Universita' degli Studi di Firenze",
-    "posti": 1,
-    "scade": "2026-11-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a2ceeb2c49794604813eb402f5f61a9b"
    }
   ]
  },
