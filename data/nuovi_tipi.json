@@ -2,8 +2,28 @@
  {
   "gruppo": "ALTRO",
   "bandi": 27,
-  "posti": 260,
+  "posti": 265,
   "esempi": [
+   {
+    "id": "7d61a9f2ca974532a546255994af3324",
+    "profilo": null,
+    "titolo": "Bando di concorso pubblico, per esami, per il reclutamento di n. 1 unità di personale a tempo indeterminato, da inquadrare nell’Area dei Funzionari – settore amministrativo-gestionale – per le esigenze dell’Ufficio Ragioneria della SISSA, posto prioritariamente riservato ai soggetti di cui all’art. ",
+    "figura": "Area dei Funzionari",
+    "ente": "Scuola Internazionale Superiore di Studi Avanzati",
+    "posti": 1,
+    "scade": "2026-12-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7d61a9f2ca974532a546255994af3324"
+   },
+   {
+    "id": "1a3c43e8edf5420a89f789ff3d1cd5f4",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 8 POSTI DI GUARDIA PARTICOLARE GIURATA ARMATA - AREA DEGLI OPERATORI ESPERTI, CON RISERVA DI N. 3 POSTI AI VOLONTARI DELLE FF.AA. AI SENSI DEGLI ARTT. 1014 COMMI 3 E 4 E 678 COMMA 9 DEL D.LGS. 66/2010 E SS.MM.II. E DI",
+    "figura": "GUARDIA PARTICOLARE GIURATA ARMATA",
+    "ente": "Comune di Cagliari",
+    "posti": 8,
+    "scade": "2026-12-18",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1a3c43e8edf5420a89f789ff3d1cd5f4"
+   },
    {
     "id": "053841218dff422ea7c71748cc2c9475",
     "profilo": null,
@@ -17,7 +37,7 @@
    {
     "id": "ee24d25d8a1d4e1ba2ffc8260d4b6734",
     "profilo": null,
-    "titolo": "BANDO DI CONCORSO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI POLIZIA LOCALE E COMMERCIO, A TEMPO PIENO ED INDETERMINATO, DA ASSEGNARE ALL'AREA SERVIZI DI VIGILANZA - CON RISERVA PER I MILITARI",
+    "titolo": "Comune di Dogliani - BANDO DI CONCORSO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI POLIZIA LOCALE E COMMERCIO, A TEMPO PIENO ED INDETERMINATO, DA ASSEGNARE ALL'AREA SERVIZI DI VIGILANZA - CON RISERVA PER I MILITARI",
     "figura": "ISTTRUTTORE DI POLIZIA LOCALE E COMMERCIO",
     "ente": "Comune di Dogliani",
     "posti": 1,
@@ -33,26 +53,6 @@
     "posti": 1,
     "scade": "2026-12-04",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2abb4921c5184e18a60cba3d676ea81f"
-   },
-   {
-    "id": "d140b2ad0996450ab0ab833fdd3f069a",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER IL RIPIANAMENTO DI 18 POSTI PER ORCHESTRALE PRESSO LA BANDA MUSICALE DELL'ARMA DEI CARABINIERI.",
-    "figura": "ORCHESTRALI PRESSO LA BANDA MUSICALE DELL'ARMA DEI CARABINIERI",
-    "ente": "Arma dei Carabinieri - Centro Nazionale Selezione e Reclutamento",
-    "posti": 18,
-    "scade": "2026-12-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d140b2ad0996450ab0ab833fdd3f069a"
-   },
-   {
-    "id": "f6b2bb5e9a3b49d4ab1db3f431cad320",
-    "profilo": null,
-    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per n. 1 Academic & Continuing Education Service Assistant",
-    "figura": "Academic & Continuing Education Service Assistant",
-    "ente": "Politecnico di Milano",
-    "posti": 1,
-    "scade": "2026-12-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f6b2bb5e9a3b49d4ab1db3f431cad320"
    }
   ]
  },
@@ -85,9 +85,49 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 29,
-  "posti": 34,
+  "bandi": 32,
+  "posti": 37,
   "esempi": [
+   {
+    "id": "7df133edac3a477898565b4c2ea9f701",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI N. 1 ACCOMPAGNATORE AL PIANOFORTE",
+    "figura": "Accompagnatore al pianoforte per il canto e per strumento",
+    "ente": "CONSERVATORIO STATALE DI MUSICA L.PEROSI",
+    "posti": 1,
+    "scade": "2026-12-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7df133edac3a477898565b4c2ea9f701"
+   },
+   {
+    "id": "b43de6d8fecf47249d2fbc2ee16e3ed9",
+    "profilo": null,
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO PIENO E INDETERMINATO DI N. 1 DOCENTE DI PRIMA FASCIA PER LA CATTEDRA DI VIOLONCELLO AFAM 007 PRESSO IL CONSERVATORIO DI SIENA “RINALDOFRANCI”",
+    "figura": "Docente di prima fascia",
+    "ente": "Conservatorio di musica \"Rinaldo Franci\" di Siena",
+    "posti": 1,
+    "scade": "2026-12-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b43de6d8fecf47249d2fbc2ee16e3ed9"
+   },
+   {
+    "id": "90b66225aac7425bb0fc390129620d7e",
+    "profilo": null,
+    "titolo": "BANDO DI SELEZIONE PUBBLICA, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO N. 1 POSTO PER IL PROFILO PROFESSIONALE DI DOCENTE DI PRIMA FASCIA PER LE ESIGENZE DEL CONSERVATORIO STATALE DI MUSICA “LUISA D’ANNUNZIO” DI PESCARA A. A. 2026/2027 AFAM007 - VIOLONCELLO (EX CODI/07)",
+    "figura": "Docente prima fascia",
+    "ente": "CONSERVATORIO DI MUSICA LUISA D'ANNUNZIO",
+    "posti": 1,
+    "scade": "2026-12-19",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=90b66225aac7425bb0fc390129620d7e"
+   },
+   {
+    "id": "a75f453646ce4abc8ff0fafa7a191572",
+    "profilo": null,
+    "titolo": "Bando per il reclutamento a tempo indeterminato - AFAM006 (Ex CODI/06) - Violino",
+    "figura": "Docente",
+    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
+    "posti": 1,
+    "scade": "2026-12-19",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a75f453646ce4abc8ff0fafa7a191572"
+   },
    {
     "id": "2fa84834abcf4868b4f69e4e350bdfbd",
     "profilo": null,
@@ -97,54 +137,24 @@
     "posti": 1,
     "scade": "2026-12-21",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2fa84834abcf4868b4f69e4e350bdfbd"
-   },
-   {
-    "id": "181d5bce80e749a783ef2a969add0a83",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI PER IL CONSERVATORIO DI MUSICA “F. VENEZZE” DI ROVIGO A.A. 2026/2027 - AFAM002 Chitarra ex CODI/02",
-    "figura": "Docente",
-    "ente": "Conservatorio di Musica 'Francesco Venezze' di Rovigo",
-    "posti": 1,
-    "scade": "2026-12-20",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=181d5bce80e749a783ef2a969add0a83"
-   },
-   {
-    "id": "210fef1aa90042aeaaef29c261280bd2",
-    "profilo": null,
-    "titolo": "CONCORSO PER TITOLI ED ESAMI AFAM020 CANTO",
-    "figura": "DOCENTE",
-    "ente": "Istituto Superiore di Studi Musicali di Reggio Emilia e Castelnovo Nei Monti",
-    "posti": 1,
-    "scade": "2026-12-19",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=210fef1aa90042aeaaef29c261280bd2"
-   },
-   {
-    "id": "0b4bf19a6dcc4f65a9f53841d2d0129a",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI DI PRIMA FASCIA NEI CONSERVATORI DI MUSICA DPR 83/2024 per a.a. 2026/2027 AFAM028 Strumenti a corde per i nuovi linguaggi musicali - Basso elettrico pop rock;",
-    "figura": "Docente",
-    "ente": "Conservatorio di Musica Antonio Scontrino di Trapani",
-    "posti": 1,
-    "scade": "2026-12-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0b4bf19a6dcc4f65a9f53841d2d0129a"
-   },
-   {
-    "id": "020fa816aa3845aba82741b1390ee1e8",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI PER IL CONSERVATORIO DI MUSICA “F. VENEZZE” DI ROVIGO A.A. 2026/2027 - AFAM006 Violino ex CODI/06",
-    "figura": "Docente",
-    "ente": "Conservatorio di Musica 'Francesco Venezze' di Rovigo",
-    "posti": 1,
-    "scade": "2026-12-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=020fa816aa3845aba82741b1390ee1e8"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 16,
-  "posti": 17,
+  "bandi": 17,
+  "posti": 18,
   "esempi": [
+   {
+    "id": "204cdfc29e404e52945d3a30d951b896",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per n. 1 Research Legal Advisor",
+    "figura": "Research Legal Advisor",
+    "ente": "Politecnico di Milano",
+    "posti": 1,
+    "scade": "2026-12-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=204cdfc29e404e52945d3a30d951b896"
+   },
    {
     "id": "ed27fbc4ad50422894c012fc65bbd92b",
     "profilo": null,
@@ -184,23 +194,13 @@
     "posti": 1,
     "scade": "2026-12-14",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fdd467994b4e403283eab8ce7f99c0bc"
-   },
-   {
-    "id": "794fc684d4294547b6c9cbc150759073",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI UN POSTO A TEMPO PART-TIME (18 ORE SETTIMANALI) E INDETERMINATO AREA DEGLI ISTRUTTORI PROFILO DI ISTRUTTORE TECNICO DA ASSEGNARE ALL’ AREA LAVORI PUBBLICI E PATRIMONIO",
-    "figura": "ISTRUTTORE TECNICO DA ASSEGNARE ALL' AREA LAVORI PUBBLICI E PATRIMONIO",
-    "ente": "Comune di Schilpario",
-    "posti": 1,
-    "scade": "2026-12-03",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=794fc684d4294547b6c9cbc150759073"
    }
   ]
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 8,
-  "posti": 14,
+  "bandi": 7,
+  "posti": 13,
   "esempi": [
    {
     "id": "b69f58e359c449cca6be1bd98253cd43",
@@ -313,8 +313,8 @@
  },
  {
   "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 4,
-  "posti": 4,
+  "bandi": 3,
+  "posti": 3,
   "esempi": [
    {
     "id": "b877f23b63fb4b54b97861a07c780bf6",
@@ -335,16 +335,6 @@
     "posti": 1,
     "scade": "2026-12-02",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7a65f6ecd0004188b61547683fb4de10"
-   },
-   {
-    "id": "17af90e5a72e4145b7e1d8c6f0fe59f5",
-    "profilo": null,
-    "titolo": "Università degli Studi di Padova - Concorso pubblico n. 2026S31, per esami, al fine di reperire n. 1 Tecnologo di Ricerca di secondo livello (categoria stipendiale pari alla ex cat. D3), da assumere mediante contratto di lavoro a termine, per 18 ore settimanali (tempo parziale, part-time 50%), per n",
-    "figura": "Tecnologo di Ricerca di secondo livello",
-    "ente": "Universita' degli Studi di Padova",
-    "posti": 1,
-    "scade": "2026-11-20",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=17af90e5a72e4145b7e1d8c6f0fe59f5"
    },
    {
     "id": "43140ff44fc44fd594a20e141dfb32ea",
