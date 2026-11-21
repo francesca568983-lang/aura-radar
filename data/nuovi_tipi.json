@@ -1,8 +1,8 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 27,
-  "posti": 265,
+  "bandi": 26,
+  "posti": 264,
   "esempi": [
    {
     "id": "7d61a9f2ca974532a546255994af3324",
@@ -85,66 +85,76 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 32,
-  "posti": 37,
+  "bandi": 41,
+  "posti": 47,
   "esempi": [
    {
-    "id": "7df133edac3a477898565b4c2ea9f701",
+    "id": "6deca47599964807af2f6d666f423efb",
     "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI N. 1 ACCOMPAGNATORE AL PIANOFORTE",
-    "figura": "Accompagnatore al pianoforte per il canto e per strumento",
-    "ente": "CONSERVATORIO STATALE DI MUSICA L.PEROSI",
+    "titolo": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO DEFINITO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA “V. BELLINI” DI CALTANISSETTA SETTORE ARTISTICO DISCIPLINARE AFAM004 “CONTRABBASSO”",
+    "figura": "Docente di prima fascia AFAM",
+    "ente": "Istituto Superiore di Studi Musicali Vincenzo Bellini di Caltanissetta",
     "posti": 1,
-    "scade": "2026-12-21",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7df133edac3a477898565b4c2ea9f701"
+    "scade": "2026-12-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6deca47599964807af2f6d666f423efb"
    },
    {
-    "id": "b43de6d8fecf47249d2fbc2ee16e3ed9",
+    "id": "19a5d3b9067f41c398ee4a506eec844d",
     "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO PIENO E INDETERMINATO DI N. 1 DOCENTE DI PRIMA FASCIA PER LA CATTEDRA DI VIOLONCELLO AFAM 007 PRESSO IL CONSERVATORIO DI SIENA “RINALDOFRANCI”",
-    "figura": "Docente di prima fascia",
-    "ente": "Conservatorio di musica \"Rinaldo Franci\" di Siena",
+    "titolo": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN DOCENTE PRESSO IL CONSERVATORIO STATALE DI MUSICA “V. BELLINI” DI CALTANISSETTA SETTORE ARTISTICO DISCIPLINARE AFAM020 “CANTO”",
+    "figura": "Docente di prima fascia AFAM",
+    "ente": "Istituto Superiore di Studi Musicali Vincenzo Bellini di Caltanissetta",
     "posti": 1,
-    "scade": "2026-12-21",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b43de6d8fecf47249d2fbc2ee16e3ed9"
+    "scade": "2026-12-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19a5d3b9067f41c398ee4a506eec844d"
    },
    {
-    "id": "90b66225aac7425bb0fc390129620d7e",
+    "id": "0b76f172452c49a39d5b6b89add70341",
     "profilo": null,
-    "titolo": "BANDO DI SELEZIONE PUBBLICA, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO N. 1 POSTO PER IL PROFILO PROFESSIONALE DI DOCENTE DI PRIMA FASCIA PER LE ESIGENZE DEL CONSERVATORIO STATALE DI MUSICA “LUISA D’ANNUNZIO” DI PESCARA A. A. 2026/2027 AFAM007 - VIOLONCELLO (EX CODI/07)",
-    "figura": "Docente prima fascia",
-    "ente": "CONSERVATORIO DI MUSICA LUISA D'ANNUNZIO",
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI NEI CONSERVATORI DI MUSICA – DPR 83/2024 A.A. 2026/2027 AFAM012: Flauto",
+    "figura": "DOCENTE DI PRIMA FASCIA",
+    "ente": "Conservatorio di Musica Giuseppe Verdi di Milano",
     "posti": 1,
-    "scade": "2026-12-19",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=90b66225aac7425bb0fc390129620d7e"
+    "scade": "2026-12-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0b76f172452c49a39d5b6b89add70341"
    },
    {
-    "id": "a75f453646ce4abc8ff0fafa7a191572",
+    "id": "a5b802f955a14199903fc4396e87b13d",
     "profilo": null,
-    "titolo": "Bando per il reclutamento a tempo indeterminato - AFAM006 (Ex CODI/06) - Violino",
-    "figura": "Docente",
-    "ente": "CONSERVATORIO STATALE DI MUSICA L. CANEPA",
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI NEI CONSERVATORI DI MUSICA – DPR 83/2024 A.A. 2026/2027 AFAM020: Canto",
+    "figura": "DOCENTE DI PRIMA FASCIA",
+    "ente": "Conservatorio di Musica Giuseppe Verdi di Milano",
     "posti": 1,
-    "scade": "2026-12-19",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a75f453646ce4abc8ff0fafa7a191572"
+    "scade": "2026-12-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5b802f955a14199903fc4396e87b13d"
    },
    {
-    "id": "2fa84834abcf4868b4f69e4e350bdfbd",
+    "id": "e3527970b6854ec8bb2de3e8b1f900a7",
     "profilo": null,
-    "titolo": "Bando per il reclutamento a tempo indeterminato di docenti di prima fascia nei conservatori di musica DPR 83/2024 per a.a. 2026/2027 AFAM030 – Strumenti a tastiera per i nuovi linguaggi musicali - Pianoforte jazz",
-    "figura": "Docente I fascia settore artistico disciplinare - AFAM030 - Pianoforte jazz",
-    "ente": "Conservatorio di Musica A.Boito dI Parma",
+    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI NEI CONSERVATORI DI MUSICA – DPR 83/2024 A.A. 2026/2027 AFAM029 STRUMENTI A FIATO PER I NUOVI LINGUAGGI MUSICALI (EX COMJ/06: SAXOFONO JAZZ)",
+    "figura": "DOCENTE DI PRIMA FASCIA",
+    "ente": "Conservatorio di Musica Giuseppe Verdi di Milano",
     "posti": 1,
-    "scade": "2026-12-21",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2fa84834abcf4868b4f69e4e350bdfbd"
+    "scade": "2026-12-20",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e3527970b6854ec8bb2de3e8b1f900a7"
    }
   ]
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 17,
-  "posti": 18,
+  "bandi": 18,
+  "posti": 19,
   "esempi": [
+   {
+    "id": "75d35ef05c984decbbd6cd0324dd0e71",
+    "profilo": null,
+    "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) - CONCORSO PUBBLICO PER N. 1 INCARICO A TEMPO DETERMINATO RICERCATORE SANITARIO PER TRE ANNI, EVENTUALMENTE PROROGABILI, (BANDO FIS 3) PROGETTO “A MULTIMODAL TRANSLATIONAL APPROACH TO PREDICTIVE CODING DYSFUNCTIONS IN SCHIZOPHRENIA: MECHANISMS, BIOMARKERS, AND",
+    "figura": "Ricercatore Sanitario",
+    "ente": "IRCCS Ospedale Policlinico San Martino",
+    "posti": 1,
+    "scade": "2026-12-21",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=75d35ef05c984decbbd6cd0324dd0e71"
+   },
    {
     "id": "204cdfc29e404e52945d3a30d951b896",
     "profilo": null,
@@ -184,23 +194,13 @@
     "posti": 1,
     "scade": "2026-12-16",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=470ffece4b2c4e2da971c6af05bda8da"
-   },
-   {
-    "id": "fdd467994b4e403283eab8ce7f99c0bc",
-    "profilo": null,
-    "titolo": "AZIENDA OSPEDALIERA METROPOLITANA (AOM) CONCORSO PUBBLICO, PER 1 INCARICO A TEMPO DETERMINATO, RICERCATORE SANITARIO, TRE ANNI, EVENTUALMENTE PROROGABILI, BANDO FIS 3 - PROGETTO “DEFINING THE FUNCTIONAL ROLES OF THE SH2-CONTAINING INOSITOL 5-PHOSPHATASE PARALOGS IN IPSC DERIVED MICROGLIA AND TRI-CUL",
-    "figura": "Ricercatore Sanitario",
-    "ente": "IRCCS Ospedale Policlinico San Martino",
-    "posti": 1,
-    "scade": "2026-12-14",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fdd467994b4e403283eab8ce7f99c0bc"
    }
   ]
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 7,
-  "posti": 13,
+  "bandi": 6,
+  "posti": 11,
   "esempi": [
    {
     "id": "b69f58e359c449cca6be1bd98253cd43",
