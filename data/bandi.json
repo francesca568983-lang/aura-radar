@@ -1426,28 +1426,6 @@
 "struttura_letta": {}
 },
 {
-"id": "e8f50c6cc31f453c88eae2b0fa1d8cae",
-"profilo": "agente-di-polizia-locale",
-"titolo": "Comune di Somma Lombardo - Bando di concorso pubblico, per esami, per la copertura di n. 4 posti di agente di polizia locale, Settore polizia locale, area degli istruttori, a tempo pieno e indeterminato",
-"figura": "Agente di Polizia Locale, Area Istruttori",
-"ente": "Comune di Somma Lombardo",
-"posti": 4,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e8f50c6cc31f453c88eae2b0fa1d8cae",
-"struttura_letta": {}
-},
-{
-"id": "a4eca1c484f44388b190cbba5c5a362c",
-"profilo": "istruttore-tecnico",
-"titolo": "CONCORSO PER ESAMI PER N. 4 UNITÀ DI ISTRUTTORE TECNICO, CATEGORIA C, A TEMPO PIENO E INDETERMINATO - CCRL REGIONE SARDEGNA.",
-"figura": "Istruttore Tecnico",
-"ente": "Agenzia Regionale per la Protezione dell'Ambiente della Sardegna",
-"posti": 4,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a4eca1c484f44388b190cbba5c5a362c",
-"struttura_letta": {}
-},
-{
 "id": "4d4ddcb458574a44b3ab2b2b9eadd0d0",
 "profilo": "agente-di-polizia-locale",
 "titolo": "Concorso pubblico per esami per l'assunzione a tempo pieno e indeterminato di n. 4 unità nell'area degli Istruttori con profilo professionale di Agente di Polizia Locale.",
@@ -1462,6 +1440,17 @@
 "frase": "8 – Valutazione delle prove Il superamento di ciascuna prova d’esame è subordinato al raggiungimento di un punteggio minimo non inferiore a 21/30, ad eccezione della prova di efficienza fisica ove non viene assegnato alcun punteggio ma soltanto un giudizio di idoneità/inidoneità"
 }
 }
+},
+{
+"id": "45cf43abf28f48938bf07f4d25653ef6",
+"profilo": "infermiere",
+"titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 3 POSTI PROFILO PROFESSIONALE INFERMIERE – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI -(RUOLO SANITARIO) CON CONTRATTO A TEMPO INDETERMINATO E PIENO PRESSO L’AZIENDA A.S.P. MUZI BETTI",
+"figura": "INFERMIERE",
+"ente": "Azienda Pubblica di Servizi alla Persona",
+"posti": 3,
+"scade": "2026-12-22",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=45cf43abf28f48938bf07f4d25653ef6",
+"struttura_letta": {}
 },
 {
 "id": "70517a0dd4404bfe953a0b1e77e6312e",
@@ -1740,17 +1729,6 @@
 "frase": "Per accedere alla prova orale il/la candidato/a deve aver raggiunto la sufficienza nella prova scritta (punteggio maggiore o uguale a 21/30)"
 }
 }
-},
-{
-"id": "e92dfe2174a8415d85ac3685d936ad00",
-"profilo": "oss-operatore-socio-sanitario",
-"titolo": "BANDO DI CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI TRE POSTI DI OPERATORE SOCIO SANITARIO (Area degli Operatori Esperti ex cat. B/B3 CCNL Comparto Funzioni Locali) - ASP AZALEA",
-"figura": "Operatore Socio Sanitario",
-"ente": "Asp Azalea Azienda di Servizi alla Persona del Distretto di Ponente",
-"posti": 3,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e92dfe2174a8415d85ac3685d936ad00",
-"struttura_letta": {}
 },
 {
 "id": "6024f9b510ba474fa7fe2120d7df3954",
@@ -2894,33 +2872,6 @@
 "struttura_letta": {}
 },
 {
-"id": "67c8e1e4b94b43bba3c24a02e50775cb",
-"profilo": "istruttore-amministrativo-contabile",
-"titolo": "CONCORSO ISTRUTTORE AMMINISTRATIVO CONTABILE",
-"figura": "Istruttore amministrativo contabile",
-"ente": "Comune di Martinsicuro",
-"posti": 2,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67c8e1e4b94b43bba3c24a02e50775cb",
-"struttura_letta": {}
-},
-{
-"id": "16175df4841047ab876bc95e65630d02",
-"profilo": "istruttore-tecnico",
-"titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE DI N. 2 UNITA’ DI PERSONALE A TEMPO INDETERMINATO E PIENO CON PROFILO DI ISTRUTTORE TECNICO – AREA DEGLI ISTRUTTORI",
-"figura": "istruttore tecnico",
-"ente": "Comune di Fiano Romano",
-"posti": 2,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=16175df4841047ab876bc95e65630d02",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "La prova d’esame scritta si considera superata con il conseguimento del punteggio minimo di 21/30"
-}
-}
-},
-{
 "id": "0f946a93cdea45d7ad09cb9b3d246787",
 "profilo": "istruttore-di-vigilanza",
 "titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E PIENO Dl N. 2 POSTO NEL PROFILO PROFESSIONALE DI ISTRUTTORE DI VIGILANZA - AREA DEGLI ISTRUTTORI DI CUI N. 1 POSTO RISERVATO AI VOLONTARI DELLE FF.AA. AI SENSI DEGLI ARTT. 1014 E 678 DEL D. LGS. N. 66/2010)",
@@ -2929,17 +2880,6 @@
 "posti": 2,
 "scade": "2026-12-19",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0f946a93cdea45d7ad09cb9b3d246787",
-"struttura_letta": {}
-},
-{
-"id": "f6740916d3134909ac961f59d20d0275",
-"profilo": "istruttore-amministrativo",
-"titolo": "CONSORZIO POLIZIA MUNICIPALE PADOVA OVEST - CONCORSO PUBBLICO PER L'ASSUNZIONE DI N. 02 ISTRUTTORI DI POLIZIA LOCALE",
-"figura": "ISTRUTTORE DI POLIZIA LOCALE",
-"ente": "Consorzio Polizia Municipale Padova Ovest",
-"posti": 2,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f6740916d3134909ac961f59d20d0275",
 "struttura_letta": {}
 },
 {
@@ -2959,17 +2899,6 @@
 }
 },
 {
-"id": "d0feb0ea619e4b16b4e16d4d374bc1e7",
-"profilo": "istruttore-tecnico",
-"titolo": "COMUNE DI MARENO DI PIAVE - TV - BANDO DI CONCORSO PUBBLICO PER ESAMI PER N. 2 POSTI A TEMPO PIENO E INDETERMINATO DI ISTRUTTORE SERVIZI TECNICI - AREA DEGLI ISTRUTTORI",
-"figura": "ISTRUTTORE SERVIZI TECNICI",
-"ente": "Comune di Mareno di Piave - 2 Servizio - Economico Finanziario e Personale",
-"posti": 2,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d0feb0ea619e4b16b4e16d4d374bc1e7",
-"struttura_letta": {}
-},
-{
 "id": "0033271159a941f0929cf9a754b57dd9",
 "profilo": "docenti-secondaria-parte-generale",
 "titolo": "D.D.G. 2939/2025 – Concorso secondaria – Classe di concorso A062",
@@ -2979,6 +2908,38 @@
 "scade": "2027-02-10",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0033271159a941f0929cf9a754b57dd9",
 "struttura_letta": {}
+},
+{
+"id": "31c25704cbbe4b7fbc9f6e3eccaa1810",
+"profilo": "funzionario-amministrativo",
+"titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 UNITÀ NEL PROFILO DI FUNZIONARIO AMBIENTALE – AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE – CON LA RISERVA DI CUI AL PRESENTE BANDO.",
+"figura": "FUNZIONARIO AMBIENTALE",
+"ente": "Provincia di Barletta Andria Trani - Settore Polizia Provincia, Protezione Civile, Agricoltura e Aziende Agricole - Personale",
+"posti": 1,
+"scade": "2026-12-22",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=31c25704cbbe4b7fbc9f6e3eccaa1810",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata se il candidato avrà riportato un punteggio pari ad almeno 21/30"
+}
+}
+},
+{
+"id": "c51ab2d99b794cea807e5240050a4e23",
+"profilo": "funzionario-tecnico",
+"titolo": "CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI UN POSTO DI FUNZIONARIO TECNICO A TEMPO PARZIALE (50%) E INDETERMINATO",
+"figura": "Funzionario tecnico",
+"ente": "Comune di Formigara",
+"posti": 1,
+"scade": "2026-12-07",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c51ab2d99b794cea807e5240050a4e23",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il punteggio minimo per ritenere superata ciascuna prova (scritta e orale) è 21/30"
+}
+}
 },
 {
 "id": "76a1368e0ed343b1ac65a74272c05dcd",
@@ -6560,28 +6521,6 @@
 "struttura_letta": {}
 },
 {
-"id": "3958c4480a474515bfece1fddbcf4cd3",
-"profilo": "funzionario-contabile",
-"titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO CONTABILE A TEMPO PIENO E INDETERMONATO",
-"figura": "FUNZIONARIO CONTABILE - AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE",
-"ente": "Comune di Villanovafranca",
-"posti": 1,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3958c4480a474515bfece1fddbcf4cd3",
-"struttura_letta": {}
-},
-{
-"id": "a6dc6903b88342a5885f4bc1ac055f87",
-"profilo": "istruttore-contabile",
-"titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI 1 POSTO DI ISTRUTTORE CONTABILE A TEMPO PIENO E INDETERMINATO",
-"figura": "ISTRUTTORE CONTABILE",
-"ente": "Comune di Villanovafranca",
-"posti": 1,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6dc6903b88342a5885f4bc1ac055f87",
-"struttura_letta": {}
-},
-{
 "id": "fa8161fcc90141c195e4e90e3cfc516a",
 "profilo": "operatore-esperto-ex-cat-b",
 "titolo": "copertura di N. 1 POSTO A TEMPO PARZIALE (17 ORE SETTIMANALI) E INDETERMINATO, nel profilo professionale di OPERATORE ESPERTO TECNICO-MANUTENTIVO –Area degli Operatori esperti – CCNL Comparto Funzioni Locali",
@@ -6610,17 +6549,6 @@
 "posti": 1,
 "scade": "2026-11-30",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f8f776ef302f49099d5d0e8b7ce3bba6",
-"struttura_letta": {}
-},
-{
-"id": "560ced927b91470ca52d7ba0052a2fcc",
-"profilo": "istruttore-amministrativo",
-"titolo": "CONCORSO PUBBLICO PER TITOLI ED ESAMI PER 1 POSTO DI ISTRUTTORE AMMINISTRATIVO PART TIME A TEMPO INDETERMINATO",
-"figura": "ISTRUTTORE AMMINISTRATIVO",
-"ente": "Comune di Villanovafranca",
-"posti": 1,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=560ced927b91470ca52d7ba0052a2fcc",
 "struttura_letta": {}
 },
 {
@@ -7905,22 +7833,6 @@
 "soglia30": {
 "valore": 21,
 "frase": "enti/materie di cui alla prova orale; (Si precisa che accederanno alla prova orale i candidati che avranno riportato nella prova scritta il punteggio minimo di 21/30) Prova orale sui seguenti argomenti:  nozioni del D"
-}
-}
-},
-{
-"id": "ba280dd3e66940f8aa075a22534a0671",
-"profilo": "docenti-infanzia-e-primaria",
-"titolo": "COMUNE DI DALMINE- CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO PIENO E DETERMINATO DI N. 1 “INSEGNANTE SCUOLA DELL’INFANZIA” – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE – DA ASSEGNARE ALLA DIREZIONE 3 SERVIZI ALLA PERSONA (CCNL FUNZIONI LOCALI)",
-"figura": "Insegnante scuola dell'Infanzia- Funzionario",
-"ente": "Comune di Dalmine",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ba280dd3e66940f8aa075a22534a0671",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Saranno ammessi alla prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
 }
 }
 },
@@ -9387,22 +9299,6 @@
 }
 },
 {
-"id": "c1db604c349d4d1dad9b110ad43f82da",
-"profilo": "istruttore-tecnico",
-"titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE DI N. 1 ISTRUTTORE TECNICO AREA DEGLI ISTRUTTORI, A TEMPO PIENO E INDETERMINATO, DA ASSEGNARE AL IV^ SETTORE – LAVORI PUBBLICI E MANUTENZIONI",
-"figura": "Istruttore tecnico",
-"ente": "Comune di Romano D'Ezzelino",
-"posti": 1,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c1db604c349d4d1dad9b110ad43f82da",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Saranno ammessi alla prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
-}
-}
-},
-{
 "id": "cd0c608814134b3dbc26d24bcd5c75f1",
 "profilo": "istruttore-tecnico",
 "titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI 1 (UNO) POSTO A TEMPO PIENO (36 ORE) E INDETERMINATO NEL PROFILO DI ISTRUTTORE TECNICO, AREA DEGLI ISTRUTTORI, DA ASSEGNARE ALL’AREA EDILIZIA PRIVATA - URBANISTICA – SUAP – COMMERCIO",
@@ -9419,28 +9315,6 @@
 }
 },
 {
-"id": "f55151436d5a4657a0866f74d65ae176",
-"profilo": "funzionario-tecnico",
-"titolo": "SELEZIONE PUBBLICA, PER ESAMI, PER L’ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 UNITA’ DI PERSONALE CON PROFILO PROFESSIONALE DI “FUNZIONARIO TECNICO” – AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL CCNL 16.11.2022 PRESSO IL SETTORE TECNICO DEL COMUNE DI CONCESIO CON PREVISIONE DELL’E",
-"figura": "Funzionario Tecnico",
-"ente": "Comune di Concesio",
-"posti": 1,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f55151436d5a4657a0866f74d65ae176",
-"struttura_letta": {}
-},
-{
-"id": "df8f1e5fff9a4235863dc90a768b9d69",
-"profilo": "funzionario-tecnico",
-"titolo": "COMUNE DI MARTELLAGO - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 UNITÀ DI PERSONALE CON IL PROFILO DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI, DA ASSEGNARE AL SETTORE GESTIONE DEL TERRITORIO, SERVIZIO LAVORI PUBBLICI ED ESPROPR",
-"figura": "FUNZIONARIO TECNICO",
-"ente": "Comune di Martellago",
-"posti": 1,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=df8f1e5fff9a4235863dc90a768b9d69",
-"struttura_letta": {}
-},
-{
 "id": "c29033d985cc4ebbad65c1d0c94ff029",
 "profilo": "funzionario-tecnico",
 "titolo": "COMUNE DI CUASSO AL MONTE - SELEZIONE PUBBLICA, PER ESAMI, FINALIZZATA ALLA COPERTURA DI N. 1 POSTO PROFILO FUNZIONARIO TECNICO – AREA FUNZIONARI ED ELEVATA QUALIFICAZIONE – TEMPO INDETERMINATO, TEMPO PARZIALE 18 ORE, AREA TECNICA",
@@ -9449,17 +9323,6 @@
 "posti": 1,
 "scade": "2026-11-22",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c29033d985cc4ebbad65c1d0c94ff029",
-"struttura_letta": {}
-},
-{
-"id": "1d140ade024d4f4eb37f9517905814a6",
-"profilo": "funzionario-tecnico",
-"titolo": "Funzionario Tecnico AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE (EX CAT. D) DA ASSEGNARE ALL’AREA GESTIONE DEL TERRITORIO.",
-"figura": "Funzionario tecnico",
-"ente": "Comune di Cantu'",
-"posti": 1,
-"scade": "2026-11-21",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1d140ade024d4f4eb37f9517905814a6",
 "struttura_letta": {}
 },
 {
