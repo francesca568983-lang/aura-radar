@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 26,
-  "posti": 264,
+  "bandi": 27,
+  "posti": 265,
   "esempi": [
+   {
+    "id": "5e171804e8df46c5954b6f8b15369d1d",
+    "profilo": null,
+    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO, TEMPO PIENO E INDETERMINATO, DI FUNZIONARIO/A FARMACISTA",
+    "figura": "FARMACISTA",
+    "ente": "Comune di Opera",
+    "posti": 1,
+    "scade": "2026-12-22",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5e171804e8df46c5954b6f8b15369d1d"
+   },
    {
     "id": "7d61a9f2ca974532a546255994af3324",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-12-09",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ee24d25d8a1d4e1ba2ffc8260d4b6734"
-   },
-   {
-    "id": "2abb4921c5184e18a60cba3d676ea81f",
-    "profilo": null,
-    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILAN0 - CONCORSO PUBBLICO, PER ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE AFFERENTE ALL’AREA DEI FUNZIONARI – SETTORE AMMINISTRATIVO-GESTIONALE, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO E PARZIALE ALL’83,33% PRESSO IL DIPARTIMENTO DI SCIENZE PER GL",
-    "figura": "Area dei Funzionari",
-    "ente": "Universita Degli Studi di Milano",
-    "posti": 1,
-    "scade": "2026-12-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2abb4921c5184e18a60cba3d676ea81f"
    }
   ]
  },
@@ -256,8 +256,8 @@
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 9,
-  "posti": 10,
+  "bandi": 8,
+  "posti": 9,
   "esempi": [
    {
     "id": "47d05c78f9ce478e83bc7c504308fe8e",

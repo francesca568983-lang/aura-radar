@@ -516,6 +516,17 @@
 "struttura_letta": {}
 },
 {
+"id": "140b483d883745b498cd94b3c85dcdf7",
+"profilo": "operaio-specializzato-operatore-tecnico",
+"titolo": "AVVISO PUBBLICO MEDIANTE PROCEDURA SELETTIVA PUBBLICA, per titoli ed esami, per l’assunzione complessiva di n. 20 operai con contratto a tempo pieno e indeterminato per lo svolgimento di attività, con qualifica di operaio idraulico-forestale 4° livello “operaio specializzato” - del “Contratto collet",
+"figura": "Operaio idraulici-forestale 4° livello (operaio specializzato)",
+"ente": "Agenzia Regionale Attivita Irrigue e Forestali",
+"posti": 20,
+"scade": "2026-12-14",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=140b483d883745b498cd94b3c85dcdf7",
+"struttura_letta": {}
+},
+{
 "id": "c5eea00402d6401abe9ac5415a12fefa",
 "profilo": "infermiere",
 "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 20 POSTI NEL PROFILO DI INFERMIERE - AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI CON CONTRATTO DI LAVORO A TEMPO PIENO E INDETERMINATO, DA ASSEGNARE ALLE STRUTTURE OSPEDALIERE E TERRITORIALI.",
@@ -768,6 +779,22 @@
 }
 },
 {
+"id": "80114bbe2f3e43ac8a42389a73722298",
+"profilo": "infermiere",
+"titolo": "Concorso pubblico per esami per la copertura di n. 11 posti a tempo indeterminato e tempo pieno di Infermiere - Area dei Funzionari e dell'Elevata Qualificazione (CCNL Funzioni Locali)",
+"figura": "INFERMIERE",
+"ente": "Azienda di Servizi alla Persona del Distretto di Parma",
+"posti": 11,
+"scade": "2026-12-08",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=80114bbe2f3e43ac8a42389a73722298",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova è superata con un punteggio di almeno 21/30"
+}
+}
+},
+{
 "id": "a1137114a62347d2b97ab2bf36c4fe2d",
 "profilo": "istruttore-amministrativo",
 "titolo": "COMUNE DI GENOVA_CONCORSO PUBBLICO, PER ESAMI, PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N. 10 ISTRUTTORI AMMINISTRATIVI – PROFILO DI RUOLO ISTRUTTORE PROCESSI AMMINISTRATIVI AREA DEGLI ISTRUTTORI, INTERAMENTE RISERVATO A SOGGETTI ISCRITTI NEGLI ELENCHI DI CUI ALL’ART. 8, COMMA 2, DELLA LEG",
@@ -847,6 +874,17 @@
 "frase": "12 quesiti comuni ai codici di concorso di cui al precedente articolo 1, comma 1, del presente bando volti a verificare la conoscenza afferente alle seguenti materie: - E"
 }
 }
+},
+{
+"id": "5035ab1125254db2b2aa0bce5b890632",
+"profilo": "funzionario-amministrativo",
+"titolo": "Procedura selettiva pubblica per la copertura di n. 14 posti dell’Area “Funzionari ed Elevata Qualificazione” C.C.N.L. Funzioni Locali – ambito di ruolo “Fondi nazionali/europei/internazionali”.",
+"figura": "Esperto/a gestione procedure amministrative",
+"ente": "Regione Emilia Romagna",
+"posti": 8,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5035ab1125254db2b2aa0bce5b890632",
+"struttura_letta": {}
 },
 {
 "id": "b45d809f48f14e718c3975a8e676e90b",
@@ -1244,6 +1282,33 @@
 "frase": "superamento della prova scritta e della prova pratica, è subordinato al raggiungimento di una valutazione di sufficienza espressa in termini numerici di almeno 21/30"
 }
 }
+},
+{
+"id": "e53a146e10c84807b4e33e63e3f24aa3",
+"profilo": "infermiere",
+"titolo": "CONCORSO PUBBLICO PER L’ASSUNZIONE A TEMPO INDETERMINATO E A TEMPO PIENO DI QUATTRO UNITÀ CON PROFILO PROFESSIONALE DI INFERMIERE PRESSO L'ISTITUTO EMILIO BIAZZI IPAB",
+"figura": "Infermiere",
+"ente": "Istituto Emilio Biazzi - I.P.A.B - Struttura Protetta",
+"posti": 4,
+"scade": "2026-12-08",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e53a146e10c84807b4e33e63e3f24aa3",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La commissione disporrà di complessivi 60 punti, 30 punti per ciascuna delle due prove, che si intendono superate con una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "2d1f6113821e4af0a1ef9e319cf9b527",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "Concorso pubblico, per esami, per n. 4 unità di personale, da inquadrare nell’Area dei Collaboratori del Settore delle Biblioteche, con contratto di lavoro subordinato a tempo indeterminato e pieno, da assegnare all’Area per la Valorizzazione del patrimonio Culturale, per le esigenze del Sistema Bib",
+"figura": "Collaboratore",
+"ente": "Universita' degli Studi di Firenze",
+"posti": 4,
+"scade": "2026-12-22",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2d1f6113821e4af0a1ef9e319cf9b527",
+"struttura_letta": {}
 },
 {
 "id": "2d7f41f665984f2796baba03e34e18bb",
@@ -1750,6 +1815,69 @@
 "posti": 3,
 "scade": "2026-12-12",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=edc10a6c1c8b46bd80a6ce7cd57878ee",
+"struttura_letta": {}
+},
+{
+"id": "0a002d79cdd1471db776fe6d17d49743",
+"profilo": "istruttore-amministrativo",
+"titolo": "COMUNE DI LABICO_BANDO DI CONCORSO PUBBLICO, PER ESAMI, FINALIZZATO ALLA COPERTURA DI N. 2 UNITA’ DA INQUADRARE NELL’AREA DEGLI ISTRUTTORI (PROFILO ISTRUTTORE AMMINISTRATIVO).",
+"figura": "ISTRUTTORE AMMINISTRATIVO",
+"ente": "Comune di Labico",
+"posti": 2,
+"scade": "2026-12-03",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0a002d79cdd1471db776fe6d17d49743",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "L’eventuale preselezione si intenderà superata da parte dei concorrenti che avranno conseguito una votazione minima di 21/30: tale votazione non concorrerà alla formazione del p"
+},
+"minuti": {
+"valore": 90,
+"frase": "La prova scritta, la cui durata effettiva sarà stabilita dalla Commissione nel limite massimo 90 minuti, consisterà in domande a risposta chiusa o aperta relative alle materie oggetto delle prove d’esame su uno o più dei seguenti argomenti:  Diritto amministrati"
+}
+}
+},
+{
+"id": "032a40b121c34183960d3b19ae8e9884",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "Concorso pubblico, per titoli ed esami, per il reclutamento di n. 2 unità di personale tecnico amministrativo dell’Area dei Funzionari – settore tecnico-informatico - a tempo indeterminato, con orario di lavoro a tempo pieno, per le esigenze del Servizio per la Salute e la Sicurezza nei luoghi di la",
+"figura": "Funzionario - sicurezza e salute",
+"ente": "Universita' degli Studi di Pavia",
+"posti": 2,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=032a40b121c34183960d3b19ae8e9884",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "MODALITÀ DI RIPARTIZIONE DEI PUNTEGGI DELLE SINGOLE PROVE Le prove si intendono superate se il candidato consegue, in ciascuna di esse, un punteggio di almeno 21/30 o equivalente"
+}
+}
+},
+{
+"id": "79305322ef354f8daa5c5193b40ed06d",
+"profilo": "istruttore-tecnico",
+"titolo": "COMUNITA' MONTANA ALBURNI - N. 2 POSTI “ISTRUTTORE TECNICO-FORESTALE” A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI).",
+"figura": "Istruttore Tecnico - Forestale",
+"ente": "Comunita Montana Alburni",
+"posti": 2,
+"scade": "2026-12-22",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=79305322ef354f8daa5c5193b40ed06d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Sono ammessi alla prova orale i candidati che abbiano conseguito un punteggio non inferiore a 21/30 (ventuno trentesimi)"
+}
+}
+},
+{
+"id": "b98a0b93a47a4b0796d1ac027544cec5",
+"profilo": "collaboratore-amministrativo",
+"titolo": "Concorso per titoli ed esami per 2 posti per il profilo professionale di Collaboratore di Amministrazione di VII livello professionale con contratto di lavoro a tempo determinato - cod. TD/GE/C7/29200",
+"figura": "Collaboratore di Amministrazione di VII livello professionale",
+"ente": "Istituto Nazionale di Fisica Nucleare",
+"posti": 2,
+"scade": "2026-12-03",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b98a0b93a47a4b0796d1ac027544cec5",
 "struttura_letta": {}
 },
 {
@@ -2550,26 +2678,6 @@
 "struttura_letta": {}
 },
 {
-"id": "906f1e67b4a743159b49e278c3b5786b",
-"profilo": "funzionario-tecnico",
-"titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 2 POSTI DI FUNZIONARIO TECNICO, AREA DEI FUNZIONARI ED ELEVATE QUALIFICAZIONI CON RISERVA DI N.1 POSTO AI SENSI DELL’ART. 18, COMMA 4, DEL D.LGS. 40/2017",
-"figura": "FUNZIONARIO TECNICO",
-"ente": "Comune di Corsico",
-"posti": 2,
-"scade": "2026-11-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=906f1e67b4a743159b49e278c3b5786b",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "itta sarà assegnato un punteggio massimo di 30 (trenta) punti e la stessa si intenderà superata al conseguimento da parte del Candidato del punteggio di almeno 21/30 (ventuno/trentesimi) con conseguente ammissione alla prova orale"
-},
-"minuti": {
-"valore": 30,
-"frase": "I candidati dovranno presentarsi nelle date e negli orari indicati, muniti di un valido documento di riconoscimento, con almeno 30 minuti di anticipo rispetto all’orario previsto per l’inizio della 9 copia informatica per consultazione prova, al fine di consentire l’espletamento delle procedure d"
-}
-}
-},
-{
 "id": "0c7ef37429744d3d9ad5ec0ee81d7c7c",
 "profilo": "istruttore-amministrativo",
 "titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 2 POSTI A TEMPO PIENO ED INDETERMINATO DI “ISTRUTTORE DI POLIZIA LOCALE” - AREA DEGLI ISTRUTTORI.",
@@ -2829,22 +2937,6 @@
 "struttura_letta": {}
 },
 {
-"id": "35c3e55e251049b889bb5914b71ff130",
-"profilo": "istruttore-tecnico",
-"titolo": "COMUNE DI BRIOSCO_CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO INDETERMINATO DI N. 2 “ISTRUTTORE AMMINISTRATIVO TECNICO” – AREA DEGLI ISTRUTTORI CCNL COMPARTO FUNZIONI LOCALI DI CUI N. 1 PART-TIME 50%",
-"figura": "ISTRUTTORE TECNICO",
-"ente": "Comune di Briosco",
-"posti": 2,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=35c3e55e251049b889bb5914b71ff130",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "perata se si ottiene una valutazione di almeno 21/30"
-}
-}
-},
-{
 "id": "ba7ed460add2493bb7859ad1e8db3757",
 "profilo": "istruttore-di-vigilanza",
 "titolo": "selezione pubblica per esami per il conferimento di n. 3 contratti di formazione e lavoro a tempo pieno e determinato per istruttore di vigilanza - da assegnare due al servizio autonomo di polizia locale del comune di maranello- di cui uno riservato prioritariamente ex art. 1014, comma 3 e 4 a favor",
@@ -2859,17 +2951,6 @@
 "frase": "(Si precisa che accederanno alla prova orale esclusivamente i candidati che nella prova scritta abbiano riportato il punteggio minimo di 21/30) Prova orale sui seguenti argomenti:  Legge quadro sull’ordinamento della Polizia Municipale n"
 }
 }
-},
-{
-"id": "67e16aeb74d841ea830bcf16cc8f71d3",
-"profilo": "personale-tecnico-amministrativo-universita",
-"titolo": " CONCORSO COD: 2026-PTA-TD-05 Selezione pubblica, per esami, per l’assunzione di n. 2 unità di personale dell’Area dei Funzionari, Settore scientifico-tecnologico, con contratto a tempo determinato, a tempo pieno, della durata di 24 mesi (eventualmente prorogabili), per le esigenze della Divisione V",
-"figura": "Area dei Funzionari, Settore scientifico-tecnologico",
-"ente": "Universita' degli Studi del Piemonte Orientale",
-"posti": 2,
-"scade": "2026-11-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=67e16aeb74d841ea830bcf16cc8f71d3",
-"struttura_letta": {}
 },
 {
 "id": "0f946a93cdea45d7ad09cb9b3d246787",
@@ -2908,6 +2989,379 @@
 "scade": "2027-02-10",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0033271159a941f0929cf9a754b57dd9",
 "struttura_letta": {}
+},
+{
+"id": "6808fafe5f3743e4833eec182cca1876",
+"profilo": "agente-di-polizia-locale",
+"titolo": "AVVISO DI SELEZIONE UNICA PER LA FORMAZIONE DI UN ELENCO DI IDONEI ALL’ASSUNZIONE CON IL PROFILO PROFESSIONALE DI “AGENTE DI POLIZIA LOCALE” (AREA DEGLI ISTRUTTORI DEL VIGENTE C.C.N.L. FUNZIONI LOCALI) PRESSO LA PROVINCIA DI PERUGIA E GLI ENTI LOCALI FIRMATARI DELLA CONVENZIONE AI SENSI DELL’ART. 3 ",
+"figura": "AGENTE DI POLIZIA LOCALE",
+"ente": "Provincia di Perugia",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6808fafe5f3743e4833eec182cca1876",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti a contenuto tecnico a risposta chiusa/multipla sulle seguenti materie d’esame: 1) Codice della della Strada e relativo Regolamento di esecuzione; 2) Norme di d"
+},
+"soglia30": {
+"valore": 18,
+"frase": "ermine dei propri lavori, la Commissione giudicatrice formulerà un elenco di idonei formato dai candidati che avranno riportato un punteggio pari o superiore a 18/30 nella prova scritta a contenuto tecnico oltre che l’idoneità, al raggiungimento dei punteggi minimi di 3/5, in ciascuna delle tre prove inerenti l’uso delle ap"
+}
+}
+},
+{
+"id": "1329353d27d5411089bdeb6befef7639",
+"profilo": "funzionario-amministrativo-contabile",
+"titolo": "AVVISO DI SELEZIONE UNICA PER LA FORMAZIONE DI UN ELENCO DI IDONEI ALL’ASSUNZIONE CON IL PROFILO PROFESSIONALE DI “FUNZIONARIO AMMINISTRATIVO-CONTABILE” (AREA DEI FUNZIONARI E DELL’E.Q. DEL VIGENTE C.C.N.L. FUNZIONI LOCALI) PRESSO LA PROVINCIA DI PERUGIA E GLI ENTI LOCALI FIRMATARI DELLA CONVENZIONE",
+"figura": "FUNZIONARIO AMMINISTRATIVO-CONTABILE",
+"ente": "Provincia di Perugia",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1329353d27d5411089bdeb6befef7639",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti a contenuto tecnico a risposta chiusa/multipla sulle seguenti materie d’esame: 1) Ordinamento degli enti locali (D"
+},
+"soglia30": {
+"valore": 18,
+"frase": "ermine dei propri lavori, la Commissione giudicatrice formulerà un elenco di idonei formato dai candidati che avranno riportato un punteggio pari o superiore a 18/30 nella prova scritta a contenuto tecnico oltre che l’idoneità, al raggiungimento dei punteggi minimi di 3/5, in ciascuna delle tre prove inerenti l’uso delle ap"
+}
+}
+},
+{
+"id": "171bdf1854ad4aa5a043cb3c8bc12d96",
+"profilo": "funzionario-tecnico",
+"titolo": "AVVISO DI SELEZIONE UNICA PER LA FORMAZIONE DI UN ELENCO DI IDONEI ALL’ASSUNZIONE CON IL PROFILO PROFESSIONALE DI “FUNZIONARIO TECNICO” (AREA DEI FUNZIONARI E DELL’E.Q. DEL VIGENTE C.C.N.L. FUNZIONI LOCALI) PRESSO LA PROVINCIA DI PERUGIA E GLI ENTI LOCALI FIRMATARI DELLA CONVENZIONE AI SENSI DELL’AR",
+"figura": "FUNZIONARIO TECNICO",
+"ente": "Provincia di Perugia",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=171bdf1854ad4aa5a043cb3c8bc12d96",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti a contenuto tecnico a risposta chiusa/multipla sulle seguenti materie d’esame: 1) Normativa in materia di appalti di lavori pubblici, di forniture e servizi (D"
+},
+"soglia30": {
+"valore": 18,
+"frase": "ermine dei propri lavori, la Commissione giudicatrice formulerà un elenco di idonei formato dai candidati che avranno riportato un punteggio pari o superiore a 18/30 nella prova scritta a contenuto tecnico oltre che l’idoneità, al raggiungimento dei punteggi minimi di 3/5, in ciascuna delle tre prove inerenti l’uso delle ap"
+}
+}
+},
+{
+"id": "0affb0fe335c4c8489c34865ee076848",
+"profilo": "istruttore-amministrativo-contabile",
+"titolo": "AVVISO DI SELEZIONE UNICA PER LA FORMAZIONE DI UN ELENCO DI IDONEI ALL’ASSUNZIONE CON IL PROFILO PROFESSIONALE DI “ISTRUTTORE AMMINISTRATIVO-CONTABILE” (AREA DEGLI ISTRUTTORI DEL VIGENTE C.C.N.L. FUNZIONI LOCALI) PRESSO LA PROVINCIA DI PERUGIA E GLI ENTI LOCALI FIRMATARI DELLA CONVENZIONE AI SENSI D",
+"figura": "ISTRUTTORE AMMINISTRATIVO-CONTABILE",
+"ente": "Provincia di Perugia",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0affb0fe335c4c8489c34865ee076848",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti a contenuto tecnico a risposta chiusa/multipla sulle seguenti materie d’esame: 1) Ordinamento istituzionale, finanziario e contabile degli enti locali (D"
+},
+"soglia30": {
+"valore": 18,
+"frase": "ermine dei propri lavori, la Commissione giudicatrice formulerà un elenco di idonei formato dai candidati che avranno riportato un punteggio pari o superiore a 18/30 nella prova scritta a contenuto tecnico oltre che l’idoneità, al raggiungimento dei punteggi minimi di 3/5, in ciascuna 9 delle tre prove inerenti l’uso delle"
+}
+}
+},
+{
+"id": "cd1410be6d1b465d85377c67689284ea",
+"profilo": "istruttore-informatico",
+"titolo": "AVVISO DI SELEZIONE UNICA PER LA FORMAZIONE DI UN ELENCO DI IDONEI ALL’ASSUNZIONE CON IL PROFILO PROFESSIONALE DI “ISTRUTTORE INFORMATICO” (AREA DEGLI ISTRUTTORI DEL VIGENTE C.C.N.L. FUNZIONI LOCALI) PRESSO LA PROVINCIA DI PERUGIA E GLI ENTI LOCALI FIRMATARI DELLA CONVENZIONE AI SENSI DELL’ART. 3 BI",
+"figura": "ISTRUTTORE INFORMATICO",
+"ente": "Provincia di Perugia",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cd1410be6d1b465d85377c67689284ea",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti a contenuto tecnico a risposta chiusa/multipla sulle seguenti materie d’esame: 1) Informatica di base, programmazione e banche dati: • Concetti fondamentali de"
+},
+"soglia30": {
+"valore": 18,
+"frase": "ermine dei propri lavori, la Commissione giudicatrice formulerà un elenco di idonei formato dai candidati che avranno riportato un punteggio pari o superiore a 18/30 nella prova scritta a contenuto tecnico oltre che l’idoneità, al raggiungimento dei punteggi minimi di 3/5, in ciascuna delle due prove inerenti la conoscenza"
+}
+}
+},
+{
+"id": "4d43660810a64823821d94f82c6dab8c",
+"profilo": "istruttore-tecnico",
+"titolo": "AVVISO DI SELEZIONE UNICA PER LA FORMAZIONE DI UN ELENCO DI IDONEI ALL’ASSUNZIONE CON IL PROFILO PROFESSIONALE DI “ISTRUTTORE TECNICO” (AREA DEGLI ISTRUTTORI DEL VIGENTE C.C.N.L. FUNZIONI LOCALI) PRESSO LA PROVINCIA DI PERUGIA E GLI ENTI LOCALI FIRMATARI DELLA CONVENZIONE AI SENSI DELL’ART. 3 BIS DE",
+"figura": "ISTRUTTORE TECNICO",
+"ente": "Provincia di Perugia",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4d43660810a64823821d94f82c6dab8c",
+"struttura_letta": {
+"quesiti": {
+"valore": 30,
+"frase": "30 quesiti a contenuto tecnico a risposta chiusa/multipla sulle seguenti materie d’esame: 1) Normativa in materia di appalti di lavori pubblici, di forniture e servizi (D"
+},
+"soglia30": {
+"valore": 18,
+"frase": "ermine dei propri lavori, la Commissione giudicatrice formulerà un elenco di idonei formato dai candidati che avranno riportato un punteggio pari o superiore a 18/30 nella prova scritta a contenuto tecnico oltre che l’idoneità, al raggiungimento dei punteggi minimi di 3/5, in ciascuna delle tre prove inerenti l’uso delle ap"
+}
+}
+},
+{
+"id": "53f2f764f50241dc982da22ca55eb624",
+"profilo": "istruttore-amministrativo",
+"titolo": "Comune di Vigone (TO). Bando di concorso pubblico per esami per l'assunzione a tempo indeterminato e parziale (50%) di n. 1 istruttore amministrativo (Area degli Istruttori del C.C.N.L. Funzioni Locali)",
+"figura": "istruttore amministrativo",
+"ente": "Comune di Vigone",
+"posti": 1,
+"scade": "2026-12-09",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=53f2f764f50241dc982da22ca55eb624",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguiranno l’ammissione alla prova selettiva orale i candidati che riporteranno una votazione di almeno 21/30 nella prova se"
+}
+}
+},
+{
+"id": "602b721392bb4bf9afa6d3e3a170c81d",
+"profilo": "assistente-sociale-enti-locali",
+"titolo": "COMUNE DI SELVINO BANDO DI CONCORSO PUBBLICO PER ESAMI PER L'ASSUNZIONE DI N. 1 FUNZIONARIO SOCIO ASSISTENZIALE (ASSISTENTE SOCIALE), AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE (EX CAT. D) A TEMPO INDETERMINATO E PARZIALE (18 ORE SETTIMANALI) DA ASSEGNARE ALL'AREA AFFARI GENERALI DEL COMUNE DI SE",
+"figura": "Funzionario Socio Assistenziale - Assistente sociale",
+"ente": "Comune di Selvino",
+"posti": 1,
+"scade": "2026-12-15",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=602b721392bb4bf9afa6d3e3a170c81d",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "o si intende superato con una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "355a45dc2a3c42e394f849c0b859bfef",
+"profilo": "funzionario-amministrativo-contabile",
+"titolo": "Avviso di selezione pubblica, per esami, per la copertura di nr. 1 posto a tempo pieno e indeterminato presso il Servizio Risorse Umane Gestione Economica del Personale dell’Unione Terre di Castelli (MO), profilo Specialista Amministrativo Contabile - Area dei Funzionari e delle E.Q. (CCNL comparto ",
+"figura": "Specialista Amministrativo Contabile",
+"ente": "Unione Terre di Castelli",
+"posti": 1,
+"scade": "2026-12-21",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=355a45dc2a3c42e394f849c0b859bfef",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova scritta si intende superata qualora il concorrente consegua una valutazione pari almeno a 21/30"
+}
+}
+},
+{
+"id": "c50696f4964a4f5d9c325dd2409391b5",
+"profilo": "dirigente-tecnico-enti-locali",
+"titolo": "BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER LA COPERTURA DI N. 1 POSTO DI DIRIGENTE TECNICO A TEMPO PIENO E INDETERMINATO",
+"figura": "DIRIGENTE TECNICO",
+"ente": "Comune di Andria",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c50696f4964a4f5d9c325dd2409391b5",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Ciascuna prova scritta si intende superata con una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "980721a6ef7e4af79efc8cb54381e581",
+"profilo": "tecnico-di-laboratorio",
+"titolo": "Università di Padova - Concorso pubblico n. 2026N36, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 persona nell’Area dei Funzionari, Settore Scientifico-tecnologico. Tecnico di laboratorio per le preparazioni paleontologiche.",
+"figura": "Tecnico di laboratorio per le preparazioni paleontologiche.",
+"ente": "Universita' degli Studi di Padova",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=980721a6ef7e4af79efc8cb54381e581",
+"struttura_letta": {}
+},
+{
+"id": "a9079d5613e740958dfadc269873fa64",
+"profilo": "istruttore-tecnico",
+"titolo": "BANDO DI CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N° 1 POSTO A TEMPO INDETERMINATO E A TEMPO PIENO PER IL PROFILO PROFESSIONALE DI ISTRUTTORE TECNICO – ISTRUTTORE COORDINATORE OPERATIVO DELLA MANUTENZIONE E DEL PATRIMONIO (AREA DEGLI ISTRUTTORI DEL CCNL FUNZIONI LOCALI).",
+"figura": "Istruttore Tecnico Coordinatore servizio manutentivo",
+"ente": "La C.A.S.A. Centro Assistenza Servizi per Anziani",
+"posti": 1,
+"scade": "2026-12-10",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a9079d5613e740958dfadc269873fa64",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "r la prova scritta • 30 punti per la prova orale Saranno ammessi alla prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "edcee8099b3446c286bff01fc9b78ef4",
+"profilo": "funzionario-amministrativo-contabile",
+"titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI “FUNZIONARIO AMMINISTRATIVO-CONTABILE” - AREA DEI FUNZIONARI ED E.Q. A TEMPO PIENO ED INDETERMINATO – COMPARTO FUNZIONI LOCALI, CON RISERVA PRIORITARIA DI LEGGE (ai sensi del D. Lgs. n. 66/2010 artt. 1014 comma 4 e 678 comma 9)",
+"figura": "FUNZIONARIO AMMINISTRATIVO-CONTABILE",
+"ente": "Provincia di Massa Carrara",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=edcee8099b3446c286bff01fc9b78ef4",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Verranno ammessi alla prova orale i candidati che abbiano riportato la votazione di almeno 21/30 nella prova scritta"
+}
+}
+},
+{
+"id": "193e19c1ffe34436acb8f48cd83b653c",
+"profilo": "istruttore-tecnico",
+"titolo": "CONCORSO PUBBLICO PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI “ISTRUTTORE TECNICO” (AREA DEGLI ISTRUTTORI CCNL FUNZIONI LOCALI)",
+"figura": "ISTRUTTORE TECNICO",
+"ente": "Asp Reggio Emilia Citta' delle Persone",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=193e19c1ffe34436acb8f48cd83b653c",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Conseguono l'ammissione alla prova orale i candidati che abbiano riportato nella prova scritta una votazione di almeno 21/30"
+}
+}
+},
+{
+"id": "55d0b5489b5345f3861d56ee321ca4de",
+"profilo": "istruttore-amministrativo-contabile",
+"titolo": "CONCORSO PUBBLICO, PER ESAMI, RISERVATO ESCLUSIVAMENTE ALLE PERSONE CON DISABILITA’ DI CUI ALL’ART. 1 DELLA LEGGE N. 68 DEL 12/03/99, ISCRITTE NELL’ ELENCO DI CUI ALL'ART. 8 DELLA SUDDETTA LEGGE, PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 UNITA’ NEL PROFILO PROFESSIONALE DI ISTRUTTORE AM",
+"figura": "N.1 ISTRUTTORE AMMINISTRATIVO CONTABILE - AREA DEGLI ISTRUTTORI",
+"ente": "Comune di Piacenza",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=55d0b5489b5345f3861d56ee321ca4de",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "PROVA SCRITTA PUNTEGGIO MINIMO PER IL SUPERAMENTO DELLA PROVA SCRITTA La prova scritta a • Ordinamento istituzionale, finanziario e contabile degli enti locali 21/30"
+}
+}
+},
+{
+"id": "3b3e62db8c2840e49b4268186784fca1",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "PROCEDURA SELETTIVA PUBBLICA, PER TITOLI ED ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE DA INQUADRARE NELL’AREA DEI FUNZIONARI, SETTORE SCIENTIFICO-TECNOLOGICO, CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO PIENO E DETERMINATO, PRESSO IL CENTRO INTERDIPARTIMENTALE GRANDI STRUMENTI DELL’UNIVE",
+"figura": "FUNZIONARI, SETTORE SCIENTIFICO-TECNOLOGICO",
+"ente": "Universita' degli Studi di Modena e Reggio Emilia",
+"posti": 1,
+"scade": "2026-12-09",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b3e62db8c2840e49b4268186784fca1",
+"struttura_letta": {}
+},
+{
+"id": "22fd9888a2a44779a62b7ae8872797ad",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "Scuola Normale Superiore - Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Patrimonio, ospitalità e ristorazione della Scuola Normale Supe",
+"figura": "Elevata professionalità",
+"ente": "Scuola Normale Superiore",
+"posti": 1,
+"scade": "2026-12-18",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=22fd9888a2a44779a62b7ae8872797ad",
+"struttura_letta": {}
+},
+{
+"id": "4ad556cf1e6948629f723dc01e67d754",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "Scuola Normale Superiore - Selezione pubblica, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 unità di personale dell’Area delle Elevate Professionalità – settore professionale amministrativo-gestionale, presso l’Area Ricerca e innovazione della Scuola Normale Superiore",
+"figura": "Elevata professionalità",
+"ente": "Scuola Normale Superiore",
+"posti": 1,
+"scade": "2026-12-18",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4ad556cf1e6948629f723dc01e67d754",
+"struttura_letta": {}
+},
+{
+"id": "f3e30bab448849aa958eb4ed12b1333f",
+"profilo": "funzionario-amministrativo",
+"titolo": "COMUNE DI SAN GIMIGNANO - TEMPO INDETERMINATO N. 1 UNITA' FUNZIONARIO AMMINISTRATIVO",
+"figura": "Funzionario amministrativo",
+"ente": "Comune di San Gimignano",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3e30bab448849aa958eb4ed12b1333f",
+"struttura_letta": {}
+},
+{
+"id": "d6a6f1d11bca4c419adaca594ceb51b0",
+"profilo": "funzionario-informatico",
+"titolo": "CONCORSO COD: 2026-PTA-ND-09 - selezione pubblica, per titoli ed esami, per l’assunzione di n. 1 unità di personale dell’Area dei Funzionari, Settore tecnico-informatico, con contratto a tempo indeterminato, a tempo pieno, per le esigenze del Settore centrale Servizio Prevenzione e Protezione – Prof",
+"figura": "Area dei Funzionari, Settore tecnico-informatico",
+"ente": "Universita' degli Studi del Piemonte Orientale",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d6a6f1d11bca4c419adaca594ceb51b0",
+"struttura_letta": {}
+},
+{
+"id": "3e49220c109d47e6a72ce078f49bae72",
+"profilo": "dirigente-tecnico-enti-locali",
+"titolo": "Concorso pubblico, per titoli ed esami, per la copertura a tempo pieno e indeterminato di n. 1 posto di “Dirigente Tecnico”, Area della Dirigenza.",
+"figura": "Dirigente Tecnico",
+"ente": "Comune di Bisceglie",
+"posti": 1,
+"scade": "2026-12-22",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3e49220c109d47e6a72ce078f49bae72",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "La prova si considera superata ove il candidato abbia ottenuto una votazione pari o superiore a ventuno (21/30)"
+}
+}
+},
+{
+"id": "2bdc25f4ddf64ced9c42be78a1c018a2",
+"profilo": "tecnico-di-neurofisiopatologia",
+"titolo": "CONCORSO PUBBLICO PER L'ASSUNZIONE A TEMPO INDETERMINATO N. 1 POSTO DI TECNICO DI NEUROFISIOPATOLOGIA – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI",
+"figura": "Tecnico di neurofisiopatologia",
+"ente": "Istituto Giannina Gaslini",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2bdc25f4ddf64ced9c42be78a1c018a2",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "Il superamento della prova scritta è subordinato al raggiungimento di una valutazione di sufficienza espressa in termini numerici di almeno 21/30; Il superam"
+}
+}
+},
+{
+"id": "51e7d31f35a844ba99243775566e2bd9",
+"profilo": "personale-tecnico-amministrativo-universita",
+"titolo": "Procedura selettiva, per esami, per la copertura n. 1 posto nell’Area dei Collaboratori, settore tecnico, scientifico, tecnologico, informatico e dei servizi generali, con rapporto di lavoro subordinato a tempo indeterminato e a tempo pieno presso il Dipartimento di Ingegneria Civile, Architettura, ",
+"figura": "Area dei Collaboratori",
+"ente": "UNIVERSITA' DEGLI STUDI DI BRESCIA",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=51e7d31f35a844ba99243775566e2bd9",
+"struttura_letta": {}
+},
+{
+"id": "bc0d9e2806884b66938b5532fe767e83",
+"profilo": "funzionario-amministrativo",
+"titolo": "SELEZIONE FUNZIONARIO TECNICO E.Q.",
+"figura": "FUNZIONARIO E.Q.",
+"ente": "Comune di Calopezzati",
+"posti": 1,
+"scade": "2026-12-23",
+"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc0d9e2806884b66938b5532fe767e83",
+"struttura_letta": {
+"soglia30": {
+"valore": 21,
+"frase": "In tal caso, saranno ammessi alla prova scritta i candidati che avranno conseguito un punteggio pari almeno a 21/30"
+}
+}
 },
 {
 "id": "31c25704cbbe4b7fbc9f6e3eccaa1810",
@@ -7191,17 +7645,6 @@
 "struttura_letta": {}
 },
 {
-"id": "0f524704b73c420d89245ee06507658f",
-"profilo": "funzionario-tecnico",
-"titolo": "CASA S.p.A., società interamente pubblica, cerca un’unità di personale Esperto/a Tecnico/a da inserire all’interno dell’Area Tecnica, Servizio Manutenzione",
-"figura": "Esperto/a Tecnico/a",
-"ente": "casa spa",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0f524704b73c420d89245ee06507658f",
-"struttura_letta": {}
-},
-{
 "id": "13efba54eeff437e8d9cbad18cefba13",
 "profilo": "agente-di-polizia-locale",
 "titolo": "BANDO DI CONCORSO PUBBLICO, PER ESAMI, PER L’ASSUNZIONE, A TEMPO PIENO ED INDETERMINATO, DI N° 1 UNITÀ NEL PROFILO PROFESSIONALE DI AGENTE DI POLIZIA LOCALE – AREA DEGLI ISTRUTTORI - CCNL FUNZIONI LOCALI",
@@ -7848,38 +8291,6 @@
 "struttura_letta": {}
 },
 {
-"id": "1fb492495e9d438698e3891f29f3d8eb",
-"profilo": "istruttore-amministrativo",
-"titolo": "Concorso pubblico per soli esami per la copertura di 1 posto a tempo indeterminato e pieno di Istruttore Amministrativo interamente riservato alle categorie di cui all'art. 1 della L. 68/1999",
-"figura": "Istruttore Amministrativo",
-"ente": "Comune di Loreo",
-"posti": 1,
-"scade": "2026-11-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1fb492495e9d438698e3891f29f3d8eb",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Conseguiranno l'ammissione alla prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
-}
-}
-},
-{
-"id": "dbfb0ca0794a47bfbb13d466d07d091e",
-"profilo": "istruttore-amministrativo",
-"titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO - AREA DEGLI ISTRUTTORI – A TEMPO PIENO E INDETERMINATO DA DESTINARE PRESSO L’AREA SERVIZI AMMINISTRATIVI E FINANZIARI DELL’ENTE",
-"figura": "Istruttore amministrativo",
-"ente": "Comune di Piubega",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dbfb0ca0794a47bfbb13d466d07d091e",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "per la prova scritta - punti 30 per la prova orale Ogni prova di esame si intende superata solo se verrà valutata dalla Commissione con un punteggio minimo di 21/30"
-}
-}
-},
-{
 "id": "3bcd4a23d0b549319ae038f2f77774c4",
 "profilo": "funzionario-amministrativo",
 "titolo": "COMUNE DI VILLA DEL CONTE (PD) Bando di concorso pubblico, per esami, per la copertura di n.1 posto, a tempo pieno e indeterminato, di Funzionario Tecnico, Area dei Funzionari ed E.Q.",
@@ -8151,22 +8562,6 @@
 "scade": "2026-11-30",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39694c7275484b228c7ff47e56ef916c",
 "struttura_letta": {}
-},
-{
-"id": "0622765a94aa4da9b0d1965c9d454b57",
-"profilo": "infermiere",
-"titolo": "BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO IN RUOLO DI INFERMIERE SPECIALISTA A TEMPO PIENO ED INDETERMINATO (AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE – C.C.N.L. FUNZIONI LOCALI)",
-"figura": "Infermiere specialista",
-"ente": "Ipab di Vicenza",
-"posti": 1,
-"scade": "2026-11-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0622765a94aa4da9b0d1965c9d454b57",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Ogni prova di esame si intende superata solo se verrà valutata dalla Commissione Esaminatrice con un punteggio minimo di 21/30"
-}
-}
 },
 {
 "id": "98310fb720f9450eaedef549c8348a5a",
@@ -8638,22 +9033,6 @@
 }
 },
 {
-"id": "fa456ee19e654530a6e31c1ed8acb12e",
-"profilo": "funzionario-amministrativo-contabile",
-"titolo": "CONCORSO PUBBLICO PER SOLI ESAMI PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO AMMINISTRATIVO-CONTABILE - AREA FUNZIONARI E.Q. - A TEMPO PIENO ED INDETERMINATO DA ASSEGNARE AL SETTORE SEGRETERIA RAGIONERIA TRIBUTI",
-"figura": "FUNZIONARIO AMMINISTRATIVO-CONTABILE",
-"ente": "Comune di Castel D'Azzano",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa456ee19e654530a6e31c1ed8acb12e",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Ciascuna prova (scritta/orale) si intende superata con un punteggio pari ad almeno 21/30"
-}
-}
-},
-{
 "id": "38c6f3630c1344cdbc46f18294e06893",
 "profilo": "assistente-sociale-enti-locali",
 "titolo": "SELEZIONE PUBBLICA PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI ASSISTENTE SOCIALE (AREA FUNZIONARI ED EQ) A TEMPO PIENO ED INDETERMINATO PRESSO IL COMUNE DI TERRANUOVA BRACCIOLINI",
@@ -8693,38 +9072,6 @@
 "soglia30": {
 "valore": 21,
 "frase": "Sono ammessi a sostenere la prova orale e pratica i candidati che hanno riportato nella prova scritta una votazione di almeno 21/30"
-}
-}
-},
-{
-"id": "a5cf5d1886904a2a8de1ef8ddefbe6d6",
-"profilo": "istruttore-amministrativo",
-"titolo": "COMUNE DI TRAVEDONA MONATE - CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI UN ISTRUTTORE AMMINISTRATIVO – AREA DEGLI ISTRUTTORI (EX CAT. C) PER L'AREA AFFARI GENERALI",
-"figura": "Istruttore Amministrativo",
-"ente": "Comune di Travedona Monate",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5cf5d1886904a2a8de1ef8ddefbe6d6",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "Saranno ammessi a sostenere la prova orale i soli candidati che alla prova scritta avranno conseguito il punteggio di almeno 21/30 (ventunotrentesimi)"
-}
-}
-},
-{
-"id": "4f747da821784337bd7eefa99e2331ad",
-"profilo": "istruttore-amministrativo-contabile",
-"titolo": "COMUNE DI SEGRATE - CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE AMMINISTRATIVO CONTABILE – (AREA DEGLI ISTRUTTORI - del CCNL Comparto Funzioni Locali) - A TEMPO PIENO ED INDETERMINATO - RISERVATO AI DISABILI DI CUI ALL’ART. 1 DELLA LEGGE N. 68/1999",
-"figura": "Istruttore amministrativo contabile",
-"ente": "Comune di Segrate",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4f747da821784337bd7eefa99e2331ad",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "- massimo punti 30,00 ▪ Colloquio - massimo punti 30,00 Conseguono l’ammissione al colloquio soltanto i candidati che abbiano riportato una votazione di almeno 21/30 nella prova scritta; il colloquio è superato se il candidato consegue una votazione di almeno 21/30; lo stesso si terrà in aula aperta al pubblico"
 }
 }
 },
@@ -8822,22 +9169,6 @@
 "soglia30": {
 "valore": 21,
 "frase": "Conseguono l’ammissione alla prova orale i candidati che hanno riportato nella prova scritta una valutazione di almeno 21/30"
-}
-}
-},
-{
-"id": "ecea75937da94f8c94aa3526b142e4c2",
-"profilo": "istruttore-direttivo-tecnico",
-"titolo": "COMUNE DI MODENA - AVVISO DI SELEZIONE UNICA PER LA FORMAZIONE DI UN ELENCO DI IDONEI ALL’ASSUNZIONE A TEMPO INDETERMINATO E DETERMINATO DI ISTRUTTORI DIRETTIVI TECNICI – AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE",
-"figura": "Istruttore Direttivo Tecnico",
-"ente": "Comune di Modena",
-"posti": 1,
-"scade": "2026-11-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ecea75937da94f8c94aa3526b142e4c2",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "La prova si intende superata, con inserimento nell’elenco degli idonei, al conseguimento del punteggio minimo di 21/30, senza alcun ordine di merito"
 }
 }
 },
@@ -8990,17 +9321,6 @@
 "posti": 1,
 "scade": "2026-11-25",
 "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d06688d92bb74a8098d6bc2ce20f067c",
-"struttura_letta": {}
-},
-{
-"id": "291afade98624bb3ae85d8d2e3f54404",
-"profilo": "funzionario-amministrativo-contabile",
-"titolo": "COMUNE DI SEGRATE - AVVISO ESPLORATIVO PREORDINATO ALLA RICERCA DI PERSONALE INTERESSATO AL PASSAGGIO DIRETTO DA ALTRE PUBBLICHE AMMINISTRAZIONI AI SENSI DELL’ART. 30 DEL D. LGS. N. 165/2001, PER LA COPERTURA DI N. 1 (UNA) POSIZIONE DI PERSONALE A TEMPO PIENO ED INDETERMINATO - PROFILO PROFESSIONALE",
-"figura": "SPECIALISTA AMMINISTRATIVO CONTABILE",
-"ente": "Comune di Segrate",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=291afade98624bb3ae85d8d2e3f54404",
 "struttura_letta": {}
 },
 {
@@ -9203,17 +9523,6 @@
 }
 },
 {
-"id": "1193b094957a489694118ba850062803",
-"profilo": "agente-di-polizia-locale",
-"titolo": "UNIONE DEI COMUNI I FONTANILI - BANDO DI CONCORSO PER L'ASSUNZIONE DI UN AGENTE DI POLIZIA LOCALE - AREA DEGLI ISTRUTTORI - A TEMPO PIENO ED INDETERMINATO",
-"figura": "AGENTE DI POLIZIA LOCALE",
-"ente": "Unione Dei Comuni I Fontanili",
-"posti": 1,
-"scade": "2026-11-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1193b094957a489694118ba850062803",
-"struttura_letta": {}
-},
-{
 "id": "d53bd46128354b80b4eb6ed8d087bcda",
 "profilo": "dirigente-amministrativo-enti-locali",
 "titolo": "PROVINCIA DI BELLUNO. CONCORSO PUBBLICO PER TITOLI ED ESAMI PER IL RECLUTAMENTO DI UNA FIGURA PROFESSIONALE DI DIRIGENTE DI PROFILO AMMINISTRATIVO, CON CONTRATTO DI LAVORO A TEMPO PIENO E INDETERMINATO, PER LA DIREZIONE DEL SETTORE “UNITA’ DI SVILUPPO STRATEGICO DEL TERRITORIO”. COD. AVVISO 28330-20",
@@ -9268,17 +9577,6 @@
 }
 },
 {
-"id": "be78e6bcf5a94716997a7342ecaeff1a",
-"profilo": "operatore-esperto-ex-cat-b",
-"titolo": "COMUNE DI PIEVE DI SOLIGO - CONCORSO PUBBLICO PER SOLI ESAMI PER L’ ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 POSTO DI OPERATORE ESPERTO TECNICO - MANUTENTIVO (AREA DEGLI OPERATORI ESPERTI) PRESSO IL SERVIZIO LAVORI PUBBLICI E MANUTENZIONI, RISERVATO ALLE FF.AA E S.C.U. E S.C.N.",
-"figura": "Operatore esperto tecnico manutentivo",
-"ente": "Comune di Pieve di Soligo",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=be78e6bcf5a94716997a7342ecaeff1a",
-"struttura_letta": {}
-},
-{
 "id": "80d7cc17dbeb4620a2a36c7b228baf63",
 "profilo": "funzionario-di-vigilanza",
 "titolo": "CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 1 POSTO DI “FUNZIONARIO DI POLIZIA LOCALE” APPARTENENTE ALL'AREA DEI FUNZIONARI ED ELEVATE QUALIFICAZIONI PROFILO PROFESSIONALE VICE COMMISSARIO DI POLIZIA LOCALE – CCNL FUNZIONI LOCALI DEL 23/02/2026",
@@ -9315,17 +9613,6 @@
 }
 },
 {
-"id": "c29033d985cc4ebbad65c1d0c94ff029",
-"profilo": "funzionario-tecnico",
-"titolo": "COMUNE DI CUASSO AL MONTE - SELEZIONE PUBBLICA, PER ESAMI, FINALIZZATA ALLA COPERTURA DI N. 1 POSTO PROFILO FUNZIONARIO TECNICO – AREA FUNZIONARI ED ELEVATA QUALIFICAZIONE – TEMPO INDETERMINATO, TEMPO PARZIALE 18 ORE, AREA TECNICA",
-"figura": "Funzionario Tecnico",
-"ente": "Comune di Cuasso al Monte",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c29033d985cc4ebbad65c1d0c94ff029",
-"struttura_letta": {}
-},
-{
 "id": "f5d72ee45b73408994a5384305c590fc",
 "profilo": "funzionario-amministrativo",
 "titolo": "Bando di concorso pubblico per soli esami, per assunzione a tempo pieno e indeterminato di n. 1 (una) figura professionale di Farmacista, area dei funzionari e dell’Elevata Qualificazione, CCNL funzioni locali triennio 2022/2024. Comune di Varzi (PV)",
@@ -9356,37 +9643,6 @@
 "frase": "Conseguiranno l'ammissione alla prova orale i candidati che abbiano riportato nella prova scritta e nella prova teorico-pratica la votazione minima di almeno 21/30 in ciascuna di esse"
 }
 }
-},
-{
-"id": "1d269d3ee0d0432988746c46e6a28689",
-"profilo": "funzionario-amministrativo-contabile",
-"titolo": "AVVISO SELEZIONE PUBBLICA, PER ESAMI, PER FORMAZIONE ELENCHI DI IDONEI DA ASSUMERE NEI COMUNI DI PARABIAGO, ARLUNO, BAREGGIO, BUSTO GAROLFO, CASOREZZO, DAIRAGO, PREGNANA MILANESE, SAN GIORGIO SU LEGNANO, VILLA CORTESE, CON IL PROFILO PROFESSIONALE DI FUNZIONARIO DEI SERVIZI AMMINISTRATIVI/AMMINISTRA",
-"figura": "Funzionario dei servizi amministrativi e dei servizi amministrativi contabili",
-"ente": "Comune di Parabiago",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1d269d3ee0d0432988746c46e6a28689",
-"struttura_letta": {
-"quesiti": {
-"valore": 12,
-"frase": "olare, la prova, a contenuto teorico e/o pratico potrà consistere nella somministrazione di una serie di quesiti a risposta multipla, nella somministrazione di 12 domande aperte, nella richiesta di risoluzione di casi pratici ovvero nella combinazione delle tipologie di cui sopra"
-},
-"soglia30": {
-"valore": 21,
-"frase": "La prova scritta si intende superata al raggiungimento del punteggio minimo di 21/30, senza alcun ordine di merito"
-}
-}
-},
-{
-"id": "aa5708a9b4e3418ea4c36565950ee410",
-"profilo": "funzionario-di-vigilanza",
-"titolo": "AVVISO SELEZIONE PUBBLICA, PER ESAMI, PER FORMAZIONE ELENCHI DI IDONEI DA ASSUMERE CON IL PROFILO PROFESSIONALE DI: FUNZIONARIO DI POLIZIA LOCALE, AREA DEI FUNZIONARI E DELLE E.Q. ( EX CAT. D) NEI COMUNI DI PARABIAGO, ARLUNO, BAREGGIO, BUSTO GAROLFO, CASOREZZO, DAIRAGO, PREGNANA MILANESE, SAN GIORGI",
-"figura": "FUNZIONARIO DI POLIZIA LOCALE",
-"ente": "Comune di Parabiago",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=aa5708a9b4e3418ea4c36565950ee410",
-"struttura_letta": {}
 },
 {
 "id": "1ddf162ebbfa480c8ace7112bcea019c",
@@ -9449,42 +9705,6 @@
 "soglia30": {
 "valore": 21,
 "frase": "Saranno ammessi alla prova orale i candidati che avranno riportato nella prova scritta una votazione di almeno 21/30"
-}
-}
-},
-{
-"id": "93bed3de00c14255a6300f71ec375bbf",
-"profilo": "istruttore-contabile",
-"titolo": "avviso di selezione pubblica, per esami, per la copertura di n. 1 (un) posto a tempo pieno e indeterminato al profilo professionale di istruttore contabile – area degli istruttori – da assegnare al comune di montefiorino",
-"figura": "Istruttore Contabile Area degli Istruttori",
-"ente": "Unione Dei Comuni del Distretto Ceramico - Settore Amministrazione e Sviluppo Risorse Umane",
-"posti": 1,
-"scade": "2026-11-23",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=93bed3de00c14255a6300f71ec375bbf",
-"struttura_letta": {
-"soglia30": {
-"valore": 21,
-"frase": "enti/materie di cui alla prova orale; (Si precisa che accederanno alla prova orale i candidati che avranno riportato nella prova scritta il punteggio minimo di 21/30) Per la prova orale (tecnico attitudinale) la commissione verrà integrata da un esperto in Psicologia del Lavoro"
-}
-}
-},
-{
-"id": "c51e0285ee27478281f1d6b92936cec6",
-"profilo": "istruttore-tecnico",
-"titolo": "COMUNE DI VILLA BARTOLOMEA: CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE SERVIZI TECNICI, AREA DEGLI ISTRUTTORI (EX CAT. C)- A TEMPO PIENO E INDETERMINATO PRESSO IL SERVIZIO TECNICO",
-"figura": "istruttore tecnico",
-"ente": "Comune di Villa Bartolomea",
-"posti": 1,
-"scade": "2026-11-22",
-"link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c51e0285ee27478281f1d6b92936cec6",
-"struttura_letta": {
-"quesiti": {
-"valore": 30,
-"frase": "30 domande a scelta multipla relative alle materie indicate nel presente bando per le prove scritte del concorso, che verrà effettuata con l’utilizzo di strumenti informa"
-},
-"soglia30": {
-"valore": 21,
-"frase": "L’eventuale preselezione si intenderà superata da parte dei concorrenti che avranno conseguito una votazione minima di 21/30: tale votazione non concorrerà alla formazione del punteggio utile per l’inserimento nella g"
 }
 }
 },
