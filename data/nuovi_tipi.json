@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 27,
-  "posti": 265,
+  "bandi": 28,
+  "posti": 266,
   "esempi": [
+   {
+    "id": "238b4f90a4d34763935b16edb38b9edb",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per n. 1 ACADEMIC & CONTINUING EDUCATION SERVICE OFFICER",
+    "figura": "ACADEMIC & CONTINUING EDUCATION",
+    "ente": "Politecnico di Milano",
+    "posti": 1,
+    "scade": "2026-12-23",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=238b4f90a4d34763935b16edb38b9edb"
+   },
    {
     "id": "5e171804e8df46c5954b6f8b15369d1d",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-12-04",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=053841218dff422ea7c71748cc2c9475"
-   },
-   {
-    "id": "ee24d25d8a1d4e1ba2ffc8260d4b6734",
-    "profilo": null,
-    "titolo": "Comune di Dogliani - BANDO DI CONCORSO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE DI POLIZIA LOCALE E COMMERCIO, A TEMPO PIENO ED INDETERMINATO, DA ASSEGNARE ALL'AREA SERVIZI DI VIGILANZA - CON RISERVA PER I MILITARI",
-    "figura": "ISTTRUTTORE DI POLIZIA LOCALE E COMMERCIO",
-    "ente": "Comune di Dogliani",
-    "posti": 1,
-    "scade": "2026-12-09",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ee24d25d8a1d4e1ba2ffc8260d4b6734"
    }
   ]
  },
@@ -85,8 +85,8 @@
  },
  {
   "gruppo": "docente universitario/AFAM",
-  "bandi": 41,
-  "posti": 47,
+  "bandi": 40,
+  "posti": 46,
   "esempi": [
    {
     "id": "6deca47599964807af2f6d666f423efb",
@@ -142,9 +142,39 @@
  },
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
-  "bandi": 17,
-  "posti": 18,
+  "bandi": 19,
+  "posti": 26,
   "esempi": [
+   {
+    "id": "c6f22eeb993a49a8b6d29707f404d597",
+    "profilo": null,
+    "titolo": "9/2026 - CONCORSO PUBBLICO PER TITOLI ED ESAMI, RISERVATO AL PERSONALE IN POSSESSO DEI REQUISITI DI CUI ALL’ART. 1 COMMA 312 DELLA LEGGE 30 DICEMBRE 2025 N. 199, PER L’ASSUNZIONE CON CONTRATTO DI LAVORO A TEMPO PIENO E INDETERMINATO DI N. 6 UNITÀ DI PERSONALE NEL PROFILO DI RICERCATORE – III LIVELLO",
+    "figura": "Ricercatore - III livello professionale",
+    "ente": "Stazione Zoologica",
+    "posti": 6,
+    "scade": "2026-12-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c6f22eeb993a49a8b6d29707f404d597"
+   },
+   {
+    "id": "43f682bc58cb4d4cb1840704097c4c75",
+    "profilo": null,
+    "titolo": "AGENTE DI POLIZIA LOCALE - AREA DEGLI ISTRUTTORI (EX CAT.C)",
+    "figura": "\"AGENTE DI POLIZIA LOCALE” - AREA DEGLI ISTRUTTORI (EX CAT. C) DA ASSEGNARE ALL’AREA POLIZIA LOCALE E PROTEZIONE CIVILE.",
+    "ente": "Comune di Cantu'",
+    "posti": 2,
+    "scade": "2026-12-24",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43f682bc58cb4d4cb1840704097c4c75"
+   },
+   {
+    "id": "6710f07868c943d98e8b4e35717b6bcf",
+    "profilo": null,
+    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per n. 1 Research Career Development Coordinator",
+    "figura": "Research Career Development Coordinator",
+    "ente": "Politecnico di Milano",
+    "posti": 1,
+    "scade": "2026-12-23",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6710f07868c943d98e8b4e35717b6bcf"
+   },
    {
     "id": "75d35ef05c984decbbd6cd0324dd0e71",
     "profilo": null,
@@ -164,54 +194,14 @@
     "posti": 1,
     "scade": "2026-12-21",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=204cdfc29e404e52945d3a30d951b896"
-   },
-   {
-    "id": "ed27fbc4ad50422894c012fc65bbd92b",
-    "profilo": null,
-    "titolo": "Concorso pubblico per titoli ed esame, per il reclutamento di un Ricercatore, Terzo Livello Professionale, con contratto di lavoro a tempo determinato e regime di impegno a tempo pieno, della durata di due anni, prorogabile, dal titolo \"Analisi dei.. Cod: 2026INAFRIC-IAM-MOONS-002",
-    "figura": "Ricercatore III Livello",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 1,
-    "scade": "2026-12-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ed27fbc4ad50422894c012fc65bbd92b"
-   },
-   {
-    "id": "e379aae44de946799068b81ef07d45bb",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER L’ASSUNZIONE CON CONTRATTO DI LAVORO SUBORDINATO A TEMPO PIENO E INDETERMINATO DI N. 1 RICERCATORE DI III LIVELLO PROFESSIONALE DEL C.C.N.L. ISTRUZIONE E RICERCA, AREA SCIENTIFICA: MICROSCOPIA AVANZATA E SCIENZA DEI MATERIALI. RIFERIMENTO BANDO 05/2026",
-    "figura": "RICERCATORE",
-    "ente": "Area Science Park",
-    "posti": 1,
-    "scade": "2026-12-15",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e379aae44de946799068b81ef07d45bb"
-   },
-   {
-    "id": "470ffece4b2c4e2da971c6af05bda8da",
-    "profilo": null,
-    "titolo": "Concorso pubblico per titoli ed esame, per il reclutamento di un \"Ricercatore\", Terzo Livello Professionale, con contratto di lavoro a tempo determinato, della durata di un anno, per le esigenze del Progetto denominato “Accordo PRORIS-SPADE”. Cod: 2026INAFRIC-AOR-SPADE-043",
-    "figura": "Ricercatore",
-    "ente": "Istituto Nazionale di Astrofisica - INAF",
-    "posti": 1,
-    "scade": "2026-12-16",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=470ffece4b2c4e2da971c6af05bda8da"
    }
   ]
  },
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
-  "bandi": 6,
-  "posti": 11,
+  "bandi": 5,
+  "posti": 10,
   "esempi": [
-   {
-    "id": "b69f58e359c449cca6be1bd98253cd43",
-    "profilo": null,
-    "titolo": "CONSORZIO I.R.I.S. - BANDO DI SELEZIONE PUBBLICA, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO PSICOLOGO, AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE DEL VIGENTE C.C.N.L. COMPARTO FUNZIONI LOCALI, A TEMPO DETERMINATO DI 1 ANNO, EVENTUALMENTE RINNOVABILE, E A TEMPO PARZIALE DI 12 OR",
-    "figura": "FUNZIONARIO PSICOLOGO",
-    "ente": "Consorzio Intercomunale Servizi Socio Assistenziali IRIS di Biella",
-    "posti": 1,
-    "scade": "2026-11-23",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b69f58e359c449cca6be1bd98253cd43"
-   },
    {
     "id": "4f7ae77864a24f4486a2d4b8350de88d",
     "profilo": null,
@@ -251,13 +241,23 @@
     "posti": 1,
     "scade": "2026-11-25",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2710da8056e24e079c0caa529180cdc7"
+   },
+   {
+    "id": "03ffdcbfc3fb4db19bb691a3a9246aeb",
+    "profilo": null,
+    "titolo": "Revoca concorso pubblico per n. 6 posti di Dirigente Psicologo",
+    "figura": "Dirigente Psicologo",
+    "ente": "Azienda Sanitaria Provinciale Ragusa",
+    "posti": 6,
+    "scade": "2027-08-05",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=03ffdcbfc3fb4db19bb691a3a9246aeb"
    }
   ]
  },
  {
   "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 8,
-  "posti": 9,
+  "bandi": 6,
+  "posti": 6,
   "esempi": [
    {
     "id": "47d05c78f9ce478e83bc7c504308fe8e",
@@ -300,22 +300,32 @@
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7639aa8b69f3432aa286ba932dd828a3"
    },
    {
-    "id": "6ac178f4ae5045a9962b79180d0de062",
+    "id": "ac4e2fbe04af408da804d43c1aba5c74",
     "profilo": null,
-    "titolo": "SELEZIONE PER SOLI ESAMI PER N. 1 POSTO DI DIRIGENTE A TEMPO PIENO E INDETERMINATO PRESSO L’UNIONE RENO GALLIERA – AREA SERVIZI ALLA PERSONA",
+    "titolo": "COMUNE DI VALDAGNO - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI DIRIGENTE (CCNL AREA FUNZIONI LOCALI) PER LA \"DIREZIONE ORGANIZZAZIONE E TRASFORMAZIONE DIGITALE\"",
     "figura": "Dirigente",
-    "ente": "Unione Reno Galliera",
+    "ente": "Comune di Valdagno",
     "posti": 1,
-    "scade": "2026-11-24",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6ac178f4ae5045a9962b79180d0de062"
+    "scade": "2026-11-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
    }
   ]
  },
  {
   "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 3,
-  "posti": 3,
+  "bandi": 4,
+  "posti": 4,
   "esempi": [
+   {
+    "id": "3997b5b28c424d9fb3430133566d395f",
+    "profilo": null,
+    "titolo": "D.D.G. n. 12776/2026-Procedura selettiva per titoli ed esami, n. 1 posto di Tecnologo a tempo pieno e determinato per la durata di 24 mesi, posizione economica EP1, da destinare al Dipartimenti di Scienze della Terra e del Mare (DiSTeM).",
+    "figura": "Tecnologo",
+    "ente": "Universita' degli Studi di Palermo",
+    "posti": 1,
+    "scade": "2026-12-09",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3997b5b28c424d9fb3430133566d395f"
+   },
    {
     "id": "b877f23b63fb4b54b97861a07c780bf6",
     "profilo": null,
