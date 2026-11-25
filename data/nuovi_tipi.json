@@ -1,8 +1,8 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 28,
-  "posti": 266,
+  "bandi": 27,
+  "posti": 265,
   "esempi": [
    {
     "id": "238b4f90a4d34763935b16edb38b9edb",
@@ -203,6 +203,16 @@
   "posti": 10,
   "esempi": [
    {
+    "id": "0705bd20034c40a0bb296bb0cfadf813",
+    "profilo": null,
+    "titolo": "Azienda sanitaria universitaria integrata del Trentino - concorso pubblico per esami per la copertura a tempo pieno ed indeterminato di n. 1 posto di Collaboratore professionale sanitario – Ortottista assistente in oftalmologia",
+    "figura": "COLLABORATORE PROFESSIONALE SANITARIO - ORTOTTISTA ASSISTENTE IN OFTALMOLOGIA",
+    "ente": "Azienda sanitaria universitaria integrata del Trentino",
+    "posti": 1,
+    "scade": "2026-12-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0705bd20034c40a0bb296bb0cfadf813"
+   },
+   {
     "id": "4f7ae77864a24f4486a2d4b8350de88d",
     "profilo": null,
     "titolo": "PROCEDURA SELETTIVA AI FINI DI STABILIZZAZIONE AI SENSI DELL'ART. 1 C. 268, LETT. B) DELLA L. 234/2021 E S.M.I., PER LA COPERTURA DI N.1 POSTO A TEMPO INDETERMINATO DI DIRIGENTE PSICOLOGO",
@@ -233,16 +243,6 @@
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=23392addf93546b082346802d0548831"
    },
    {
-    "id": "2710da8056e24e079c0caa529180cdc7",
-    "profilo": null,
-    "titolo": "Università di Padova - Concorso pubblico n. 2026N28, per esami, per l’assunzione a tempo indeterminato e pieno di n. 1 persona nell’Area dei Funzionari, Settore Scientifico-tecnologico, presso l’Università degli Studi di Padova. Tecnico di laboratorio di Anatomia macro e microscopica, biologia molec",
-    "figura": "Tecnico di laboratorio di Anatomia macro e microscopica, biologia molecolare e culture cellulari.",
-    "ente": "Universita' degli Studi di Padova",
-    "posti": 1,
-    "scade": "2026-11-25",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2710da8056e24e079c0caa529180cdc7"
-   },
-   {
     "id": "03ffdcbfc3fb4db19bb691a3a9246aeb",
     "profilo": null,
     "titolo": "Revoca concorso pubblico per n. 6 posti di Dirigente Psicologo",
@@ -255,67 +255,20 @@
   ]
  },
  {
-  "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 6,
-  "posti": 6,
-  "esempi": [
-   {
-    "id": "47d05c78f9ce478e83bc7c504308fe8e",
-    "profilo": null,
-    "titolo": "Comune di Bergamo - Concorso pubblico, per titoli ed esami, per n. 1 unità di personale con profilo professionale di \"Dirigente\" – Ambito dei Servizi Tecnici - Tempo pieno e indeterminato",
-    "figura": "Dirigente",
-    "ente": "Comune di Bergamo - SERVIZIO RISORSE UMANE",
-    "posti": 1,
-    "scade": "2026-12-14",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=47d05c78f9ce478e83bc7c504308fe8e"
-   },
-   {
-    "id": "14129131ec8d4bcb8e76a15e47892202",
-    "profilo": null,
-    "titolo": "Comune di Mentana - Concorso pubblico, per titoli ed esami, per due dirigenti a tempo pieno e indeterminato: Area 4 - Polizia locale (profilo A) e Area 5 - Sviluppo territoriale (profilo B)",
-    "figura": "Dirigente",
-    "ente": "Comune di Mentana",
-    "posti": 1,
-    "scade": "2026-12-02",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14129131ec8d4bcb8e76a15e47892202"
-   },
-   {
-    "id": "a6f6730456354d5594665cdc155fa2d9",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per la copertura di n. 1 posto a tempo pieno e indeterminato Dirigente del Settore 2° Sicurezza e Servizi Generali – Area Dirigenza CCNL Funzioni Locali 2022-2024.",
-    "figura": "DIRIGENTE - AREA DIRIGENZA CCNL FUNZIONI LOCALI 2022-2024",
-    "ente": "Comune di Alghero",
-    "posti": 1,
-    "scade": "2026-12-13",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6f6730456354d5594665cdc155fa2d9"
-   },
-   {
-    "id": "7639aa8b69f3432aa286ba932dd828a3",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per titoli ed esami, per la copertura di un posto di Dirigente di II Fascia, a tempo indeterminato e pieno, per le esigenze della Direzione Edilizia, Innovazione Digitale e Sostenibilità Ambientale dell’Università di Foggia (Cod. 5/2026)",
-    "figura": "Dirigente di II Fascia",
-    "ente": "Universita' degli Studi di Foggia",
-    "posti": 1,
-    "scade": "2026-11-24",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7639aa8b69f3432aa286ba932dd828a3"
-   },
-   {
-    "id": "ac4e2fbe04af408da804d43c1aba5c74",
-    "profilo": null,
-    "titolo": "COMUNE DI VALDAGNO - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI DIRIGENTE (CCNL AREA FUNZIONI LOCALI) PER LA \"DIREZIONE ORGANIZZAZIONE E TRASFORMAZIONE DIGITALE\"",
-    "figura": "Dirigente",
-    "ente": "Comune di Valdagno",
-    "posti": 1,
-    "scade": "2026-11-28",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
-   }
-  ]
- },
- {
   "gruppo": "tecnologo universitario / progetto di ricerca",
-  "bandi": 4,
-  "posti": 4,
+  "bandi": 5,
+  "posti": 5,
   "esempi": [
+   {
+    "id": "053be63806844ccfb98e94a411d559fb",
+    "profilo": null,
+    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILAN0 - CONCORSO PUBBLICO, PER TITOLI ED ESAMI, A N. 1 UNITÀ DI TECNOLOGO DI SECONDO LIVELLO, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO DETERMINATO E PIENO PRESSO IL DIPARTIMENTO DI SCIENZE SOCIALI E POLITICHE(COD. 22717)",
+    "figura": "Tecnologo di secondo livello",
+    "ente": "Universita Degli Studi di Milano",
+    "posti": 1,
+    "scade": "2026-12-10",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=053be63806844ccfb98e94a411d559fb"
+   },
    {
     "id": "3997b5b28c424d9fb3430133566d395f",
     "profilo": null,
@@ -355,6 +308,63 @@
     "posti": 1,
     "scade": "2026-12-03",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43140ff44fc44fd594a20e141dfb32ea"
+   }
+  ]
+ },
+ {
+  "gruppo": "dirigente tecnico / altri dirigenti",
+  "bandi": 5,
+  "posti": 5,
+  "esempi": [
+   {
+    "id": "47d05c78f9ce478e83bc7c504308fe8e",
+    "profilo": null,
+    "titolo": "Comune di Bergamo - Concorso pubblico, per titoli ed esami, per n. 1 unità di personale con profilo professionale di \"Dirigente\" – Ambito dei Servizi Tecnici - Tempo pieno e indeterminato",
+    "figura": "Dirigente",
+    "ente": "Comune di Bergamo - SERVIZIO RISORSE UMANE",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=47d05c78f9ce478e83bc7c504308fe8e"
+   },
+   {
+    "id": "14129131ec8d4bcb8e76a15e47892202",
+    "profilo": null,
+    "titolo": "Comune di Mentana - Concorso pubblico, per titoli ed esami, per due dirigenti a tempo pieno e indeterminato: Area 4 - Polizia locale (profilo A) e Area 5 - Sviluppo territoriale (profilo B)",
+    "figura": "Dirigente",
+    "ente": "Comune di Mentana",
+    "posti": 1,
+    "scade": "2026-12-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14129131ec8d4bcb8e76a15e47892202"
+   },
+   {
+    "id": "a6f6730456354d5594665cdc155fa2d9",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per la copertura di n. 1 posto a tempo pieno e indeterminato Dirigente del Settore 2° Sicurezza e Servizi Generali – Area Dirigenza CCNL Funzioni Locali 2022-2024.",
+    "figura": "DIRIGENTE - AREA DIRIGENZA CCNL FUNZIONI LOCALI 2022-2024",
+    "ente": "Comune di Alghero",
+    "posti": 1,
+    "scade": "2026-12-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6f6730456354d5594665cdc155fa2d9"
+   },
+   {
+    "id": "ac4e2fbe04af408da804d43c1aba5c74",
+    "profilo": null,
+    "titolo": "COMUNE DI VALDAGNO - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI DIRIGENTE (CCNL AREA FUNZIONI LOCALI) PER LA \"DIREZIONE ORGANIZZAZIONE E TRASFORMAZIONE DIGITALE\"",
+    "figura": "Dirigente",
+    "ente": "Comune di Valdagno",
+    "posti": 1,
+    "scade": "2026-11-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
+   },
+   {
+    "id": "d1e85bececa04590b9a20a485bc36c33",
+    "profilo": null,
+    "titolo": "Pubblico Concorso, per titoli ed esami, per la copertura a tempo indeterminato di n. 1 posto di Dirigente Analista – Area Comunicazione, da destinare all’Azienda Ospedaliera Universitaria di Cagliari",
+    "figura": "DIRIGENTE ANALISTA",
+    "ente": "AZIENDA REGIONALE DELLA SALUTE REGIONE SARDEGNA",
+    "posti": 1,
+    "scade": "2026-11-26",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1e85bececa04590b9a20a485bc36c33"
    }
   ]
  },
