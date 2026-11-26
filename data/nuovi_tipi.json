@@ -1,9 +1,19 @@
 [
  {
   "gruppo": "ALTRO",
-  "bandi": 27,
-  "posti": 265,
+  "bandi": 26,
+  "posti": 262,
   "esempi": [
+   {
+    "id": "21c1a83858574b70b32cc9c53b26c2b4",
+    "profilo": null,
+    "titolo": "COMUNE DI VIMODRONE - BANDO DI CONCORSO PUBBLICO PER SOLI ESAMI, PER L’ASSUNZIONE CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO E A TEMPO PIENO DI N.2 UNITA’ DI AGENTE DI POLIZIA LOCALE AREA ISTRUTTORI (EX CAT C) CON 1 RISERVA A FAVORE DEGLI OPERATORI VOLONTARI CHE HANNO CONCLUSO IL SERVIZIO CIVILE U",
+    "figura": "agente",
+    "ente": "Comune di Vimodrone",
+    "posti": 2,
+    "scade": "2026-12-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=21c1a83858574b70b32cc9c53b26c2b4"
+   },
    {
     "id": "238b4f90a4d34763935b16edb38b9edb",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 8,
     "scade": "2026-12-18",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1a3c43e8edf5420a89f789ff3d1cd5f4"
-   },
-   {
-    "id": "053841218dff422ea7c71748cc2c9475",
-    "profilo": null,
-    "titolo": "UNIVERSITÀ DEGLI STUDI DI MILANO - CONCORSO PUBBLICO, PER ESAMI, PER IL RECLUTAMENTO DI N. 1 UNITÀ DI PERSONALE AFFERENTE ALL’AREA DEI FUNZIONARI – SETTORE SCIENTIFICO-TECNOLOGICO, CON RAPPORTO DI LAVORO SUBORDINATO A TEMPO INDETERMINATO E PIENO PRESSO IL CTU - CENTRO PER L'INNOVAZIONE DIDATTICA E L",
-    "figura": "Area dei Funzionari",
-    "ente": "Universita Degli Studi di Milano",
-    "posti": 1,
-    "scade": "2026-12-04",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=053841218dff422ea7c71748cc2c9475"
    }
   ]
  },
@@ -143,8 +143,18 @@
  {
   "gruppo": "ricercatore / borsista / incarichi di ricerca",
   "bandi": 19,
-  "posti": 26,
+  "posti": 25,
   "esempi": [
+   {
+    "id": "c2a8661b46ac4435abb9efe5b0e81ad6",
+    "profilo": null,
+    "titolo": "COMUNE DI BARDOLINO (VR) - CONCORSO PUBBLICO PER ESAMI PER L’ASSUNZIONE DI UNA UNITA’ APPARTENENTE ALL’AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONE CON RAPPORTO DI LAVORO A TEMPO PIENO E INDETERMINATO - DA ASSEGNARE ALL’AREA ECONOMICO-FINANZIARIA E CON POSSIBILITÀ DI ATTRIBUZIONE DI UN INCARIC",
+    "figura": "Funzionari e della Elevata Qualificazione da assegnare all’Area Economico-Finanziaria",
+    "ente": "Comune di Bardolino",
+    "posti": 1,
+    "scade": "2026-12-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c2a8661b46ac4435abb9efe5b0e81ad6"
+   },
    {
     "id": "c6f22eeb993a49a8b6d29707f404d597",
     "profilo": null,
@@ -184,16 +194,6 @@
     "posti": 1,
     "scade": "2026-12-21",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=75d35ef05c984decbbd6cd0324dd0e71"
-   },
-   {
-    "id": "204cdfc29e404e52945d3a30d951b896",
-    "profilo": null,
-    "titolo": "Politecnico di Milano - Avviso di selezione pubblica per n. 1 Research Legal Advisor",
-    "figura": "Research Legal Advisor",
-    "ente": "Politecnico di Milano",
-    "posti": 1,
-    "scade": "2026-12-21",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=204cdfc29e404e52945d3a30d951b896"
    }
   ]
  },
