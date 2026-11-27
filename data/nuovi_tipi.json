@@ -2,8 +2,18 @@
  {
   "gruppo": "ALTRO",
   "bandi": 26,
-  "posti": 262,
+  "posti": 267,
   "esempi": [
+   {
+    "id": "3eed4c89f1334204a45f9066d568d840",
+    "profilo": null,
+    "titolo": "Ruolo speciale str. Sanitario AM 2026",
+    "figura": "UFFICIALI",
+    "ente": "Ministero della Difesa - SEGREDIFESA - Direzione Generale per il Personale Militare I Reparto",
+    "posti": 6,
+    "scade": "2026-12-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3eed4c89f1334204a45f9066d568d840"
+   },
    {
     "id": "21c1a83858574b70b32cc9c53b26c2b4",
     "profilo": null,
@@ -43,16 +53,6 @@
     "posti": 1,
     "scade": "2026-12-21",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7d61a9f2ca974532a546255994af3324"
-   },
-   {
-    "id": "1a3c43e8edf5420a89f789ff3d1cd5f4",
-    "profilo": null,
-    "titolo": "CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 8 POSTI DI GUARDIA PARTICOLARE GIURATA ARMATA - AREA DEGLI OPERATORI ESPERTI, CON RISERVA DI N. 3 POSTI AI VOLONTARI DELLE FF.AA. AI SENSI DEGLI ARTT. 1014 COMMI 3 E 4 E 678 COMMA 9 DEL D.LGS. 66/2010 E SS.MM.II. E DI",
-    "figura": "GUARDIA PARTICOLARE GIURATA ARMATA",
-    "ente": "Comune di Cagliari",
-    "posti": 8,
-    "scade": "2026-12-18",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1a3c43e8edf5420a89f789ff3d1cd5f4"
    }
   ]
  },
@@ -86,8 +86,18 @@
  {
   "gruppo": "docente universitario/AFAM",
   "bandi": 40,
-  "posti": 46,
+  "posti": 45,
   "esempi": [
+   {
+    "id": "7dccec8699b74f95bb78089e489b461e",
+    "profilo": null,
+    "titolo": "CONCORSO PER TITOLI ED ESAMI PER IL RECLUTAMENTO A TEMPO PIENO ED INDETERMINATO DI UN FUNZIONARIO TECNICO INFORMATICO",
+    "figura": "Personale T.A. AFAM Funzionario Tecnico Informatico",
+    "ente": "Istituto Superiore di Studi Musicali Vincenzo Bellini di Caltanissetta",
+    "posti": 1,
+    "scade": "2026-12-31",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7dccec8699b74f95bb78089e489b461e"
+   },
    {
     "id": "6deca47599964807af2f6d666f423efb",
     "profilo": null,
@@ -127,16 +137,6 @@
     "posti": 1,
     "scade": "2026-12-20",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a5b802f955a14199903fc4396e87b13d"
-   },
-   {
-    "id": "e3527970b6854ec8bb2de3e8b1f900a7",
-    "profilo": null,
-    "titolo": "BANDO PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI DOCENTI NEI CONSERVATORI DI MUSICA – DPR 83/2024 A.A. 2026/2027 AFAM029 STRUMENTI A FIATO PER I NUOVI LINGUAGGI MUSICALI (EX COMJ/06: SAXOFONO JAZZ)",
-    "figura": "DOCENTE DI PRIMA FASCIA",
-    "ente": "Conservatorio di Musica Giuseppe Verdi di Milano",
-    "posti": 1,
-    "scade": "2026-12-20",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e3527970b6854ec8bb2de3e8b1f900a7"
    }
   ]
  },
@@ -200,8 +200,18 @@
  {
   "gruppo": "dirigente sanitario / psicologo / altre professioni sanitarie dirigenziali",
   "bandi": 5,
-  "posti": 10,
+  "posti": 13,
   "esempi": [
+   {
+    "id": "42311d40cccd4addbaf0f91117302aeb",
+    "profilo": null,
+    "titolo": "AVVISO PUBBLICO DI SELEZIONE PER ESAMI PER L'ASSUNZIONE DI N. 4 UNITÀ DI PERSONALE CON CONTRATTO DI LAVORO A TEMPO PARZIALE (18 ore) E DETERMINATO (36 MESI), DA DESTINARE AL CENTRO FAMIGLIA, INQUADRATE NELL'AREA DEI FUNZIONARI DEL CCNL COMPARTO FUNZIONI LOCALI.",
+    "figura": "FUNZIONARIO PSICOLOGO - FUNZIONARIO EDUCATORE PROFESSIONALE - FUNZIONARIO MEDIATORE FAMILIARE",
+    "ente": "AZIENDA SPECIALE SELE INCLUSIONE - AZIENDA TERRITORIALE PER I SERVIZI ALLA PERSONA",
+    "posti": 4,
+    "scade": "2026-12-27",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=42311d40cccd4addbaf0f91117302aeb"
+   },
    {
     "id": "0705bd20034c40a0bb296bb0cfadf813",
     "profilo": null,
@@ -233,16 +243,6 @@
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fed7f33bd6ce448dbf54d5ebc4041c53"
    },
    {
-    "id": "23392addf93546b082346802d0548831",
-    "profilo": null,
-    "titolo": "INDIZIONE CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO INDETERMINATO DI N. 1 POSTO DI ORTOTTISTA – AREA DEI PROFESSIONISTI DELLA SALUTE E DEI FUNZIONARI",
-    "figura": "Ortottista",
-    "ente": "Azienda Socio Sanitaria Territoriale della Valtellina e dell'Alto Lario",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=23392addf93546b082346802d0548831"
-   },
-   {
     "id": "03ffdcbfc3fb4db19bb691a3a9246aeb",
     "profilo": null,
     "titolo": "Revoca concorso pubblico per n. 6 posti di Dirigente Psicologo",
@@ -251,6 +251,63 @@
     "posti": 6,
     "scade": "2027-08-05",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=03ffdcbfc3fb4db19bb691a3a9246aeb"
+   }
+  ]
+ },
+ {
+  "gruppo": "dirigente tecnico / altri dirigenti",
+  "bandi": 5,
+  "posti": 5,
+  "esempi": [
+   {
+    "id": "6bcf4dca546f40e9b8519fc81acd6806",
+    "profilo": null,
+    "titolo": "Bando di concorso pubblico per esami per la copertura a tempo indeterminato del posto di Dirigente del 2° Settore \"Lavori Pubblici\" - COMUNE DI CONEGLIANO (TV)",
+    "figura": "Dirigente",
+    "ente": "Comune di Conegliano",
+    "posti": 1,
+    "scade": "2026-12-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6bcf4dca546f40e9b8519fc81acd6806"
+   },
+   {
+    "id": "47d05c78f9ce478e83bc7c504308fe8e",
+    "profilo": null,
+    "titolo": "Comune di Bergamo - Concorso pubblico, per titoli ed esami, per n. 1 unità di personale con profilo professionale di \"Dirigente\" – Ambito dei Servizi Tecnici - Tempo pieno e indeterminato",
+    "figura": "Dirigente",
+    "ente": "Comune di Bergamo - SERVIZIO RISORSE UMANE",
+    "posti": 1,
+    "scade": "2026-12-14",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=47d05c78f9ce478e83bc7c504308fe8e"
+   },
+   {
+    "id": "14129131ec8d4bcb8e76a15e47892202",
+    "profilo": null,
+    "titolo": "Comune di Mentana - Concorso pubblico, per titoli ed esami, per due dirigenti a tempo pieno e indeterminato: Area 4 - Polizia locale (profilo A) e Area 5 - Sviluppo territoriale (profilo B)",
+    "figura": "Dirigente",
+    "ente": "Comune di Mentana",
+    "posti": 1,
+    "scade": "2026-12-02",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14129131ec8d4bcb8e76a15e47892202"
+   },
+   {
+    "id": "a6f6730456354d5594665cdc155fa2d9",
+    "profilo": null,
+    "titolo": "Concorso pubblico, per la copertura di n. 1 posto a tempo pieno e indeterminato Dirigente del Settore 2° Sicurezza e Servizi Generali – Area Dirigenza CCNL Funzioni Locali 2022-2024.",
+    "figura": "DIRIGENTE - AREA DIRIGENZA CCNL FUNZIONI LOCALI 2022-2024",
+    "ente": "Comune di Alghero",
+    "posti": 1,
+    "scade": "2026-12-13",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6f6730456354d5594665cdc155fa2d9"
+   },
+   {
+    "id": "ac4e2fbe04af408da804d43c1aba5c74",
+    "profilo": null,
+    "titolo": "COMUNE DI VALDAGNO - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI DIRIGENTE (CCNL AREA FUNZIONI LOCALI) PER LA \"DIREZIONE ORGANIZZAZIONE E TRASFORMAZIONE DIGITALE\"",
+    "figura": "Dirigente",
+    "ente": "Comune di Valdagno",
+    "posti": 1,
+    "scade": "2026-11-28",
+    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
    }
   ]
  },
@@ -312,63 +369,6 @@
   ]
  },
  {
-  "gruppo": "dirigente tecnico / altri dirigenti",
-  "bandi": 5,
-  "posti": 5,
-  "esempi": [
-   {
-    "id": "47d05c78f9ce478e83bc7c504308fe8e",
-    "profilo": null,
-    "titolo": "Comune di Bergamo - Concorso pubblico, per titoli ed esami, per n. 1 unità di personale con profilo professionale di \"Dirigente\" – Ambito dei Servizi Tecnici - Tempo pieno e indeterminato",
-    "figura": "Dirigente",
-    "ente": "Comune di Bergamo - SERVIZIO RISORSE UMANE",
-    "posti": 1,
-    "scade": "2026-12-14",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=47d05c78f9ce478e83bc7c504308fe8e"
-   },
-   {
-    "id": "14129131ec8d4bcb8e76a15e47892202",
-    "profilo": null,
-    "titolo": "Comune di Mentana - Concorso pubblico, per titoli ed esami, per due dirigenti a tempo pieno e indeterminato: Area 4 - Polizia locale (profilo A) e Area 5 - Sviluppo territoriale (profilo B)",
-    "figura": "Dirigente",
-    "ente": "Comune di Mentana",
-    "posti": 1,
-    "scade": "2026-12-02",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14129131ec8d4bcb8e76a15e47892202"
-   },
-   {
-    "id": "a6f6730456354d5594665cdc155fa2d9",
-    "profilo": null,
-    "titolo": "Concorso pubblico, per la copertura di n. 1 posto a tempo pieno e indeterminato Dirigente del Settore 2° Sicurezza e Servizi Generali – Area Dirigenza CCNL Funzioni Locali 2022-2024.",
-    "figura": "DIRIGENTE - AREA DIRIGENZA CCNL FUNZIONI LOCALI 2022-2024",
-    "ente": "Comune di Alghero",
-    "posti": 1,
-    "scade": "2026-12-13",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6f6730456354d5594665cdc155fa2d9"
-   },
-   {
-    "id": "ac4e2fbe04af408da804d43c1aba5c74",
-    "profilo": null,
-    "titolo": "COMUNE DI VALDAGNO - CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO DI DIRIGENTE (CCNL AREA FUNZIONI LOCALI) PER LA \"DIREZIONE ORGANIZZAZIONE E TRASFORMAZIONE DIGITALE\"",
-    "figura": "Dirigente",
-    "ente": "Comune di Valdagno",
-    "posti": 1,
-    "scade": "2026-11-28",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac4e2fbe04af408da804d43c1aba5c74"
-   },
-   {
-    "id": "d1e85bececa04590b9a20a485bc36c33",
-    "profilo": null,
-    "titolo": "Pubblico Concorso, per titoli ed esami, per la copertura a tempo indeterminato di n. 1 posto di Dirigente Analista – Area Comunicazione, da destinare all’Azienda Ospedaliera Universitaria di Cagliari",
-    "figura": "DIRIGENTE ANALISTA",
-    "ente": "AZIENDA REGIONALE DELLA SALUTE REGIONE SARDEGNA",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d1e85bececa04590b9a20a485bc36c33"
-   }
-  ]
- },
- {
   "gruppo": "docente (altro)",
   "bandi": 2,
   "posti": 3,
@@ -392,23 +392,6 @@
     "posti": 1,
     "scade": "2026-12-04",
     "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=69e6965bcf8c400da21a0724fef1d0db"
-   }
-  ]
- },
- {
-  "gruppo": "dirigente avvocato",
-  "bandi": 1,
-  "posti": 1,
-  "esempi": [
-   {
-    "id": "0c0ff359fc7a4183a35041b100948c81",
-    "profilo": null,
-    "titolo": "Pubblico Concorso, per titoli ed esami, per la copertura a tempo indeterminato di n. 1 posto di Dirigente Avvocato, da destinare all’Azienda Ospedaliera Universitaria di Cagliari.",
-    "figura": "DIRIGENTE AVVOCATO",
-    "ente": "AZIENDA REGIONALE DELLA SALUTE REGIONE SARDEGNA",
-    "posti": 1,
-    "scade": "2026-11-26",
-    "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0c0ff359fc7a4183a35041b100948c81"
    }
   ]
  },
